@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Uni Schedule Scraper v3//muv.mihoff.de//
+PRODID:-//Uni Schedule Scraper//muv.mihoff.de//
 X-WR-CALNAME:MU Varna Schedule (All Groups)
 X-WR-TIMEZONE:Europe/Sofia
 BEGIN:VEVENT

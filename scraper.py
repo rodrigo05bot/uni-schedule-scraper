@@ -5,6 +5,7 @@ using the official API (no Playwright needed).
 """
 
 import os
+import json
 import requests
 from datetime import datetime, timedelta
 from icalendar import Calendar, Event, Alarm
@@ -138,7 +139,7 @@ def generate_icalendar(events: list) -> str:
             # Lesson type
             lesson_type = event_data.get("lessonTypeEN", event_data.get("lessonType", ""))
             
-            # Group
+            # Group (NEW: extract and save group info)
             group = event_data.get("groupNames", "")
             
             # Parse datetime strings
@@ -158,7 +159,7 @@ def generate_icalendar(events: list) -> str:
             # Generate unique ID
             event.add('uid', f"{event_id}@muv.mihoff.de")
             
-            # Description in requested format
+            # Description in requested format (NOW WITH GROUP)
             desc_lines = []
             if lesson_type:
                 desc_lines.append(f"Activity: {lesson_type}")
@@ -170,6 +171,8 @@ def generate_icalendar(events: list) -> str:
                 desc_lines.append(f"Floor: {floor}")
             if teacher:
                 desc_lines.append(f"Lecturer: {teacher}")
+            if group:
+                desc_lines.append(f"Group: {group}")
             
             # Add UniID at the end for reference
             desc_lines.append(f"UniID: {event_id}")
@@ -198,6 +201,96 @@ def generate_icalendar(events: list) -> str:
             continue
     
     return cal.to_ical().decode('utf-8')
+
+
+def generate_json_data(events: list) -> dict:
+    """
+    Generate JSON data with events and extracted groups.
+    Returns dict with 'events' and 'groups' keys.
+    """
+    import json
+    
+    day_names = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+    processed_events = []
+    groups_found = set()
+    
+    for event_data in events:
+        try:
+            # Extract all fields
+            event_id = event_data.get("calendarEventId", "")
+            title_bg = event_data.get("fullLessonName", "Untitled")
+            title_en = event_data.get("fullLessonNameEN", title_bg)
+            start_str = event_data.get("start")
+            end_str = event_data.get("end")
+            
+            # Room and building
+            room = event_data.get("roomNumberEN", event_data.get("roomNumber", ""))
+            building = event_data.get("buildingEN", event_data.get("building", ""))
+            
+            # Floor
+            floor = event_data.get("floor", "")
+            
+            # Teacher
+            teacher = event_data.get("teacherNameEN", event_data.get("teacherName", ""))
+            
+            # Lesson type
+            lesson_type = event_data.get("lessonTypeEN", event_data.get("lessonType", ""))
+            
+            # Group (extract and track)
+            group = event_data.get("groupNames", "")
+            if group:
+                # Group can be comma-separated, split and add each
+                for g in group.split(','):
+                    g = g.strip()
+                    if g:
+                        groups_found.add(g)
+            
+            # Parse datetime
+            start_dt = parse_datetime(start_str)
+            end_dt = parse_datetime(end_str)
+            
+            if not start_dt or not end_dt:
+                continue
+            
+            # Format times
+            def format_time(dt):
+                return dt.astimezone(pytz.timezone('Europe/Sofia')).strftime('%H:%M')
+            
+            processed_events.append({
+                "id": event_id,
+                "title": title_en,
+                "titleBg": title_bg,
+                "date": start_dt.astimezone(pytz.timezone('Europe/Sofia')).strftime('%Y-%m-%d'),
+                "day": day_names[start_dt.astimezone(pytz.timezone('Europe/Sofia')).weekday()],
+                "time": f"{format_time(start_dt)}-{format_time(end_dt)}",
+                "start": start_str,
+                "end": end_str,
+                "type": lesson_type,
+                "room": room,
+                "building": building,
+                "floor": floor,
+                "lecturer": teacher,
+                "group": group,
+                "groups": [g.strip() for g in group.split(',') if g.strip()] if group else []
+            })
+            
+        except Exception as e:
+            print(f"⚠ Error processing event for JSON: {e}")
+            continue
+    
+    # Sort events by date and time
+    processed_events.sort(key=lambda e: (e['date'], e['time']))
+    
+    # Sort groups
+    sorted_groups = sorted(list(groups_found))
+    
+    return {
+        "events": processed_events,
+        "groups": sorted_groups,
+        "lastUpdate": datetime.now().isoformat(),
+        "totalEvents": len(processed_events),
+        "totalGroups": len(sorted_groups)
+    }
 
 
 def parse_datetime(dt_str: str):
@@ -257,14 +350,34 @@ def main():
     print("Generating iCalendar...")
     ical_content = generate_icalendar(events)
     
-    # Write to file
+    # Write ICS file
     output_file = "schedule.ics"
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(ical_content)
     
+    # Generate JSON data (events + groups)
+    print("Generating JSON data...")
+    json_data = generate_json_data(events)
+    
+    # Write schedule.json
+    with open("schedule.json", "w", encoding="utf-8") as f:
+        json.dump(json_data, f, indent=2, ensure_ascii=False)
+    
+    # Write groups.json (simple list for easy API access)
+    with open("groups.json", "w", encoding="utf-8") as f:
+        json.dump({
+            "groups": json_data["groups"],
+            "lastUpdate": json_data["lastUpdate"]
+        }, f, indent=2, ensure_ascii=False)
+    
     print("=" * 50)
     print(f"✓ Schedule saved to {output_file}")
+    print(f"✓ JSON data saved to schedule.json")
+    print(f"✓ Groups saved to groups.json")
     print(f"  Total events: {len(events)}")
+    print(f"  Total groups: {json_data['totalGroups']}")
+    if json_data['groups']:
+        print(f"  Groups found: {', '.join(json_data['groups'][:10])}{'...' if len(json_data['groups']) > 10 else ''}")
     print(f"  Reminder: {REMINDER_MINUTES} min before each class")
 
 

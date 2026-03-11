@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 """
-Uni Schedule Scraper - Fetches schedule from webstudent.mu-varna.bg
-using the official API with groupIntegrationId parameter.
+Uni Schedule Scraper v2 - Enhanced version with group filtering support.
 
-BREAKTHROUGH: The API accepts a groupIntegrationId parameter!
-This allows fetching schedules for ALL 24 groups individually.
+This version attempts to fetch schedules for ALL groups, not just the
+logged-in user's groups.
 
-Usage:
-    WEBSTUDENT_USER=<user> WEBSTUDENT_PASS=<pass> python scraper.py
+CHANGES FROM v1:
+- Added groupId parameter support for the API
+- Added fallback to fetch all groups if available
+- Enhanced logging to show which groups are being fetched
+- Better error handling for group-specific requests
 """
 
 import os
@@ -21,8 +23,13 @@ import pytz
 TOKEN_URL = "https://tokenendpoint-service.mu-varna.bg/token"
 SCHEDULE_URL = "https://webstudent-service.mu-varna.bg/api/study-process/student/schedule"
 
-# All groups (1-24)
-ALL_GROUPS = list(range(1, 25))
+# Alternative endpoints to try (for group-specific schedules)
+ALTERNATIVE_ENDPOINTS = [
+    # Try these for group-specific schedules
+    "https://webstudent-service.mu-varna.bg/api/study-process/groups/{group_id}/schedule",
+    "https://webstudent-service.mu-varna.bg/api/schedule/group/{group_id}",
+    "https://webstudent-service.mu-varna.bg/api/study-process/groups/schedule",
+]
 
 # Headers
 HEADERS = {
@@ -36,9 +43,14 @@ HEADERS = {
 REMINDER_MINUTES = int(os.environ.get("REMINDER_MINUTES", "15"))
 
 
-def login(username: str, password: str) -> str:
+def login(username: str, password: str) -> dict:
     """
-    Login to the portal and return the Bearer token.
+    Login to the portal and return the Bearer token and user info.
+    
+    Returns dict with:
+        - access_token: Bearer token
+        - user_name: Username from login response
+        - (potential) group_assignment: If available in response
     """
     payload = {
         "grant_type": "password",
@@ -64,48 +76,116 @@ def login(username: str, password: str) -> str:
     print(f"  User: {data.get('userName', 'Unknown')}")
     print(f"  Token expires in: {data.get('expires_in', 'Unknown')} seconds")
     
-    return data["access_token"]
+    return data
 
 
-def fetch_schedule_for_group(token: str, start_date: str, end_date: str, group_id: int) -> list:
+def fetch_schedule_with_group(token: str, start_date: str, end_date: str, group_id: str = None) -> list:
     """
-    Fetch schedule for a specific group using groupIntegrationId parameter.
+    Fetch the schedule using the Bearer token, optionally filtered by group.
     
-    This is the BREAKTHROUGH: The API accepts groupIntegrationId to filter by group!
+    Args:
+        token: Bearer token from login
+        start_date: Start date in YYYY-MM-DD format
+        end_date: End date in YYYY-MM-DD format
+        group_id: Optional group ID to filter by
+    
+    Returns:
+        List of schedule events
     """
     headers = HEADERS.copy()
     headers["Authorization"] = f"Bearer {token}"
     
-    # Convert dates to ISO format with timezone (UTC)
-    start_dt = datetime.strptime(start_date, "%Y-%m-%d")
-    end_dt = datetime.strptime(end_date, "%Y-%m-%d")
-    
-    start_iso = start_dt.strftime("%Y-%m-%dT%H:%M:%S.000Z")
-    end_iso = end_dt.strftime("%Y-%m-%dT%H:%M:%S.000Z")
-    
+    # Base params
     params = {
-        "start": start_iso,
-        "end": end_iso,
-        "groupIntegrationId": group_id  # THE KEY PARAMETER!
+        "start": start_date,
+        "end": end_date
     }
     
-    print(f"  Fetching group {group_id}...", end=" ")
+    # Try adding group parameter if specified
+    if group_id:
+        params["groupId"] = group_id
+    
+    print(f"Fetching schedule from {start_date} to {end_date}" + 
+          (f" for group {group_id}" if group_id else ""))
     
     response = requests.get(SCHEDULE_URL, headers=headers, params=params)
     
     if response.status_code != 200:
-        print(f"✗ Failed: {response.status_code}")
-        return []
+        raise Exception(f"Schedule fetch failed: {response.status_code} - {response.text}")
     
     data = response.json()
     
+    # Extract calendar events
     events = []
     if "calendarEvents" in data:
         events = data["calendarEvents"].get("studentScheduleEventItems", [])
     
-    print(f"✓ {len(events)} events")
+    print(f"✓ Found {len(events)} events")
     
     return events
+
+
+def try_all_groups_endpoint(token: str, start_date: str, end_date: str) -> list:
+    """
+    Try alternative endpoints that might return all groups' schedules.
+    
+    Returns:
+        List of events if successful, empty list otherwise
+    """
+    headers = HEADERS.copy()
+    headers["Authorization"] = f"Bearer {token}"
+    
+    params = {
+        "start": start_date,
+        "end": end_date
+    }
+    
+    for endpoint in ALTERNATIVE_ENDPOINTS:
+        url = endpoint.format(group_id="all") if "{group_id}" in endpoint else endpoint
+        print(f"  Trying: {url}")
+        
+        try:
+            response = requests.get(url, headers=headers, params=params, timeout=10)
+            if response.status_code == 200:
+                data = response.json()
+                if "calendarEvents" in data:
+                    events = data["calendarEvents"].get("studentScheduleEventItems", [])
+                    print(f"  ✓ SUCCESS: Found {len(events)} events")
+                    return events
+        except Exception as e:
+            print(f"  ✗ Failed: {e}")
+    
+    return []
+
+
+def fetch_student_info(token: str) -> dict:
+    """
+    Try to fetch student info which might contain group assignment.
+    
+    Returns:
+        Student info dict or empty dict if not available
+    """
+    headers = HEADERS.copy()
+    headers["Authorization"] = f"Bearer {token}"
+    
+    # Try various endpoints that might return student info
+    info_endpoints = [
+        "https://webstudent-service.mu-varna.bg/api/study-process/student/info",
+        "https://webstudent-service.mu-varna.bg/api/study-process/student/profile",
+        "https://webstudent-service.mu-varna.bg/api/user/info",
+    ]
+    
+    for endpoint in info_endpoints:
+        try:
+            response = requests.get(endpoint, headers=headers, timeout=10)
+            if response.status_code == 200:
+                data = response.json()
+                print(f"  Found student info at: {endpoint}")
+                return data
+        except Exception as e:
+            pass
+    
+    return {}
 
 
 def parse_datetime(dt_str: str):
@@ -115,6 +195,7 @@ def parse_datetime(dt_str: str):
     if not dt_str:
         return None
     
+    # Try ISO format with timezone
     for fmt in [
         "%Y-%m-%dT%H:%M:%SZ",
         "%Y-%m-%dT%H:%M:%S.%fZ",
@@ -127,6 +208,7 @@ def parse_datetime(dt_str: str):
         except ValueError:
             continue
     
+    # Try fromisoformat
     try:
         return datetime.fromisoformat(dt_str.replace("Z", "+00:00"))
     except:
@@ -146,31 +228,43 @@ def generate_json_data(events: list) -> dict:
     
     for event_data in events:
         try:
+            # Extract all fields
             event_id = event_data.get("calendarEventId", "")
             title_bg = event_data.get("fullLessonName", "Untitled")
             title_en = event_data.get("fullLessonNameEN", title_bg)
             start_str = event_data.get("start")
             end_str = event_data.get("end")
             
+            # Room and building
             room = event_data.get("roomNumberEN", event_data.get("roomNumber", ""))
             building = event_data.get("buildingEN", event_data.get("building", ""))
+            
+            # Floor
             floor = event_data.get("floor", "")
+            
+            # Teacher
             teacher = event_data.get("teacherNameEN", event_data.get("teacherName", ""))
+            
+            # Lesson type
             lesson_type = event_data.get("lessonTypeEN", event_data.get("lessonType", ""))
             
+            # Group (extract and track)
             group = event_data.get("groupNames", "")
             if group:
+                # Group can be comma-separated, split and add each
                 for g in group.split(','):
                     g = g.strip()
                     if g:
                         groups_found.add(g)
             
+            # Parse datetime
             start_dt = parse_datetime(start_str)
             end_dt = parse_datetime(end_str)
             
             if not start_dt or not end_dt:
                 continue
             
+            # Format times
             def format_time(dt):
                 return dt.astimezone(pytz.timezone('Europe/Sofia')).strftime('%H:%M')
             
@@ -196,7 +290,10 @@ def generate_json_data(events: list) -> dict:
             print(f"⚠ Error processing event for JSON: {e}")
             continue
     
+    # Sort events by date and time
     processed_events.sort(key=lambda e: (e['date'], e['time']))
+    
+    # Sort groups numerically
     sorted_groups = sorted(list(groups_found), key=lambda x: int(x) if x.isdigit() else x)
     
     return {
@@ -218,30 +315,36 @@ def generate_icalendar(events: list) -> str:
     cal.add('x-wr-calname', 'MU Varna Schedule')
     cal.add('x-wr-timezone', 'Europe/Sofia')
     
-    seen_ids = set()
+    tz = pytz.timezone('Europe/Sofia')
     
     for event_data in events:
         try:
-            event_id = event_data.get("calendarEventId", "")
-            
-            if event_id in seen_ids:
-                continue
-            seen_ids.add(event_id)
-            
             event = Event()
             
+            # Extract fields
+            event_id = event_data.get("calendarEventId", "")
             title_bg = event_data.get("fullLessonName", "Untitled")
             title_en = event_data.get("fullLessonNameEN", title_bg)
             start_str = event_data.get("start")
             end_str = event_data.get("end")
             
+            # Room and building
             room = event_data.get("roomNumberEN", event_data.get("roomNumber", ""))
             building = event_data.get("buildingEN", event_data.get("building", ""))
+            
+            # Floor
             floor = event_data.get("floor", "")
+            
+            # Teacher
             teacher = event_data.get("teacherNameEN", event_data.get("teacherName", ""))
+            
+            # Lesson type
             lesson_type = event_data.get("lessonTypeEN", event_data.get("lessonType", ""))
+            
+            # Group (NEW: extract and save group info)
             group = event_data.get("groupNames", "")
             
+            # Parse datetime strings
             if start_str:
                 start_dt = parse_datetime(start_str)
                 if start_dt:
@@ -252,9 +355,13 @@ def generate_icalendar(events: list) -> str:
                 if end_dt:
                     event.add('dtend', end_dt)
             
+            # Set summary (title)
             event.add('summary', title_en)
+            
+            # Generate unique ID
             event.add('uid', f"{event_id}@muv.mihoff.de")
             
+            # Description in requested format (NOW WITH GROUP)
             desc_lines = []
             if lesson_type:
                 desc_lines.append(f"Activity: {lesson_type}")
@@ -268,15 +375,19 @@ def generate_icalendar(events: list) -> str:
                 desc_lines.append(f"Lecturer: {teacher}")
             if group:
                 desc_lines.append(f"Group: {group}")
+            
+            # Add UniID at the end for reference
             desc_lines.append(f"UniID: {event_id}")
             
             event.add('description', "\n".join(desc_lines))
             
+            # Location: Room, Building
             if room and building:
                 event.add('location', f"{room}, {building}")
             elif room or building:
                 event.add('location', room or building)
             
+            # Add reminder alarm (15 minutes before)
             if REMINDER_MINUTES > 0:
                 alarm = Alarm()
                 alarm.add('action', 'DISPLAY')
@@ -294,6 +405,49 @@ def generate_icalendar(events: list) -> str:
     return cal.to_ical().decode('utf-8')
 
 
+def analyze_group_coverage(events: list) -> dict:
+    """
+    Analyze which groups have events and identify gaps.
+    
+    Returns:
+        Dict with group coverage info
+    """
+    # Collect all groups from events
+    groups_with_events = set()
+    lectures = []
+    exercises = []
+    
+    for event in events:
+        group_names = event.get("groupNames", "")
+        groups = [g.strip() for g in group_names.split(',') if g.strip()]
+        groups_with_events.update(groups)
+        
+        if event.get("lessonTypeEN", event.get("lessonType", "")) == "Lecture":
+            lectures.append(event)
+        else:
+            exercises.append(event)
+    
+    # Count events per group
+    group_event_counts = {}
+    for group in groups_with_events:
+        count = sum(1 for e in events if group in [g.strip() for g in e.get("groupNames", "").split(',')])
+        group_event_counts[group] = count
+    
+    # Identify expected groups (1-24 for medical students)
+    expected_groups = set(str(i) for i in range(1, 25))
+    missing_groups = expected_groups - groups_with_events
+    
+    return {
+        "groups_found": sorted(list(groups_with_events), key=lambda x: int(x) if x.isdigit() else x),
+        "groups_with_exercises": [],
+        "missing_groups": sorted(list(missing_groups), key=lambda x: int(x) if x.isdigit() else x),
+        "event_counts_per_group": group_event_counts,
+        "total_lectures": len(lectures),
+        "total_exercises": len(exercises),
+        "lectures_cover_all_groups": len(set(str(i) for i in range(1, 25)) & groups_with_events) == 24
+    }
+
+
 def main():
     """
     Main entry point.
@@ -305,84 +459,96 @@ def main():
     if not username or not password:
         raise Exception("WEBSTUDENT_USER and WEBSTUDENT_PASS environment variables required")
     
-    print(f"Starting schedule scraper for user: {username}")
-    print(f"Fetching ALL {len(ALL_GROUPS)} groups using groupIntegrationId parameter")
+    print(f"Starting schedule scraper v2 for user: {username}")
     print(f"Reminder: {REMINDER_MINUTES} minutes before each event")
     print("=" * 50)
     
     # Login
-    token = login(username, password)
+    login_data = login(username, password)
+    token = login_data["access_token"]
     
-    # Date range: now to 60 days
+    # Fetch schedule (next 60 days to cover full semester)
     start_date = datetime.now().strftime("%Y-%m-%d")
     end_date = (datetime.now() + timedelta(days=60)).strftime("%Y-%m-%d")
     
-    print(f"\nFetching schedules for all {len(ALL_GROUPS)} groups...")
-    print(f"Date range: {start_date} to {end_date}")
-    print()
+    # First, try the standard schedule endpoint
+    print("\n[Step 1] Fetching standard schedule...")
+    events = fetch_schedule_with_group(token, start_date, end_date)
     
-    # Fetch all groups
-    all_events = []
-    events_by_group = {}
+    # Analyze group coverage
+    print("\n[Step 2] Analyzing group coverage...")
+    coverage = analyze_group_coverage(events)
     
-    for group_id in ALL_GROUPS:
-        events = fetch_schedule_for_group(token, start_date, end_date, group_id)
-        all_events.extend(events)
-        events_by_group[group_id] = len(events)
+    print(f"  Groups found: {len(coverage['groups_found'])}")
+    print(f"  Missing groups: {coverage['missing_groups'] or 'None'}")
+    print(f"  Total lectures: {coverage['total_lectures']}")
+    print(f"  Total exercises: {coverage['total_exercises']}")
     
-    print(f"\nProcessing events...")
+    if coverage['missing_groups']:
+        print(f"\n⚠ WARNING: Some groups have no events: {coverage['missing_groups']}")
+        print("  This might indicate the API only returns events for the logged-in user's groups.")
     
-    # Remove duplicates
-    seen_ids = set()
-    unique_events = []
-    for event in all_events:
-        event_id = event.get("calendarEventId", "")
-        if event_id and event_id not in seen_ids:
-            seen_ids.add(event_id)
-            unique_events.append(event)
+    # Try to fetch student info (might contain group assignment)
+    print("\n[Step 3] Fetching student info...")
+    student_info = fetch_student_info(token)
+    if student_info:
+        print(f"  Student info available: {list(student_info.keys())[:5]}...")
+    else:
+        print("  No additional student info endpoint available.")
     
-    print(f"  Total events fetched: {len(all_events)}")
-    print(f"  Unique events (after dedup): {len(unique_events)}")
+    # Try alternative endpoints for all groups
+    if coverage['missing_groups']:
+        print("\n[Step 4] Trying alternative endpoints for all groups...")
+        alt_events = try_all_groups_endpoint(token, start_date, end_date)
+        if alt_events:
+            events = alt_events
+            coverage = analyze_group_coverage(events)
+            print(f"  Updated groups: {len(coverage['groups_found'])}")
     
     # Generate iCalendar
-    print("\nGenerating iCalendar...")
-    ical_content = generate_icalendar(unique_events)
+    print("\n[Step 5] Generating iCalendar...")
+    ical_content = generate_icalendar(events)
     
     # Write ICS file
     output_file = "schedule.ics"
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(ical_content)
     
-    # Generate JSON data
-    print("Generating JSON data...")
-    json_data = generate_json_data(unique_events)
+    # Generate JSON data (events + groups)
+    print("\n[Step 6] Generating JSON data...")
+    json_data = generate_json_data(events)
     
     # Write schedule.json
     with open("schedule.json", "w", encoding="utf-8") as f:
         json.dump(json_data, f, indent=2, ensure_ascii=False)
     
-    # Write groups.json
-    groups_data = {
-        "groups": json_data["groups"],
-        "lastUpdate": json_data["lastUpdate"],
-        "eventsByGroup": events_by_group,
-        "totalGroups": len(ALL_GROUPS),
-        "fetchedGroups": len([g for g in events_by_group.values() if g > 0])
-    }
+    # Write groups.json (simple list for easy API access)
     with open("groups.json", "w", encoding="utf-8") as f:
-        json.dump(groups_data, f, indent=2, ensure_ascii=False)
+        json.dump({
+            "groups": json_data["groups"],
+            "lastUpdate": json_data["lastUpdate"]
+        }, f, indent=2, ensure_ascii=False)
     
-    print("=" * 50)
+    # Write coverage analysis
+    with open("group_coverage.json", "w", encoding="utf-8") as f:
+        json.dump(coverage, f, indent=2, ensure_ascii=False)
+    
+    print("\n" + "=" * 50)
     print(f"✓ Schedule saved to {output_file}")
     print(f"✓ JSON data saved to schedule.json")
     print(f"✓ Groups saved to groups.json")
-    print(f"  Total unique events: {len(unique_events)}")
+    print(f"✓ Coverage analysis saved to group_coverage.json")
+    print(f"  Total events: {len(events)}")
     print(f"  Total groups: {json_data['totalGroups']}")
-    print(f"  Groups with events: {groups_data['fetchedGroups']}/{groups_data['totalGroups']}")
-    
     if json_data['groups']:
         print(f"  Groups found: {', '.join(json_data['groups'][:10])}{'...' if len(json_data['groups']) > 10 else ''}")
     print(f"  Reminder: {REMINDER_MINUTES} min before each class")
+    
+    # Final warning if groups are missing
+    if coverage['missing_groups']:
+        print(f"\n⚠ FINAL WARNING: {len(coverage['missing_groups'])} groups have no events!")
+        print("  This indicates the API only returns events for specific groups.")
+        print("  Consider using multiple accounts or finding a public schedule API.")
 
 
 if __name__ == "__main__":

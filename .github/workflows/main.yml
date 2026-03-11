@@ -33,10 +33,10 @@ jobs:
           WEBSTUDENT_PASS: ${{ secrets.WEBSTUDENT_PASS }}
         run: python scraper.py
       
-      - name: Commit and push schedule.ics
+      - name: Commit and push schedule files
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git add schedule.ics
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update schedule.ics [skip ci]"
+          git add schedule.ics schedule.json groups.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update schedule data (ICS, JSON, groups) [skip ci]"
           git push

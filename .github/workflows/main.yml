@@ -5,10 +5,9 @@ on:
     # Run 3 times daily: 6:00, 12:00, 18:00 UTC (8:00, 14:00, 20:00 Sofia time)
     - cron: '0 6,12,18 * * *'
   workflow_dispatch:  # Allow manual trigger
-  push:
-    branches: [main]
-    paths-ignore:
-      - 'schedule.ics'
+
+permissions:
+  contents: write
 
 jobs:
   scrape:
@@ -17,8 +16,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: false
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,10 +35,8 @@ jobs:
       
       - name: Commit and push schedule.ics
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
           git add schedule.ics
           git diff --quiet && git diff --staged --quiet || git commit -m "Update schedule.ics [skip ci]"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -6,6 +6,13 @@ using the official API with groupIntegrationId parameter.
 BREAKTHROUGH: The API accepts a groupIntegrationId parameter!
 This allows fetching schedules for ALL 24 groups individually.
 
+DYNAMIC DATE RANGE:
+    The scraper automatically calculates the date range:
+    - 2 weeks backward from current week
+    - 2 weeks forward from current week
+    - Always fetches complete weeks (Sunday to Saturday)
+    - API format: start/end at 22:00 UTC = 00:00 Bulgaria time (UTC+2)
+
 Usage:
     WEBSTUDENT_USER=<user> WEBSTUDENT_PASS=<pass> python scraper.py
 """
@@ -76,12 +83,10 @@ def fetch_schedule_for_group(token: str, start_date: str, end_date: str, group_i
     headers = HEADERS.copy()
     headers["Authorization"] = f"Bearer {token}"
     
-    # Convert dates to ISO format with timezone (UTC)
-    start_dt = datetime.strptime(start_date, "%Y-%m-%d")
-    end_dt = datetime.strptime(end_date, "%Y-%m-%d")
-    
-    start_iso = start_dt.strftime("%Y-%m-%dT%H:%M:%S.000Z")
-    end_iso = end_dt.strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    # Use fixed time format: 22:00:00.000Z (matches API expectations)
+    # 22:00 UTC = 00:00 Bulgaria time (UTC+2)
+    start_iso = f"{start_date}T22:00:00.000Z"
+    end_iso = f"{end_date}T22:00:00.000Z"
     
     params = {
         "start": start_iso,
@@ -317,9 +322,32 @@ def main():
     # Login
     token = login(username, password)
     
-    # Date range: now to 60 days
-    start_date = datetime.now().strftime("%Y-%m-%d")
-    end_date = (datetime.now() + timedelta(days=60)).strftime("%Y-%m-%d")
+    # Calculate date range: 2 weeks back + 2 weeks forward
+    # Week starts on Sunday (weekday 6 in Python), ends on Saturday (weekday 5)
+    # API expects: start = Sunday 22:00 UTC, end = Saturday 22:00 UTC
+    today = datetime.now()
+    
+    # Find start of current week (Sunday = weekday 6, but Python's weekday() gives 6 for Sunday)
+    # Python weekday: Monday=0, Tuesday=1, ..., Saturday=5, Sunday=6
+    days_since_sunday = (today.weekday() + 1) % 7  # Convert to: Sunday=0, Monday=1, ...
+    current_week_sunday = today - timedelta(days=days_since_sunday)
+    
+    # 2 weeks back: Go back 2 weeks from current week's Sunday
+    start_sunday = current_week_sunday - timedelta(weeks=2)
+    
+    # 2 weeks forward: From current week, go forward 2 weeks to end of that week (Saturday)
+    # End date is the Saturday of the week that is 2 weeks ahead
+    end_saturday = current_week_sunday + timedelta(weeks=3) - timedelta(days=1)  # Week 3 Sunday - 1 day = Week 2 Saturday
+    
+    # Format as date strings
+    start_date = start_sunday.strftime("%Y-%m-%d")
+    end_date = end_saturday.strftime("%Y-%m-%d")
+    
+    print(f"\n📊 Dynamic date range: 2 weeks back + 2 weeks forward")
+    print(f"  Today: {today.strftime('%Y-%m-%d')} ({today.strftime('%A')})")
+    print(f"  Start: {start_date} (Sunday, 2 weeks back)")
+    print(f"  End: {end_date} (Saturday, 2 weeks forward)")
+    print(f"  Total weeks: ~4 weeks coverage")
     
     print(f"\nFetching schedules for all {len(ALL_GROUPS)} groups...")
     print(f"Date range: {start_date} to {end_date}")

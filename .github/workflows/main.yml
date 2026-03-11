@@ -37,6 +37,6 @@ jobs:
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git add schedule.ics schedule.json groups.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update schedule data (ICS, JSON, groups) [skip ci]"
+          git add schedule.ics schedule_group10.ics schedule_exercises_group10.ics schedule_lectures_group10.ics schedule.json groups.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update schedule data (ICS feeds for all + Group 10) [skip ci]"
           git push

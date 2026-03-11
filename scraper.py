@@ -208,14 +208,18 @@ def generate_json_data(events: list) -> dict:
     }
 
 
-def generate_icalendar(events: list) -> str:
+def generate_icalendar(events: list, calendar_name: str = 'MU Varna Schedule') -> str:
     """
     Generate an iCalendar file from events.
+    
+    Args:
+        events: List of event dictionaries
+        calendar_name: Name for the calendar (used in x-wr-calname)
     """
     cal = Calendar()
     cal.add('prodid', '-//Uni Schedule Scraper//muv.mihoff.de//')
     cal.add('version', '2.0')
-    cal.add('x-wr-calname', 'MU Varna Schedule')
+    cal.add('x-wr-calname', calendar_name)
     cal.add('x-wr-timezone', 'Europe/Sofia')
     
     seen_ids = set()
@@ -344,17 +348,49 @@ def main():
     print(f"  Total events fetched: {len(all_events)}")
     print(f"  Unique events (after dedup): {len(unique_events)}")
     
-    # Generate iCalendar
-    print("\nGenerating iCalendar...")
-    ical_content = generate_icalendar(unique_events)
+    # Generate iCalendar (main schedule - all events)
+    print("\nGenerating iCalendar files...")
+    ical_content = generate_icalendar(unique_events, "MU Varna Schedule (All Groups)")
     
-    # Write ICS file
+    # Write main ICS file
     output_file = "schedule.ics"
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(ical_content)
+    print(f"  ✓ schedule.ics - {len(unique_events)} events (all groups)")
+    
+    # Filter events for Group 10 (handle whitespace in groupNames)
+    group10_events = [e for e in unique_events 
+                      if '10' in [g.strip() for g in e.get('groupNames', '').split(',')]]
+    
+    # Generate Group 10 schedule (all event types)
+    if group10_events:
+        ical_group10 = generate_icalendar(group10_events, "MU Varna Schedule - Group 10")
+        with open("schedule_group10.ics", "w", encoding="utf-8") as f:
+            f.write(ical_group10)
+        print(f"  ✓ schedule_group10.ics - {len(group10_events)} events (Group 10)")
+    
+    # Filter exercises for Group 10 (note: API uses "Excercise" with typo)
+    exercises_group10 = [e for e in group10_events 
+                         if e.get('lessonTypeEN', e.get('lessonType', '')) == 'Excercise']
+    
+    if exercises_group10:
+        ical_exercises = generate_icalendar(exercises_group10, "MU Varna Exercises - Group 10")
+        with open("schedule_exercises_group10.ics", "w", encoding="utf-8") as f:
+            f.write(ical_exercises)
+        print(f"  ✓ schedule_exercises_group10.ics - {len(exercises_group10)} exercises (Group 10)")
+    
+    # Filter lectures for Group 10
+    lectures_group10 = [e for e in group10_events 
+                        if e.get('lessonTypeEN', e.get('lessonType', '')) == 'Lecture']
+    
+    if lectures_group10:
+        ical_lectures = generate_icalendar(lectures_group10, "MU Varna Lectures - Group 10")
+        with open("schedule_lectures_group10.ics", "w", encoding="utf-8") as f:
+            f.write(ical_lectures)
+        print(f"  ✓ schedule_lectures_group10.ics - {len(lectures_group10)} lectures (Group 10)")
     
     # Generate JSON data
-    print("Generating JSON data...")
+    print("\nGenerating JSON data...")
     json_data = generate_json_data(unique_events)
     
     # Write schedule.json
@@ -373,9 +409,13 @@ def main():
         json.dump(groups_data, f, indent=2, ensure_ascii=False)
     
     print("=" * 50)
-    print(f"✓ Schedule saved to {output_file}")
-    print(f"✓ JSON data saved to schedule.json")
-    print(f"✓ Groups saved to groups.json")
+    print("✓ Files generated:")
+    print(f"  - schedule.ics ({len(unique_events)} events, all groups)")
+    print(f"  - schedule_group10.ics ({len(group10_events)} events, Group 10)")
+    print(f"  - schedule_exercises_group10.ics ({len(exercises_group10)} exercises, Group 10)")
+    print(f"  - schedule_lectures_group10.ics ({len(lectures_group10)} lectures, Group 10)")
+    print(f"  - schedule.json (full event data)")
+    print(f"  - groups.json (group metadata)")
     print(f"  Total unique events: {len(unique_events)}")
     print(f"  Total groups: {json_data['totalGroups']}")
     print(f"  Groups with events: {groups_data['fetchedGroups']}/{groups_data['totalGroups']}")

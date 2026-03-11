@@ -174,7 +174,7 @@ def generate_icalendar(events: list) -> str:
             # Add UniID at the end for reference
             desc_lines.append(f"UniID: {event_id}")
             
-            event.add('description', "\\n".join(desc_lines))
+            event.add('description', "\n".join(desc_lines))
             
             # Location: Room, Building
             if room and building:

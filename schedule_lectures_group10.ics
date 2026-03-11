@@ -5,6 +5,150 @@ X-WR-CALNAME:MU Varna Lectures - Group 10
 X-WR-TIMEZONE:Europe/Sofia
 BEGIN:VEVENT
 SUMMARY:Human Anatomy and Histology
+DTSTART:20260223T093000Z
+DTEND:20260223T110000Z
+UID:1360322@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: II-nd A
+ uditorium\nFloor: 3\nLecturer: Anton Bozhidarov Tonchev\nGroup: 1\, 2\, 3\
+ , 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\
+ , 20\, 21\, 22\, 23\, 24\nUniID: 1360322
+LOCATION:II-nd Auditorium\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Anatomy and Histology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260223T111500Z
+DTEND:20260223T124500Z
+UID:1369060@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
+ ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
+  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
+ 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1369060
+LOCATION:I-st Auditorium\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260224T063000Z
+DTEND:20260224T090000Z
+UID:1377728@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Faculty of Pharmacy\nClassroom: H
+ all 105\nFloor: 1\nLecturer: Yoana Dimitrova Kiselova-Kaneva\nGroup: 1\, 2
+ \, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\
+ , 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1377728
+LOCATION:Hall 105\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Anatomy and Histology
+DTSTART:20260226T093000Z
+DTEND:20260226T110000Z
+UID:1360333@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
+ ditorium\nFloor: 4\nLecturer: David Luts\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7
+ \, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\
+ , 23\, 24\nUniID: 1360333
+LOCATION:I-st Auditorium\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Anatomy and Histology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260226T113000Z
+DTEND:20260226T130000Z
+UID:1369090@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
+ ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
+  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
+ 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1369090
+LOCATION:I-st Auditorium\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260306T153000Z
+DTEND:20260306T170000Z
+UID:1369091@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
+ ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
+  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
+ 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1369091
+LOCATION:I-st Auditorium\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Anatomy and Histology
+DTSTART:20260309T093000Z
+DTEND:20260309T110000Z
+UID:1360324@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: II-nd A
+ uditorium\nFloor: 3\nLecturer: Anton Bozhidarov Tonchev\nGroup: 1\, 2\, 3\
+ , 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\
+ , 20\, 21\, 22\, 23\, 24\nUniID: 1360324
+LOCATION:II-nd Auditorium\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Anatomy and Histology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260309T111500Z
+DTEND:20260309T124500Z
+UID:1369062@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
+ ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
+  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
+ 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1369062
+LOCATION:I-st Auditorium\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260310T063000Z
+DTEND:20260310T090000Z
+UID:1377729@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Faculty of Pharmacy\nClassroom: H
+ all 105\nFloor: 1\nLecturer: Diana Georgieva Ivanova\nGroup: 1\, 2\, 3\, 4
+ \, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 2
+ 0\, 21\, 22\, 23\, 24\nUniID: 1377729
+LOCATION:Hall 105\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Anatomy and Histology
 DTSTART:20260312T093000Z
 DTEND:20260312T110000Z
 UID:1360335@muv.mihoff.de
@@ -188,406 +332,6 @@ DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
  ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
   3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
  19\, 20\, 21\, 22\, 23\, 24\nUniID: 1369094
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260330T083000Z
-DTEND:20260330T100000Z
-UID:1413997@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: II-nd A
- uditorium\nFloor: 3\nLecturer: Anton Bozhidarov Tonchev\nGroup: 1\, 2\, 3\
- , 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\
- , 20\, 21\, 22\, 23\, 24\nUniID: 1413997
-LOCATION:II-nd Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260330T101500Z
-DTEND:20260330T114500Z
-UID:1369065@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
-  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
- 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1369065
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260331T053000Z
-DTEND:20260331T080000Z
-UID:1377732@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Faculty of Pharmacy\nClassroom: H
- all 105\nFloor: 1\nLecturer: Diana Georgieva Ivanova\nGroup: 1\, 2\, 3\, 4
- \, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 2
- 0\, 21\, 22\, 23\, 24\nUniID: 1377732
-LOCATION:Hall 105\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260402T103000Z
-DTEND:20260402T120000Z
-UID:1369095@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
-  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
- 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1369095
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260406T101500Z
-DTEND:20260406T114500Z
-UID:1369066@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
-  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
- 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1369066
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260407T053000Z
-DTEND:20260407T080000Z
-UID:1377733@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Faculty of Pharmacy\nClassroom: H
- all 105\nFloor: 1\nLecturer: Diana Georgieva Ivanova\nGroup: 1\, 2\, 3\, 4
- \, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 2
- 0\, 21\, 22\, 23\, 24\nUniID: 1377733
-LOCATION:Hall 105\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260409T083000Z
-DTEND:20260409T100000Z
-UID:1360338@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Anton Bozhidarov Tonchev\nGroup: 1\, 2\, 3\,
-  4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\,
-  20\, 21\, 22\, 23\, 24\nUniID: 1360338
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260414T053000Z
-DTEND:20260414T080000Z
-UID:1377734@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Faculty of Pharmacy\nClassroom: H
- all 105\nFloor: 1\nLecturer: Diana Georgieva Ivanova\nGroup: 1\, 2\, 3\, 4
- \, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 2
- 0\, 21\, 22\, 23\, 24\nUniID: 1377734
-LOCATION:Hall 105\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260416T083000Z
-DTEND:20260416T100000Z
-UID:1360339@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Anton Bozhidarov Tonchev\nGroup: 1\, 2\, 3\,
-  4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\,
-  20\, 21\, 22\, 23\, 24\nUniID: 1360339
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260416T103000Z
-DTEND:20260416T120000Z
-UID:1369097@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
-  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
- 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1369097
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260420T083000Z
-DTEND:20260420T100000Z
-UID:1360329@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: II-nd A
- uditorium\nFloor: 3\nLecturer: Anton Bozhidarov Tonchev\nGroup: 1\, 2\, 3\
- , 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\
- , 20\, 21\, 22\, 23\, 24\nUniID: 1360329
-LOCATION:II-nd Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260420T101500Z
-DTEND:20260420T114500Z
-UID:1369067@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
-  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
- 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1369067
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260421T053000Z
-DTEND:20260421T080000Z
-UID:1377735@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Faculty of Pharmacy\nClassroom: H
- all 105\nFloor: 1\nLecturer: Diana Georgieva Ivanova\nGroup: 1\, 2\, 3\, 4
- \, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 2
- 0\, 21\, 22\, 23\, 24\nUniID: 1377735
-LOCATION:Hall 105\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260423T083000Z
-DTEND:20260423T100000Z
-UID:1360340@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: David Luts\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7
- \, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\
- , 23\, 24\nUniID: 1360340
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260423T103000Z
-DTEND:20260423T120000Z
-UID:1369098@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
-  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
- 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1369098
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260427T083000Z
-DTEND:20260427T100000Z
-UID:1360330@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: II-nd A
- uditorium\nFloor: 3\nLecturer: Anton Bozhidarov Tonchev\nGroup: 1\, 2\, 3\
- , 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\
- , 20\, 21\, 22\, 23\, 24\nUniID: 1360330
-LOCATION:II-nd Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260427T101500Z
-DTEND:20260427T114500Z
-UID:1369068@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
-  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
- 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1369068
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260428T053000Z
-DTEND:20260428T080000Z
-UID:1377736@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Faculty of Pharmacy\nClassroom: H
- all 105\nFloor: 1\nLecturer: Diana Georgieva Ivanova\nGroup: 1\, 2\, 3\, 4
- \, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 2
- 0\, 21\, 22\, 23\, 24\nUniID: 1377736
-LOCATION:Hall 105\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260430T083000Z
-DTEND:20260430T100000Z
-UID:1360341@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Anton Bozhidarov Tonchev\nGroup: 1\, 2\, 3\,
-  4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\,
-  20\, 21\, 22\, 23\, 24\nUniID: 1360341
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260430T103000Z
-DTEND:20260430T120000Z
-UID:1370389@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
-  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
- 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1370389
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260504T083000Z
-DTEND:20260504T100000Z
-UID:1360342@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: II-nd A
- uditorium\nFloor: 3\nLecturer: Anton Bozhidarov Tonchev\nGroup: 1\, 2\, 3\
- , 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\
- , 20\, 21\, 22\, 23\, 24\nUniID: 1360342
-LOCATION:II-nd Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260504T101500Z
-DTEND:20260504T114500Z
-UID:1370374@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
-  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
- 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1370374
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260505T053000Z
-DTEND:20260505T080000Z
-UID:1377737@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Faculty of Pharmacy\nClassroom: H
- all 105\nFloor: 1\nLecturer: Diana Georgieva Ivanova\nGroup: 1\, 2\, 3\, 4
- \, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 2
- 0\, 21\, 22\, 23\, 24\nUniID: 1377737
-LOCATION:Hall 105\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260507T083000Z
-DTEND:20260507T100000Z
-UID:1360344@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Anton Bozhidarov Tonchev\nGroup: 1\, 2\, 3\,
-  4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\,
-  20\, 21\, 22\, 23\, 24\nUniID: 1360344
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260507T103000Z
-DTEND:20260507T120000Z
-UID:1370382@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\,
-  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
- 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1370382
 LOCATION:I-st Auditorium\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY

@@ -7,7 +7,7 @@ using the official API (no Playwright needed).
 import os
 import requests
 from datetime import datetime, timedelta
-from icalendar import Calendar, Event
+from icalendar import Calendar, Event, Alarm
 import pytz
 
 # Configuration
@@ -21,6 +21,9 @@ HEADERS = {
     "Referer": "https://webstudent.mu-varna.bg/",
     "Accept": "application/json, text/plain, */*",
 }
+
+# Reminder minutes before event (can be set via env)
+REMINDER_MINUTES = int(os.environ.get("REMINDER_MINUTES", "15"))
 
 
 def login(username: str, password: str) -> str:
@@ -125,7 +128,9 @@ def generate_icalendar(events: list) -> str:
             # Room and building
             room = event_data.get("roomNumberEN", event_data.get("roomNumber", ""))
             building = event_data.get("buildingEN", event_data.get("building", ""))
-            location = f"{room}, {building}" if room and building else (room or building or "")
+            
+            # Floor
+            floor = event_data.get("floor", "")
             
             # Teacher
             teacher = event_data.get("teacherNameEN", event_data.get("teacherName", ""))
@@ -153,19 +158,37 @@ def generate_icalendar(events: list) -> str:
             # Generate unique ID
             event.add('uid', f"{event_id}@muv.mihoff.de")
             
-            # Description with UniID
-            desc_lines = [f"UniID: {event_id}"]
-            if teacher:
-                desc_lines.append(f"Teacher: {teacher}")
+            # Description in requested format
+            desc_lines = []
             if lesson_type:
-                desc_lines.append(f"Type: {lesson_type}")
-            if group:
-                desc_lines.append(f"Group: {group}")
+                desc_lines.append(f"Activity: {lesson_type}")
+            if building:
+                desc_lines.append(f"Building: {building}")
+            if room:
+                desc_lines.append(f"Classroom: {room}")
+            if floor:
+                desc_lines.append(f"Floor: {floor}")
+            if teacher:
+                desc_lines.append(f"Lecturer: {teacher}")
+            
+            # Add UniID at the end for reference
+            desc_lines.append(f"UniID: {event_id}")
+            
             event.add('description', "\\n".join(desc_lines))
             
-            # Location
-            if location:
-                event.add('location', location)
+            # Location: Room, Building
+            if room and building:
+                event.add('location', f"{room}, {building}")
+            elif room or building:
+                event.add('location', room or building)
+            
+            # Add reminder alarm (15 minutes before)
+            if REMINDER_MINUTES > 0:
+                alarm = Alarm()
+                alarm.add('action', 'DISPLAY')
+                alarm.add('description', f'Reminder: {title_en}')
+                alarm.add('trigger', timedelta(minutes=-REMINDER_MINUTES))
+                event.add_component(alarm)
             
             cal.add_component(event)
             print(f"✓ Added event: {title_en} ({start_str})")
@@ -218,6 +241,7 @@ def main():
         raise Exception("WEBSTUDENT_USER and WEBSTUDENT_PASS environment variables required")
     
     print(f"Starting schedule scraper for user: {username}")
+    print(f"Reminder: {REMINDER_MINUTES} minutes before each event")
     print("=" * 50)
     
     # Login
@@ -241,6 +265,7 @@ def main():
     print("=" * 50)
     print(f"✓ Schedule saved to {output_file}")
     print(f"  Total events: {len(events)}")
+    print(f"  Reminder: {REMINDER_MINUTES} min before each class")
 
 
 if __name__ == "__main__":

@@ -202,7 +202,13 @@ def generate_json_data(events: list) -> dict:
             continue
     
     processed_events.sort(key=lambda e: (e['date'], e['time']))
-    sorted_groups = sorted(list(groups_found), key=lambda x: int(x) if x.isdigit() else x)
+    # Sort groups numerically if possible, then alphabetically for non-numeric
+    def group_sort_key(x):
+        try:
+            return (0, int(x))
+        except ValueError:
+            return (1, x)
+    sorted_groups = sorted(list(groups_found), key=group_sort_key)
     
     return {
         "events": processed_events,

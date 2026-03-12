@@ -111,6 +111,22 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sport
+DTSTART:20260224T140000Z
+DTEND:20260224T150000Z
+UID:1411553@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: Golya
+ ma zala\nLecturer: Zhulieta Georgieva Videnova\nGroup: Български 
+ Народни Танци (БНТ) 2 \, Вторник\, 16:00 - 17:00\nUn
+ iID: 1411553
+LOCATION:Golyama zala\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Sport
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Human Anatomy and Histology
 DTSTART:20260225T053000Z
 DTEND:20260225T070000Z
@@ -380,6 +396,22 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sport
+DTSTART:20260310T140000Z
+DTEND:20260310T150000Z
+UID:1411554@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: Golya
+ ma zala\nLecturer: Zhulieta Georgieva Videnova\nGroup: Български 
+ Народни Танци (БНТ) 2 \, Вторник\, 16:00 - 17:00\nUn
+ iID: 1411554
+LOCATION:Golyama zala\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Sport
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Human Anatomy and Histology
 DTSTART:20260311T053000Z
 DTEND:20260311T070000Z
@@ -576,6 +608,22 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sport
+DTSTART:20260317T140000Z
+DTEND:20260317T150000Z
+UID:1411555@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: Golya
+ ma zala\nLecturer: Zhulieta Georgieva Videnova\nGroup: Български 
+ Народни Танци (БНТ) 2 \, Вторник\, 16:00 - 17:00\nUn
+ iID: 1411555
+LOCATION:Golyama zala\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Sport
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Human Anatomy and Histology
 DTSTART:20260318T053000Z
 DTEND:20260318T070000Z
@@ -768,6 +816,22 @@ LOCATION:431\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport
+DTSTART:20260324T140000Z
+DTEND:20260324T150000Z
+UID:1411556@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: Golya
+ ma zala\nLecturer: Zhulieta Georgieva Videnova\nGroup: Български 
+ Народни Танци (БНТ) 2 \, Вторник\, 16:00 - 17:00\nUn
+ iID: 1411556
+LOCATION:Golyama zala\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Sport
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

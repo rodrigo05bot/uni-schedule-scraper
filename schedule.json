@@ -713,6 +713,27 @@
       ]
     },
     {
+      "id": 1411553,
+      "title": "Sport",
+      "titleBg": "Спорт",
+      "date": "2026-02-24",
+      "day": "Monday",
+      "time": "16:00-17:00",
+      "start": "2026-02-24T14:00:00Z",
+      "end": "2026-02-24T15:00:00Z",
+      "type": "Excercise",
+      "room": "Golyama zala",
+      "building": "Main Building",
+      "floor": null,
+      "lecturer": "Zhulieta Georgieva Videnova",
+      "group": "Български Народни Танци (БНТ) 2 , Вторник, 16:00 - 17:00",
+      "groups": [
+        "Български Народни Танци (БНТ) 2",
+        "Вторник",
+        "16:00 - 17:00"
+      ]
+    },
+    {
       "id": 1369823,
       "title": "Human Physiology",
       "titleBg": "Физиология на човека",
@@ -4881,6 +4902,27 @@
       ]
     },
     {
+      "id": 1411554,
+      "title": "Sport",
+      "titleBg": "Спорт",
+      "date": "2026-03-10",
+      "day": "Monday",
+      "time": "16:00-17:00",
+      "start": "2026-03-10T14:00:00Z",
+      "end": "2026-03-10T15:00:00Z",
+      "type": "Excercise",
+      "room": "Golyama zala",
+      "building": "Main Building",
+      "floor": null,
+      "lecturer": "Zhulieta Georgieva Videnova",
+      "group": "Български Народни Танци (БНТ) 2 , Вторник, 16:00 - 17:00",
+      "groups": [
+        "Български Народни Танци (БНТ) 2",
+        "Вторник",
+        "16:00 - 17:00"
+      ]
+    },
+    {
       "id": 1369824,
       "title": "Human Physiology",
       "titleBg": "Физиология на човека",
@@ -7386,6 +7428,27 @@
       "groups": [
         "7",
         "8"
+      ]
+    },
+    {
+      "id": 1411555,
+      "title": "Sport",
+      "titleBg": "Спорт",
+      "date": "2026-03-17",
+      "day": "Monday",
+      "time": "16:00-17:00",
+      "start": "2026-03-17T14:00:00Z",
+      "end": "2026-03-17T15:00:00Z",
+      "type": "Excercise",
+      "room": "Golyama zala",
+      "building": "Main Building",
+      "floor": null,
+      "lecturer": "Zhulieta Georgieva Videnova",
+      "group": "Български Народни Танци (БНТ) 2 , Вторник, 16:00 - 17:00",
+      "groups": [
+        "Български Народни Танци (БНТ) 2",
+        "Вторник",
+        "16:00 - 17:00"
       ]
     },
     {
@@ -9897,6 +9960,27 @@
       ]
     },
     {
+      "id": 1411556,
+      "title": "Sport",
+      "titleBg": "Спорт",
+      "date": "2026-03-24",
+      "day": "Monday",
+      "time": "16:00-17:00",
+      "start": "2026-03-24T14:00:00Z",
+      "end": "2026-03-24T15:00:00Z",
+      "type": "Excercise",
+      "room": "Golyama zala",
+      "building": "Main Building",
+      "floor": null,
+      "lecturer": "Zhulieta Georgieva Videnova",
+      "group": "Български Народни Танци (БНТ) 2 , Вторник, 16:00 - 17:00",
+      "groups": [
+        "Български Народни Танци (БНТ) 2",
+        "Вторник",
+        "16:00 - 17:00"
+      ]
+    },
+    {
       "id": 1369826,
       "title": "Human Physiology",
       "titleBg": "Физиология на човека",
@@ -11718,9 +11802,12 @@
     "21",
     "22",
     "23",
-    "24"
+    "24",
+    "16:00 - 17:00",
+    "Български Народни Танци (БНТ) 2",
+    "Вторник"
   ],
-  "lastUpdate": "2026-03-12T08:01:02.226964",
-  "totalEvents": 571,
-  "totalGroups": 24
+  "lastUpdate": "2026-03-12T18:02:31.554553",
+  "totalEvents": 575,
+  "totalGroups": 27
 }

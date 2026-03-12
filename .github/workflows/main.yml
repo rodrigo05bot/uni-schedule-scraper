@@ -31,7 +31,10 @@ jobs:
         env:
           WEBSTUDENT_USER: ${{ secrets.WEBSTUDENT_USER }}
           WEBSTUDENT_PASS: ${{ secrets.WEBSTUDENT_PASS }}
-        run: python scraper.py
+        run: |
+          echo "Starting scraper..."
+          python scraper.py || echo "Scraper failed with exit code $?"
+          echo "Done"
       
       - name: Commit and push schedule files
         run: |

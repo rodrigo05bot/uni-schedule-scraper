@@ -1,0 +1,18 @@
+# Generated files - do not track
+groups.json
+schedule.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Debug files
+test_*.py

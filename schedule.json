@@ -6830,7 +6830,7 @@
       "room": "431",
       "building": "Main Building",
       "floor": 4,
-      "lecturer": "Dora Delcheva Solakova-Stanislavova",
+      "lecturer": "Boyana Angelova Angelova",
       "group": "15, 16",
       "groups": [
         "15",
@@ -6871,48 +6871,6 @@
       "building": "Main Building",
       "floor": 3,
       "lecturer": "David Luts",
-      "group": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24",
-      "groups": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "11",
-        "12",
-        "13",
-        "14",
-        "15",
-        "16",
-        "17",
-        "18",
-        "19",
-        "20",
-        "21",
-        "22",
-        "23",
-        "24"
-      ]
-    },
-    {
-      "id": 1369063,
-      "title": "Human Physiology",
-      "titleBg": "Физиология на човека",
-      "date": "2026-03-16",
-      "day": "Sunday",
-      "time": "13:15-14:45",
-      "start": "2026-03-16T11:15:00Z",
-      "end": "2026-03-16T12:45:00Z",
-      "type": "Lecture",
-      "room": "I-st Auditorium",
-      "building": "Main Building",
-      "floor": 4,
-      "lecturer": "Margarita Stefanova Velikova",
       "group": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24",
       "groups": [
         "1",
@@ -7760,7 +7718,7 @@
       "room": "2",
       "building": "Student Hostel, Block 3",
       "floor": 1,
-      "lecturer": "Dora Delcheva Solakova-Stanislavova",
+      "lecturer": "Yordanka Tsvetkova Marinova",
       "group": "23, 24",
       "groups": [
         "23",
@@ -9249,6 +9207,48 @@
       ]
     },
     {
+      "id": 1415929,
+      "title": "Human Physiology",
+      "titleBg": "Физиология на човека",
+      "date": "2026-03-20",
+      "day": "Thursday",
+      "time": "17:30-19:00",
+      "start": "2026-03-20T15:30:00Z",
+      "end": "2026-03-20T17:00:00Z",
+      "type": "Lecture",
+      "room": "I-st Auditorium",
+      "building": "Main Building",
+      "floor": 4,
+      "lecturer": "Margarita Stefanova Velikova",
+      "group": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24",
+      "groups": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ]
+    },
+    {
       "id": 1407961,
       "title": "Общ български език - В1 и В2",
       "titleBg": "Общ български език - В1 и В2",
@@ -9359,7 +9359,7 @@
       "room": "431",
       "building": "Main Building",
       "floor": 4,
-      "lecturer": "Dora Delcheva Solakova-Stanislavova",
+      "lecturer": "Boyana Angelova Angelova",
       "group": "15, 16",
       "groups": [
         "15",
@@ -9588,26 +9588,7 @@
       ]
     },
     {
-      "id": 1410043,
-      "title": "Human Physiology",
-      "titleBg": "Физиология на човека",
-      "date": "2026-03-23",
-      "day": "Sunday",
-      "time": "16:30-18:45",
-      "start": "2026-03-23T14:30:00Z",
-      "end": "2026-03-23T16:45:00Z",
-      "type": "Excercise",
-      "room": "311",
-      "building": "Main Building",
-      "floor": 3,
-      "lecturer": "Hristiyana Hristoforova Todorova",
-      "group": "10",
-      "groups": [
-        "10"
-      ]
-    },
-    {
-      "id": 1410056,
+      "id": 1415931,
       "title": "Human Physiology",
       "titleBg": "Физиология на човека",
       "date": "2026-03-23",
@@ -9620,8 +9601,9 @@
       "building": "Main Building",
       "floor": 4,
       "lecturer": "Gabriela Panayotova Georgieva",
-      "group": "17",
+      "group": "10, 17",
       "groups": [
+        "10",
         "17"
       ]
     },
@@ -9981,7 +9963,7 @@
       ]
     },
     {
-      "id": 1369826,
+      "id": 1415932,
       "title": "Human Physiology",
       "titleBg": "Физиология на човека",
       "date": "2026-03-24",
@@ -9994,27 +9976,9 @@
       "building": "Main Building",
       "floor": 4,
       "lecturer": "Margarita Stefanova Velikova",
-      "group": "19",
+      "group": "19, 20",
       "groups": [
-        "19"
-      ]
-    },
-    {
-      "id": 1369868,
-      "title": "Human Physiology",
-      "titleBg": "Физиология на човека",
-      "date": "2026-03-24",
-      "day": "Monday",
-      "time": "16:30-18:45",
-      "start": "2026-03-24T14:30:00Z",
-      "end": "2026-03-24T16:45:00Z",
-      "type": "Excercise",
-      "room": "406-2",
-      "building": "Main Building",
-      "floor": 4,
-      "lecturer": "Hristiyana Hristoforova Todorova",
-      "group": "20",
-      "groups": [
+        "19",
         "20"
       ]
     },
@@ -10289,7 +10253,7 @@
       "room": "2",
       "building": "Student Hostel, Block 3",
       "floor": 1,
-      "lecturer": "Dora Delcheva Solakova-Stanislavova",
+      "lecturer": "Yordanka Tsvetkova Marinova",
       "group": "23, 24",
       "groups": [
         "23",
@@ -11807,7 +11771,7 @@
     "Български Народни Танци (БНТ) 2",
     "Вторник"
   ],
-  "lastUpdate": "2026-03-13T14:47:08.194344",
-  "totalEvents": 575,
+  "lastUpdate": "2026-03-14T13:57:37.772194",
+  "totalEvents": 573,
   "totalGroups": 27
 }

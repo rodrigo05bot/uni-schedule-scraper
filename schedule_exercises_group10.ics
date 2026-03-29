@@ -5,94 +5,6 @@ X-WR-CALNAME:MU Varna Exercises - Group 10
 X-WR-TIMEZONE:Europe/Sofia
 BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
-DTSTART:20260309T060000Z
-DTEND:20260309T073000Z
-UID:1407959@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUniID: 
- 1407959
-LOCATION:431\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260311T053000Z
-DTEND:20260311T070000Z
-UID:1359871@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 02\nF
- loor: 1\nLecturer: Radoslav Hristov Spasov\nGroup: 9\, 10\nUniID: 1359871
-LOCATION:02\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260311T120000Z
-DTEND:20260311T133000Z
-UID:1360122@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 330\n
- Floor: 3\nLecturer: Veselina Georgieva Zhekova\nGroup: 9\, 10\nUniID: 1360
- 122
-LOCATION:330\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260311T134500Z
-DTEND:20260311T151500Z
-UID:1405142@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
- Floor: 4\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUniID: 
- 1405142
-LOCATION:407\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260312T073000Z
-DTEND:20260312T090000Z
-UID:1360214@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 02\nF
- loor: 1\nLecturer: Radoslav Hristov Spasov\nGroup: 9\, 10\nUniID: 1360214
-LOCATION:02\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260313T093000Z
-DTEND:20260313T110000Z
-UID:1405155@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
- room: 2\nFloor: 1\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10
- \nUniID: 1405155
-LOCATION:2\, Student Hostel\, Block 3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
 DTSTART:20260316T060000Z
 DTEND:20260316T073000Z
 UID:1407960@muv.mihoff.de
@@ -821,36 +733,6 @@ LOCATION:2\, Student Hostel\, Block 3
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260309T143000Z
-DTEND:20260309T164500Z
-UID:1410041@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 311\n
- Floor: 3\nLecturer: Hristiyana Hristoforova Todorova\nGroup: 10\nUniID: 14
- 10041
-LOCATION:311\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260310T093000Z
-DTEND:20260310T114500Z
-UID:1378019@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  509\nFloor: 5\nLecturer: Momchil Toshkov Barbolov\nGroup: 10\nUniID: 1378
- 019
-LOCATION:509\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

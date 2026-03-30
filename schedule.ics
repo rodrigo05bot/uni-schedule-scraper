@@ -10372,10 +10372,8 @@ SUMMARY:Общ български език - В1 и В2
 DTSTART:20260417T083000Z
 DTEND:20260417T100000Z
 UID:1405271@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
- ssroom: Hall 103\nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\n
- Group: 15\, 16\nUniID: 1405271
-LOCATION:Hall 103\, Faculty of Dental Medicine
+DESCRIPTION:Activity: Excercise\nLecturer: Daniela Mitkova Tancheva-Stefan
+ ova\nGroup: 15\, 16\nUniID: 1405271
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
@@ -10489,10 +10487,10 @@ SUMMARY:Общ български език - В1 и В2
 DTSTART:20260424T083000Z
 DTEND:20260424T100000Z
 UID:1405272@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
- ssroom: Hall 103\nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\n
- Group: 15\, 16\nUniID: 1405272
-LOCATION:Hall 103\, Faculty of Dental Medicine
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 311
+ \nFloor: 3\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 15\, 16\n
+ UniID: 1405272
+LOCATION:311\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
@@ -10665,10 +10663,10 @@ SUMMARY:Общ български език - В1 и В2
 DTSTART:20260508T083000Z
 DTEND:20260508T100000Z
 UID:1405273@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
- ssroom: Hall 103\nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\n
- Group: 15\, 16\nUniID: 1405273
-LOCATION:Hall 103\, Faculty of Dental Medicine
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 311
+ \nFloor: 3\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 15\, 16\n
+ UniID: 1405273
+LOCATION:311\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
@@ -10782,10 +10780,10 @@ SUMMARY:Общ български език - В1 и В2
 DTSTART:20260515T083000Z
 DTEND:20260515T100000Z
 UID:1405274@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
- ssroom: Hall 103\nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\n
- Group: 15\, 16\nUniID: 1405274
-LOCATION:Hall 103\, Faculty of Dental Medicine
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 311
+ \nFloor: 3\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 15\, 16\n
+ UniID: 1405274
+LOCATION:311\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
@@ -10884,10 +10882,10 @@ SUMMARY:Общ български език - В1 и В2
 DTSTART:20260522T083000Z
 DTEND:20260522T100000Z
 UID:1405275@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
- ssroom: Hall 103\nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\n
- Group: 15\, 16\nUniID: 1405275
-LOCATION:Hall 103\, Faculty of Dental Medicine
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 311
+ \nFloor: 3\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 15\, 16\n
+ UniID: 1405275
+LOCATION:311\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
@@ -10957,10 +10955,10 @@ SUMMARY:Общ български език - В1 и В2
 DTSTART:20260529T083000Z
 DTEND:20260529T100000Z
 UID:1405276@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
- ssroom: Hall 103\nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\n
- Group: 15\, 16\nUniID: 1405276
-LOCATION:Hall 103\, Faculty of Dental Medicine
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 311
+ \nFloor: 3\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 15\, 16\n
+ UniID: 1405276
+LOCATION:311\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2

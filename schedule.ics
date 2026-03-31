@@ -674,9 +674,9 @@ DTSTART:20260409T083000Z
 DTEND:20260409T100000Z
 UID:1360338@muv.mihoff.de
 DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: Anton Bozhidarov Tonchev\nGroup: 1\, 2\, 3\,
-  4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\,
-  20\, 21\, 22\, 23\, 24\nUniID: 1360338
+ ditorium\nFloor: 4\nLecturer: David Luts\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7
+ \, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\
+ , 23\, 24\nUniID: 1360338
 LOCATION:I-st Auditorium\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1005,9 +1005,9 @@ DTSTART:20260423T083000Z
 DTEND:20260423T100000Z
 UID:1360340@muv.mihoff.de
 DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: I-st Au
- ditorium\nFloor: 4\nLecturer: David Luts\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7
- \, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\
- , 23\, 24\nUniID: 1360340
+ ditorium\nFloor: 4\nLecturer: Anton Bozhidarov Tonchev\nGroup: 1\, 2\, 3\,
+  4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\,
+  20\, 21\, 22\, 23\, 24\nUniID: 1360340
 LOCATION:I-st Auditorium\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5065,7 +5065,7 @@ DTSTART:20260415T110000Z
 DTEND:20260415T123000Z
 UID:1360116@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 312\n
- Floor: 3\nLecturer: Andreas Kontni\nGroup: 7\, 8\nUniID: 1360116
+ Floor: 3\nLecturer: David Luts\nGroup: 7\, 8\nUniID: 1360116
 LOCATION:312\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -7626,7 +7626,7 @@ DTSTART:20260415T083000Z
 DTEND:20260415T100000Z
 UID:1360081@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 330\n
- Floor: 3\nLecturer: Andreas Kontni\nGroup: 11\, 12\nUniID: 1360081
+ Floor: 3\nLecturer: David Luts\nGroup: 11\, 12\nUniID: 1360081
 LOCATION:330\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY

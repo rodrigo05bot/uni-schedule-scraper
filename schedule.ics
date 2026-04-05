@@ -2773,6 +2773,237 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260323T143000Z
+DTEND:20260323T164500Z
+UID:1369657@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-1
+ \nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 4\nUniID: 13696
+ 57
+LOCATION:406-1\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260325T120000Z
+DTEND:20260325T141500Z
+UID:1378869@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
+  501\nFloor: 5\nLecturer: Danail Vasilev Pavlov\nGroup: 4\nUniID: 1378869
+LOCATION:501\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260330T133000Z
+DTEND:20260330T154500Z
+UID:1369497@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-1
+ \nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 4\nUniID: 13694
+ 97
+LOCATION:406-1\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260401T110000Z
+DTEND:20260401T131500Z
+UID:1378870@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
+  501\nFloor: 5\nLecturer: Danail Vasilev Pavlov\nGroup: 4\nUniID: 1378870
+LOCATION:501\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260408T110000Z
+DTEND:20260408T131500Z
+UID:1378871@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
+  501\nFloor: 5\nLecturer: Danail Vasilev Pavlov\nGroup: 4\nUniID: 1378871
+LOCATION:501\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260415T110000Z
+DTEND:20260415T131500Z
+UID:1378872@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
+  501\nFloor: 5\nLecturer: Danail Vasilev Pavlov\nGroup: 4\nUniID: 1378872
+LOCATION:501\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260420T133000Z
+DTEND:20260420T154500Z
+UID:1369503@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-1
+ \nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 4\nUniID: 13695
+ 03
+LOCATION:406-1\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260422T110000Z
+DTEND:20260422T131500Z
+UID:1378873@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
+  501\nFloor: 5\nLecturer: Danail Vasilev Pavlov\nGroup: 4\nUniID: 1378873
+LOCATION:501\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260427T133000Z
+DTEND:20260427T154500Z
+UID:1369504@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-1
+ \nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 4\nUniID: 13695
+ 04
+LOCATION:406-1\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260429T110000Z
+DTEND:20260429T131500Z
+UID:1378874@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
+  501\nFloor: 5\nLecturer: Danail Vasilev Pavlov\nGroup: 4\nUniID: 1378874
+LOCATION:501\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260504T133000Z
+DTEND:20260504T154500Z
+UID:1369505@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-1
+ \nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 4\nUniID: 13695
+ 05
+LOCATION:406-1\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260511T133000Z
+DTEND:20260511T154500Z
+UID:1369506@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-1
+ \nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 4\nUniID: 13695
+ 06
+LOCATION:406-1\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260513T110000Z
+DTEND:20260513T131500Z
+UID:1378875@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
+  501\nFloor: 5\nLecturer: Danail Vasilev Pavlov\nGroup: 4\nUniID: 1378875
+LOCATION:501\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260518T133000Z
+DTEND:20260518T154500Z
+UID:1369507@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-1
+ \nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 4\nUniID: 13695
+ 07
+LOCATION:406-1\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260520T110000Z
+DTEND:20260520T131500Z
+UID:1378876@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
+  501\nFloor: 5\nLecturer: Danail Vasilev Pavlov\nGroup: 4\nUniID: 1378876
+LOCATION:501\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260527T110000Z
+DTEND:20260527T131500Z
+UID:1378877@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
+  501\nFloor: 5\nLecturer: Danail Vasilev Pavlov\nGroup: 4\nUniID: 1378877
+LOCATION:501\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
 DTSTART:20260323T073000Z
 DTEND:20260323T090000Z

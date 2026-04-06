@@ -2281,10 +2281,8 @@ SUMMARY:Общ български език - В1 и В2
 DTSTART:20260423T133000Z
 DTEND:20260423T150000Z
 UID:1405046@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  Hall 816\nFloor: 8\nLecturer: Yordan Rumenov Rachev \nGroup: 3\, 4\nUniID
- : 1405046
-LOCATION:Hall 816\, Faculty of Pharmacy
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 3\, 4\nUniID: 1405046
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2

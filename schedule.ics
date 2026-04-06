@@ -4352,6 +4352,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Human Anatomy and Histology
+DTSTART:20260408T043000Z
+DTEND:20260408T060000Z
+UID:1417246@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 01\nF
+ loor: 1\nLecturer: Kristina Borislavova Petrova\nGroup: 7\, 8\nUniID: 1417
+ 246
+LOCATION:01\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Anatomy and Histology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
 DTSTART:20260408T090000Z
 DTEND:20260408T103000Z
@@ -13846,21 +13861,6 @@ LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260408T043000Z
-DTEND:20260408T060000Z
-UID:1360011@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 330\n
- Floor: 3\nLecturer: Stefania Georgieva Terzieva\nGroup: 23\, 24\nUniID: 13
- 60011
-LOCATION:330\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

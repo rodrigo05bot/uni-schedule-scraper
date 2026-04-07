@@ -689,11 +689,11 @@ SUMMARY:Biochemistry
 DTSTART:20260421T053000Z
 DTEND:20260421T080000Z
 UID:1377735@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Faculty of Pharmacy\nClassroom: H
- all 105\nFloor: 1\nLecturer: Diana Georgieva Ivanova\nGroup: 1\, 2\, 3\, 4
- \, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 2
- 0\, 21\, 22\, 23\, 24\nUniID: 1377735
-LOCATION:Hall 105\, Faculty of Pharmacy
+DESCRIPTION:Activity: Lecture\nBuilding: Medical College\nClassroom: Hall 
+ A\nFloor: 4\nLecturer: Diana Georgieva Ivanova\nGroup: 1\, 2\, 3\, 4\, 5\,
+  6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21
+ \, 22\, 23\, 24\nUniID: 1377735
+LOCATION:Hall A\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
@@ -901,11 +901,11 @@ SUMMARY:Biochemistry
 DTSTART:20260428T053000Z
 DTEND:20260428T080000Z
 UID:1377736@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Faculty of Pharmacy\nClassroom: H
- all 105\nFloor: 1\nLecturer: Diana Georgieva Ivanova\nGroup: 1\, 2\, 3\, 4
- \, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 2
- 0\, 21\, 22\, 23\, 24\nUniID: 1377736
-LOCATION:Hall 105\, Faculty of Pharmacy
+DESCRIPTION:Activity: Lecture\nBuilding: Medical College\nClassroom: Hall 
+ A\nFloor: 4\nLecturer: Diana Georgieva Ivanova\nGroup: 1\, 2\, 3\, 4\, 5\,
+  6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21
+ \, 22\, 23\, 24\nUniID: 1377736
+LOCATION:Hall A\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry

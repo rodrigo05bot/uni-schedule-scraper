@@ -418,9 +418,9 @@ DTSTART:20260407T130000Z
 DTEND:20260407T140000Z
 UID:1411558@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: Golya
- ma zala\nLecturer: Zhulieta Georgieva Videnova\nGroup: Български 
- Народни Танци (БНТ) 2 \, Вторник\, 16:00 - 17:00\nUn
- iID: 1411558
+ ma zala\nLecturer: Zlatka Yaneva Radukanova\nGroup: Български Н
+ ародни Танци (БНТ) 2 \, Вторник\, 16:00 - 17:00\nUniI
+ D: 1411558
 LOCATION:Golyama zala\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -7864,21 +7864,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Human Anatomy and Histology
-DTSTART:20260415T083000Z
-DTEND:20260415T100000Z
-UID:1360092@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 312\n
- Floor: 3\nLecturer: Stefania Georgieva Terzieva\nGroup: 13\, 14\nUniID: 13
- 60092
-LOCATION:312\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
 DTSTART:20260415T110000Z
 DTEND:20260415T123000Z
 UID:1359920@muv.mihoff.de
@@ -7999,6 +7984,21 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Human Anatomy and Histology
+DTSTART:20260422T100000Z
+DTEND:20260422T104500Z
+UID:1417570@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 312\n
+ Floor: 3\nLecturer: Stefania Georgieva Terzieva\nGroup: 13\, 14\nUniID: 14
+ 17570
+LOCATION:312\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Anatomy and Histology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Anatomy and Histology
 DTSTART:20260422T110000Z
 DTEND:20260422T123000Z
 UID:1359921@muv.mihoff.de
@@ -8110,6 +8110,21 @@ UID:1360094@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 312\n
  Floor: 3\nLecturer: Stefania Georgieva Terzieva\nGroup: 13\, 14\nUniID: 13
  60094
+LOCATION:312\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Anatomy and Histology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Anatomy and Histology
+DTSTART:20260429T100000Z
+DTEND:20260429T104500Z
+UID:1417571@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 312\n
+ Floor: 3\nLecturer: Stefania Georgieva Terzieva\nGroup: 13\, 14\nUniID: 14
+ 17571
 LOCATION:312\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -9115,21 +9130,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260415T123000Z
-DTEND:20260415T140000Z
-UID:1406645@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 322\n
- Floor: 3\nLecturer: Stefania Georgieva Terzieva\nGroup: 15\, 16\nUniID: 14
- 06645
-LOCATION:322\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Biochemistry
 DTSTART:20260416T060000Z
 DTEND:20260416T081500Z
@@ -9238,6 +9238,21 @@ DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 322\n
  Floor: 3\nLecturer: Stefania Georgieva Terzieva\nGroup: 15\, 16\nUniID: 14
  06646
 LOCATION:322\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Anatomy and Histology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Anatomy and Histology
+DTSTART:20260422T140000Z
+DTEND:20260422T144500Z
+UID:1417572@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 313\n
+ Floor: 3\nLecturer: Stefania Georgieva Terzieva\nGroup: 15\, 16\nUniID: 14
+ 17572
+LOCATION:313\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Human Anatomy and Histology
@@ -9355,6 +9370,21 @@ DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 322\n
  Floor: 3\nLecturer: Stefania Georgieva Terzieva\nGroup: 15\, 16\nUniID: 14
  06647
 LOCATION:322\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Anatomy and Histology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Anatomy and Histology
+DTSTART:20260429T140000Z
+DTEND:20260429T144500Z
+UID:1417573@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 313\n
+ Floor: 3\nLecturer: Stefania Georgieva Terzieva\nGroup: 15\, 16\nUniID: 14
+ 17573
+LOCATION:313\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Human Anatomy and Histology

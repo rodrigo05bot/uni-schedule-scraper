@@ -6986,10 +6986,10 @@ SUMMARY:Общ български език - В1 и В2
 DTSTART:20260424T124500Z
 DTEND:20260424T141500Z
 UID:1405235@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  Hall 105\nFloor: 1\nLecturer: Evdokiya Stefanova Skocheva-Shopova\nGroup:
-  13\, 14\nUniID: 1405235
-LOCATION:Hall 105\, Faculty of Pharmacy
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: II-nd
+  Auditorium\nFloor: 3\nLecturer: Evdokiya Stefanova Skocheva-Shopova\nGrou
+ p: 13\, 14\nUniID: 1405235
+LOCATION:II-nd Auditorium\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
@@ -9061,9 +9061,9 @@ DTSTART:20260420T063000Z
 DTEND:20260420T080000Z
 UID:1404970@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  Hall 105\nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 
+  Hall 816\nFloor: 8\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 
  17\, 18\nUniID: 1404970
-LOCATION:Hall 105\, Faculty of Pharmacy
+LOCATION:Hall 816\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
@@ -9180,9 +9180,9 @@ DTSTART:20260427T063000Z
 DTEND:20260427T080000Z
 UID:1404971@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  Hall 105\nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 
+  Hall 816\nFloor: 8\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 
  17\, 18\nUniID: 1404971
-LOCATION:Hall 105\, Faculty of Pharmacy
+LOCATION:Hall 816\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2

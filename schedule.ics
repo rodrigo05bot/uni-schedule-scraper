@@ -6862,6 +6862,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Human Anatomy and Histology
+DTSTART:20260420T141500Z
+DTEND:20260420T154500Z
+UID:1417660@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 03\nF
+ loor: 1\nLecturer: Stanislav Radostinov Morfov\nGroup: 13\, 14\nUniID: 141
+ 7660
+LOCATION:03\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Anatomy and Histology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
 DTSTART:20260421T120000Z
 DTEND:20260421T133000Z

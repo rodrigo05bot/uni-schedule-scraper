@@ -1781,8 +1781,7 @@ DTSTART:20260415T081500Z
 DTEND:20260415T103000Z
 UID:1378832@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  609\nFloor: 6\nLecturer: Milka Asparuhova Nashar\nGroup: 3\nUniID: 137883
- 2
+  609\nFloor: 6\nLecturer: Danail Vasilev Pavlov\nGroup: 3\nUniID: 1378832
 LOCATION:609\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY

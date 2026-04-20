@@ -3028,8 +3028,8 @@ DTSTART:20260417T103000Z
 DTEND:20260417T124500Z
 UID:1378983@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  501\nFloor: 5\nLecturer: Yoana Dimitrova Kiselova-Kaneva\nGroup: 6\nUniID
- : 1378983
+  501\nFloor: 5\nLecturer: Deyana Georgieva Vankova\nGroup: 6\nUniID: 13789
+ 83
 LOCATION:501\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY

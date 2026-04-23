@@ -967,10 +967,10 @@ BEGIN:VEVENT
 SUMMARY:Human Physiology
 DTSTART:20260420T133000Z
 DTEND:20260420T154500Z
-UID:1410046@muv.mihoff.de
+UID:1417779@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 311\n
  Floor: 3\nLecturer: Hristiyana Hristoforova Todorova\nGroup: 10\nUniID: 14
- 10046
+ 17779
 LOCATION:311\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -997,11 +997,11 @@ BEGIN:VEVENT
 SUMMARY:Human Physiology
 DTSTART:20260427T133000Z
 DTEND:20260427T154500Z
-UID:1410047@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 311\n
- Floor: 3\nLecturer: Hristiyana Hristoforova Todorova\nGroup: 10\nUniID: 14
- 10047
-LOCATION:311\, Main Building
+UID:1417781@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-2
+ \nFloor: 4\nLecturer: Hristiyana Hristoforova Todorova\nGroup: 10\, 17\nUn
+ iID: 1417781
+LOCATION:406-2\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Human Physiology

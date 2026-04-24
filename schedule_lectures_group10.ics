@@ -244,22 +244,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260504T083000Z
-DTEND:20260504T100000Z
-UID:1360342@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: II-nd A
- uditorium\nFloor: 3\nLecturer: Anton Bozhidarov Tonchev\nGroup: 1\, 2\, 3\
- , 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\
- , 20\, 21\, 22\, 23\, 24\nUniID: 1360342
-LOCATION:II-nd Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Human Physiology
 DTSTART:20260504T101500Z
 DTEND:20260504T114500Z

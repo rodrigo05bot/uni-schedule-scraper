@@ -9210,10 +9210,10 @@ SUMMARY:Общ български език - В1 и В2
 DTSTART:20260511T124500Z
 DTEND:20260511T141500Z
 UID:1405314@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: III-r
- d Auditorium\nFloor: 4\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\,
-  20\nUniID: 1405314
-LOCATION:III-rd Auditorium\, Main Building
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: I-st 
+ Auditorium\nFloor: 4\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\, 2
+ 0\nUniID: 1405314
+LOCATION:I-st Auditorium\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
@@ -10160,10 +10160,10 @@ SUMMARY:Общ български език - В1 и В2
 DTSTART:20260511T060000Z
 DTEND:20260511T073000Z
 UID:1405353@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: III-r
- d Auditorium\nFloor: 4\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\,
-  22\nUniID: 1405353
-LOCATION:III-rd Auditorium\, Main Building
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: I-st 
+ Auditorium\nFloor: 4\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 2
+ 2\nUniID: 1405353
+LOCATION:I-st Auditorium\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2

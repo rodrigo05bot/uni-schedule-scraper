@@ -496,7 +496,7 @@ DTSTART:20260507T063000Z
 DTEND:20260507T080000Z
 UID:1407433@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 05\nF
- loor: 1\nLecturer: Petar Stamatov Valchanov\nGroup: 1\, 2\nUniID: 1407433
+ loor: 1\nLecturer: Iskren Boyanov Velikov\nGroup: 1\, 2\nUniID: 1407433
 LOCATION:05\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5032,8 +5032,7 @@ DTSTART:20260508T063000Z
 DTEND:20260508T080000Z
 UID:1360349@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 05\nF
- loor: 1\nLecturer: Petar Stamatov Valchanov\nGroup: 13\, 14\nUniID: 136034
- 9
+ loor: 1\nLecturer: Andreas Kontni\nGroup: 13\, 14\nUniID: 1360349
 LOCATION:05\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5762,8 +5761,8 @@ DTSTART:20260504T063000Z
 DTEND:20260504T080000Z
 UID:1405249@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Boyana Angelova Angelova\nGroup: 15\, 16\nUniID: 14052
- 49
+ Floor: 4\nLecturer: Dora Delcheva Solakova-Stanislavova\nGroup: 15\, 16\nU
+ niID: 1405249
 LOCATION:431\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5850,8 +5849,8 @@ DTSTART:20260511T063000Z
 DTEND:20260511T080000Z
 UID:1405250@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Boyana Angelova Angelova\nGroup: 15\, 16\nUniID: 14052
- 50
+ Floor: 4\nLecturer: Dora Delcheva Solakova-Stanislavova\nGroup: 15\, 16\nU
+ niID: 1405250
 LOCATION:431\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -5967,8 +5966,8 @@ DTSTART:20260518T063000Z
 DTEND:20260518T080000Z
 UID:1405251@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Boyana Angelova Angelova\nGroup: 15\, 16\nUniID: 14052
- 51
+ Floor: 4\nLecturer: Dora Delcheva Solakova-Stanislavova\nGroup: 15\, 16\nU
+ niID: 1405251
 LOCATION:431\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -8801,8 +8800,8 @@ DTSTART:20260513T063000Z
 DTEND:20260513T080000Z
 UID:1405405@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
- room: 2\nFloor: 1\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 23\, 24\n
- UniID: 1405405
+ room: 2\nFloor: 1\nLecturer: Dora Delcheva Solakova-Stanislavova\nGroup: 2
+ 3\, 24\nUniID: 1405405
 LOCATION:2\, Student Hostel\, Block 3
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -8891,8 +8890,8 @@ DTSTART:20260520T063000Z
 DTEND:20260520T080000Z
 UID:1405406@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
- room: 2\nFloor: 1\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 23\, 24\n
- UniID: 1405406
+ room: 2\nFloor: 1\nLecturer: Dora Delcheva Solakova-Stanislavova\nGroup: 2
+ 3\, 24\nUniID: 1405406
 LOCATION:2\, Student Hostel\, Block 3
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -8966,8 +8965,8 @@ DTSTART:20260527T063000Z
 DTEND:20260527T080000Z
 UID:1405407@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
- room: 2\nFloor: 1\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 23\, 24\n
- UniID: 1405407
+ room: 2\nFloor: 1\nLecturer: Dora Delcheva Solakova-Stanislavova\nGroup: 2
+ 3\, 24\nUniID: 1405407
 LOCATION:2\, Student Hostel\, Block 3
 BEGIN:VALARM
 ACTION:DISPLAY

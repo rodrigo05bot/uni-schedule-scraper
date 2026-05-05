@@ -7300,10 +7300,8 @@ SUMMARY:Общ български език - В1 и В2
 DTSTART:20260511T124500Z
 DTEND:20260511T141500Z
 UID:1405314@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: I-st 
- Auditorium\nFloor: 4\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\, 2
- 0\nUniID: 1405314
-LOCATION:I-st Auditorium\, Main Building
+DESCRIPTION:Activity: Excercise\nLecturer: Yordanka Tsvetkova Marinova\nGr
+ oup: 19\, 20\nUniID: 1405314
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2

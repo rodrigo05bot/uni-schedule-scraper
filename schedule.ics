@@ -1396,8 +1396,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
-DTSTART:20260508T130000Z
-DTEND:20260508T143000Z
+DTSTART:20260508T131500Z
+DTEND:20260508T144500Z
 UID:1407469@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: III-r
  d Auditorium\nFloor: 4\nLecturer: Yordan Rumenov Rachev \nGroup: 3\, 4\nUn

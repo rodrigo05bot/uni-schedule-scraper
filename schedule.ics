@@ -1443,7 +1443,8 @@ DTSTART:20260513T063000Z
 DTEND:20260513T080000Z
 UID:1360047@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 330\n
- Floor: 3\nLecturer: Lora Vasileva Veleva\nGroup: 3\, 4\nUniID: 1360047
+ Floor: 3\nLecturer: Desislava Krasimirova Dineva\nGroup: 3\, 4\nUniID: 136
+ 0047
 LOCATION:330\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY

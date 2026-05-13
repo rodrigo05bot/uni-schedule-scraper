@@ -790,6 +790,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Общ български език - В1 и В2
+DTSTART:20260625T060000Z
+DTEND:20260625T090000Z
+UID:1418739@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Main Building\nClassroom: 431\nFloor
+ : 4\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2\nUniID: 1418739
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sport
 DTSTART:20260716T070000Z
 DTEND:20260716T083000Z
@@ -1378,6 +1392,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Общ български език - В1 и В2
+DTSTART:20260625T100000Z
+DTEND:20260625T130000Z
+UID:1418747@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Main Building\nClassroom: 431\nFloor
+ : 4\nLecturer: Yordan Rumenov Rachev \nGroup: 3\, 4\nUniID: 1418747
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Human Physiology
 DTSTART:20260427T133000Z
 DTEND:20260427T154500Z
@@ -1925,6 +1953,20 @@ UID:1405088@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
  Floor: 4\nLecturer: Daniel Mitkov Dimitrov\nGroup: 5\, 6\nUniID: 1405088
 LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Общ български език - В1 и В2
+DTSTART:20260625T060000Z
+DTEND:20260625T090000Z
+UID:1418742@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Main Building\nClassroom: 407\nFloor
+ : 4\nLecturer: Daniel Mitkov Dimitrov\nGroup: 5\, 6\nUniID: 1418742
+LOCATION:407\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
@@ -2507,6 +2549,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Общ български език - В1 и В2
+DTSTART:20260625T100000Z
+DTEND:20260625T130000Z
+UID:1418748@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Main Building\nClassroom: 407\nFloor
+ : 4\nLecturer: Daniela Hristova Ivanova\nGroup: 7\, 8\nUniID: 1418748
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Human Physiology
 DTSTART:20260429T061500Z
 DTEND:20260429T083000Z
@@ -3059,6 +3115,21 @@ DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
  room: 2\nFloor: 1\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10
  \nUniID: 1405164
 LOCATION:2\, Student Hostel\, Block 3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Общ български език - В1 и В2
+DTSTART:20260625T060000Z
+DTEND:20260625T090000Z
+UID:1418743@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Student Hostel\, Block 3\nClassroom:
+  3\nFloor: 1\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUni
+ ID: 1418743
+LOCATION:3\, Student Hostel\, Block 3
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
@@ -3649,6 +3720,21 @@ UID:1405201@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
  room: Hall 1\nFloor: 1\nLecturer: Katerina Yordanova Peneva\nGroup: 11\, 1
  2\nUniID: 1405201
+LOCATION:Hall 1\, Student Hostel\, Block 3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Общ български език - В1 и В2
+DTSTART:20260625T060000Z
+DTEND:20260625T090000Z
+UID:1418740@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Student Hostel\, Block 3\nClassroom:
+  Hall 1\nFloor: 1\nLecturer: Katerina Yordanova Peneva\nGroup: 11\, 12\nUn
+ iID: 1418740
 LOCATION:Hall 1\, Student Hostel\, Block 3
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4271,6 +4357,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Общ български език - В1 и В2
+DTSTART:20260625T100000Z
+DTEND:20260625T130000Z
+UID:1418744@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Student Hostel\, Block 3\nClassroom:
+  Hall 1\nFloor: 1\nLecturer: Evdokiya Stefanova Skocheva-Shopova\nGroup: 1
+ 3\, 14\nUniID: 1418744
+LOCATION:Hall 1\, Student Hostel\, Block 3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Biochemistry
 DTSTART:20260428T083000Z
 DTEND:20260428T104500Z
@@ -4844,6 +4945,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Общ български език - В1 и В2
+DTSTART:20260625T060000Z
+DTEND:20260625T090000Z
+UID:1418741@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Student Hostel\, Block 3\nClassroom:
+  2\nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 15\, 16
+ \nUniID: 1418741
+LOCATION:2\, Student Hostel\, Block 3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Biochemistry
 DTSTART:20260430T060000Z
 DTEND:20260430T081500Z
@@ -5402,6 +5518,21 @@ DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
  room: Hall 1\nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGrou
  p: 17\, 18\nUniID: 1405303
 LOCATION:Hall 1\, Student Hostel\, Block 3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Общ български език - В1 и В2
+DTSTART:20260625T100000Z
+DTEND:20260625T130000Z
+UID:1418745@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Student Hostel\, Block 3\nClassroom:
+  2\nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 17\, 18
+ \nUniID: 1418745
+LOCATION:2\, Student Hostel\, Block 3
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
@@ -6001,6 +6132,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Общ български език - В1 и В2
+DTSTART:20260626T060000Z
+DTEND:20260626T090000Z
+UID:1418749@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Student Hostel\, Block 3\nClassroom:
+  Hall 1\nFloor: 1\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\, 20\n
+ UniID: 1418749
+LOCATION:Hall 1\, Student Hostel\, Block 3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Human Physiology
 DTSTART:20260428T133000Z
 DTEND:20260428T154500Z
@@ -6581,6 +6727,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Общ български език - В1 и В2
+DTSTART:20260626T060000Z
+DTEND:20260626T090000Z
+UID:1418750@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Main Building\nClassroom: 407\nFloor
+ : 4\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 1418750
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Biochemistry
 DTSTART:20260429T054500Z
 DTEND:20260429T080000Z
@@ -7095,6 +7255,21 @@ DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
  ssroom: Hall 111\nFloor: 1\nLecturer: Valentina Tihomirova Simeonova\nGrou
  p: 23\, 24\nUniID: 1405421
 LOCATION:Hall 111\, Faculty of Dental Medicine
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Общ български език - В1 и В2
+DTSTART:20260625T100000Z
+DTEND:20260625T130000Z
+UID:1418746@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Student Hostel\, Block 3\nClassroom:
+  3\nFloor: 1\nLecturer: Valentina Tihomirova Simeonova\nGroup: 23\, 24\nUn
+ iID: 1418746
+LOCATION:3\, Student Hostel\, Block 3
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2

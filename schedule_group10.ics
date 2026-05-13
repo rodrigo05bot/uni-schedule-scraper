@@ -600,6 +600,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Общ български език - В1 и В2
+DTSTART:20260625T060000Z
+DTEND:20260625T090000Z
+UID:1418743@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Student Hostel\, Block 3\nClassroom:
+  3\nFloor: 1\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUni
+ ID: 1418743
+LOCATION:3\, Student Hostel\, Block 3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Human Physiology
 DTSTART:20260427T133000Z
 DTEND:20260427T154500Z

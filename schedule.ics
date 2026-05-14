@@ -791,8 +791,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
-DTSTART:20260625T060000Z
-DTEND:20260625T090000Z
+DTSTART:20260626T060000Z
+DTEND:20260626T090000Z
 UID:1418739@muv.mihoff.de
 DESCRIPTION:Activity: Exam\nBuilding: Main Building\nClassroom: 431\nFloor
  : 4\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2\nUniID: 1418739
@@ -1393,8 +1393,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
-DTSTART:20260625T100000Z
-DTEND:20260625T130000Z
+DTSTART:20260626T100000Z
+DTEND:20260626T130000Z
 UID:1418747@muv.mihoff.de
 DESCRIPTION:Activity: Exam\nBuilding: Main Building\nClassroom: 431\nFloor
  : 4\nLecturer: Yordan Rumenov Rachev \nGroup: 3\, 4\nUniID: 1418747

@@ -1256,6 +1256,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260519T081500Z
+DTEND:20260519T103000Z
+UID:1419101@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 311\n
+ Floor: 3\nLecturer: Antonia Plamenova Hachmeriyan\nGroup: 3\, 9\nUniID: 14
+ 19101
+LOCATION:311\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
 DTSTART:20260519T140000Z
 DTEND:20260519T153000Z
@@ -1324,21 +1339,6 @@ LOCATION:Hall 816\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260522T054500Z
-DTEND:20260522T080000Z
-UID:1370470@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-2
- \nFloor: 4\nLecturer: Antonia Plamenova Hachmeriyan\nGroup: 3\nUniID: 1370
- 470
-LOCATION:406-2\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -3022,21 +3022,6 @@ LOCATION:431\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260519T081500Z
-DTEND:20260519T103000Z
-UID:1369788@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 311\n
- Floor: 3\nLecturer: Antonia Plamenova Hachmeriyan\nGroup: 9\nUniID: 136978
- 8
-LOCATION:311\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

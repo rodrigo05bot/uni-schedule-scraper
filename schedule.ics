@@ -917,8 +917,7 @@ DTSTART:20260513T081500Z
 DTEND:20260513T103000Z
 UID:1378835@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  609\nFloor: 6\nLecturer: Milka Asparuhova Nashar\nGroup: 3\nUniID: 137883
- 5
+  609\nFloor: 6\nLecturer: Bogdan Rusev Hadzhiev\nGroup: 3\nUniID: 1378835
 LOCATION:609\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4852,8 +4851,8 @@ DTSTART:20260513T081500Z
 DTEND:20260513T103000Z
 UID:1378861@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  504\nFloor: 5\nLecturer: Diana Georgieva Ivanova\nGroup: 19\nUniID: 13788
- 61
+  504\nFloor: 5\nLecturer: Galya Mihaylova Mihaylova\nGroup: 19\nUniID: 137
+ 8861
 LOCATION:504\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY

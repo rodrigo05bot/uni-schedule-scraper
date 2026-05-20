@@ -488,6 +488,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Human Physiology
+DTSTART:20260521T110000Z
+DTEND:20260521T131500Z
+UID:1420099@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 311\n
+ Floor: 3\nLecturer: Margarita Stefanova Velikova\nGroup: 1\nUniID: 1420099
+LOCATION:311\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Physiology
 DTSTART:20260522T054500Z
 DTEND:20260522T080000Z
 UID:1370457@muv.mihoff.de
@@ -572,21 +586,6 @@ LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260529T054500Z
-DTEND:20260529T080000Z
-UID:1370458@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-1
- \nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\nUniID: 13704
- 58
-LOCATION:406-1\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -767,13 +766,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Human Physiology
-DTSTART:20260527T084500Z
-DTEND:20260527T110000Z
-UID:1369983@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-1
- \nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 2\nUniID: 13699
- 83
-LOCATION:406-1\, Main Building
+DTSTART:20260522T133000Z
+DTEND:20260522T154500Z
+UID:1420097@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 310\n
+ Floor: 3\nLecturer: Margarita Stefanova Velikova\nGroup: 2\, 5\nUniID: 142
+ 0097
+LOCATION:310\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Human Physiology
@@ -1601,20 +1600,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260527T113000Z
-DTEND:20260527T134500Z
-UID:1408238@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 310\n
- Floor: 3\nLecturer: Margarita Stefanova Velikova\nGroup: 5\nUniID: 1408238
-LOCATION:310\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
 DTSTART:20260529T063000Z
 DTEND:20260529T080000Z
@@ -2057,10 +2042,10 @@ BEGIN:VEVENT
 SUMMARY:Human Physiology
 DTSTART:20260526T083000Z
 DTEND:20260526T104500Z
-UID:1369710@muv.mihoff.de
+UID:1420098@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-1
- \nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 7\nUniID: 13697
- 10
+ \nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 7\, 18\nUniID: 
+ 1420098
 LOCATION:406-1\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4709,21 +4694,6 @@ LOCATION:504\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260529T083000Z
-DTEND:20260529T104500Z
-UID:1370496@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-1
- \nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 18\nUniID: 1370
- 496
-LOCATION:406-1\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

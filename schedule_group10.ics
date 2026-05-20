@@ -224,6 +224,22 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260714T063000Z
+DTEND:20260714T071500Z
+UID:1420244@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Main Building\nClassroom: 406-1\nFlo
+ or: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\, 3\, 4\, 5\, 
+ 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\
+ , 22\, 23\, 24\nUniID: 1420244
+LOCATION:406-1\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Human Anatomy and Histology
 DTSTART:20260715T050000Z
 DTEND:20260715T063000Z
@@ -234,6 +250,22 @@ DESCRIPTION:Activity: Exam\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Human Anatomy and Histology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260715T063000Z
+DTEND:20260715T071500Z
+UID:1420245@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Main Building\nClassroom: 406-1\nFlo
+ or: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\, 3\, 4\, 5\, 
+ 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\
+ , 22\, 23\, 24\nUniID: 1420245
+LOCATION:406-1\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -526,6 +558,20 @@ LOCATION:3\, Student Hostel\, Block 3
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Physiology
+DTSTART:20260701T053000Z
+DTEND:20260701T061500Z
+UID:1420234@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Main Building\nClassroom: 310\nFloor
+ : 3\nLecturer: Margarita Stefanova Velikova\nGroup: 9\, 10\nUniID: 1420234
+LOCATION:310\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Human Physiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

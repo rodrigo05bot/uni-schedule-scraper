@@ -5690,21 +5690,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260528T063000Z
-DTEND:20260528T080000Z
-UID:1405381@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
- room: 3\nFloor: 1\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\n
- UniID: 1405381
-LOCATION:3\, Student Hostel\, Block 3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Human Physiology
 DTSTART:20260529T054500Z
 DTEND:20260529T080000Z

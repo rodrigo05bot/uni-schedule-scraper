@@ -590,6 +590,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260608T060000Z
+DTEND:20260608T081500Z
+UID:1421300@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 506\
+ nFloor: 5\nGroup: 1\nUniID: 1421300
+LOCATION:506\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sport
 DTSTART:20260615T070000Z
 DTEND:20260615T083000Z
@@ -834,6 +848,20 @@ DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
   610\nFloor: 6\nLecturer: Desislava Plamenova Nedyalkova\nGroup: 2\nUniID:
   1379000
 LOCATION:610\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260608T060000Z
+DTEND:20260608T081500Z
+UID:1421301@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 508\
+ nFloor: 5\nGroup: 2\nUniID: 1421301
+LOCATION:508\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
@@ -1220,6 +1248,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260608T060000Z
+DTEND:20260608T081500Z
+UID:1421302@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 509\
+ nFloor: 5\nGroup: 3\nUniID: 1421302
+LOCATION:509\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Human Physiology
 DTSTART:20260625T063000Z
 DTEND:20260625T071500Z
@@ -1328,6 +1370,20 @@ UID:1378877@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
   501\nFloor: 5\nLecturer: Danail Vasilev Pavlov\nGroup: 4\nUniID: 1378877
 LOCATION:501\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260608T100000Z
+DTEND:20260608T121500Z
+UID:1421303@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 508\
+ nFloor: 5\nGroup: 4\nUniID: 1421303
+LOCATION:508\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
@@ -1674,6 +1730,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260608T100000Z
+DTEND:20260608T121500Z
+UID:1421304@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 509\
+ nFloor: 5\nGroup: 5\nUniID: 1421304
+LOCATION:509\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
 DTSTART:20260625T060000Z
 DTEND:20260625T090000Z
@@ -1800,6 +1870,20 @@ DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
   501\nFloor: 5\nLecturer: Yoana Dimitrova Kiselova-Kaneva\nGroup: 6\nUniID
  : 1378988
 LOCATION:501\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260609T060000Z
+DTEND:20260609T081500Z
+UID:1421305@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 506\
+ nFloor: 5\nGroup: 6\nUniID: 1421305
+LOCATION:506\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
@@ -2201,6 +2285,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260609T060000Z
+DTEND:20260609T081500Z
+UID:1421306@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 508\
+ nFloor: 5\nGroup: 7\nUniID: 1421306
+LOCATION:508\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
 DTSTART:20260625T100000Z
 DTEND:20260625T130000Z
@@ -2323,6 +2421,20 @@ UID:1378961@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
   609\nFloor: 6\nLecturer: Danko Dimchev Georgiev\nGroup: 8\nUniID: 1378961
 LOCATION:609\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260609T060000Z
+DTEND:20260609T081500Z
+UID:1421307@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 509\
+ nFloor: 5\nGroup: 8\nUniID: 1421307
+LOCATION:509\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
@@ -2684,6 +2796,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260609T100000Z
+DTEND:20260609T121500Z
+UID:1421308@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 508\
+ nFloor: 5\nGroup: 9\nUniID: 1421308
+LOCATION:508\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
 DTSTART:20260625T060000Z
 DTEND:20260625T090000Z
@@ -2810,6 +2936,34 @@ UID:1378030@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
   509\nFloor: 5\nLecturer: Momchil Toshkov Barbolov\nGroup: 10\nUniID: 1378
  030
+LOCATION:509\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260609T100000Z
+DTEND:20260609T121500Z
+UID:1421309@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 509\
+ nFloor: 5\nGroup: 10\nUniID: 1421309
+LOCATION:509\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260610T060000Z
+DTEND:20260610T081500Z
+UID:1421310@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 509\
+ nFloor: 5\nGroup: 10\nUniID: 1421310
 LOCATION:509\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3186,6 +3340,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260610T060000Z
+DTEND:20260610T081500Z
+UID:1421311@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 506\
+ nFloor: 5\nGroup: 11\nUniID: 1421311
+LOCATION:506\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Human Anatomy and Histology
 DTSTART:20260619T050000Z
 DTEND:20260619T071500Z
@@ -3326,6 +3494,20 @@ DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
   501\nFloor: 5\nLecturer: Galya Mihaylova Mihaylova\nGroup: 12\nUniID: 137
  8058
 LOCATION:501\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260610T060000Z
+DTEND:20260610T081500Z
+UID:1421312@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 508\
+ nFloor: 5\nGroup: 12\nUniID: 1421312
+LOCATION:508\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
@@ -3872,6 +4054,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260610T100000Z
+DTEND:20260610T121500Z
+UID:1421313@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 508\
+ nFloor: 5\nGroup: 14\nUniID: 1421313
+LOCATION:508\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
 DTSTART:20260504T063000Z
 DTEND:20260504T080000Z
@@ -4237,6 +4433,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260610T100000Z
+DTEND:20260610T121500Z
+UID:1421314@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 509\
+ nFloor: 5\nGroup: 15\nUniID: 1421314
+LOCATION:509\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
 DTSTART:20260625T060000Z
 DTEND:20260625T090000Z
@@ -4365,6 +4575,20 @@ DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
   509\nFloor: 5\nLecturer: Galya Mihaylova Mihaylova\nGroup: 16\nUniID: 137
  8908
 LOCATION:509\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260611T060000Z
+DTEND:20260611T081500Z
+UID:1421315@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 506\
+ nFloor: 5\nGroup: 16\nUniID: 1421315
+LOCATION:506\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
@@ -4740,6 +4964,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260611T060000Z
+DTEND:20260611T081500Z
+UID:1421316@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 508\
+ nFloor: 5\nGroup: 17\nUniID: 1421316
+LOCATION:508\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
 DTSTART:20260625T100000Z
 DTEND:20260625T130000Z
@@ -4853,6 +5091,20 @@ DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
   504\nFloor: 5\nLecturer: Galya Mihaylova Mihaylova\nGroup: 18\nUniID: 137
  8442
 LOCATION:504\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260611T060000Z
+DTEND:20260611T081500Z
+UID:1421317@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 509\
+ nFloor: 5\nGroup: 18\nUniID: 1421317
+LOCATION:509\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
@@ -5229,6 +5481,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260611T100000Z
+DTEND:20260611T121500Z
+UID:1421318@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 508\
+ nFloor: 5\nGroup: 19\nUniID: 1421318
+LOCATION:508\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
 DTSTART:20260626T060000Z
 DTEND:20260626T090000Z
@@ -5357,6 +5623,20 @@ DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
   501\nFloor: 5\nLecturer: Momchil Toshkov Barbolov\nGroup: 20\nUniID: 1378
  850
 LOCATION:501\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260611T100000Z
+DTEND:20260611T121500Z
+UID:1421335@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 509\
+ nFloor: 5\nGroup: 20\nUniID: 1421335
+LOCATION:509\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
@@ -5705,6 +5985,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260612T060000Z
+DTEND:20260612T081500Z
+UID:1421319@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 506\
+ nFloor: 5\nGroup: 21\nUniID: 1421319
+LOCATION:506\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Human Anatomy and Histology
 DTSTART:20260623T050000Z
 DTEND:20260623T071500Z
@@ -5829,6 +6123,20 @@ LOCATION:311\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Human Physiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260612T060000Z
+DTEND:20260612T081500Z
+UID:1421320@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 508\
+ nFloor: 5\nGroup: 22\nUniID: 1421320
+LOCATION:508\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -6148,6 +6456,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260612T060000Z
+DTEND:20260612T081500Z
+UID:1421321@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 509\
+ nFloor: 5\nGroup: 23\nUniID: 1421321
+LOCATION:509\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Общ български език - В1 и В2
 DTSTART:20260625T100000Z
 DTEND:20260625T130000Z
@@ -6216,6 +6538,20 @@ DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
   504\nFloor: 5\nLecturer: Desislava Plamenova Nedyalkova\nGroup: 24\nUniID
  : 1379025
 LOCATION:504\, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Biochemistry
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biochemistry
+DTSTART:20260612T100000Z
+DTEND:20260612T121500Z
+UID:1421322@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Faculty of Pharmacy\nClassroom: 508\
+ nFloor: 5\nGroup: 24\nUniID: 1421322
+LOCATION:508\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry

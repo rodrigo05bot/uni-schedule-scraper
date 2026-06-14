@@ -5,80 +5,6 @@ X-WR-CALNAME:MU Varna Schedule (All Groups)
 X-WR-TIMEZONE:Europe/Sofia
 BEGIN:VEVENT
 SUMMARY:Biochemistry
-DTSTART:20260526T053000Z
-DTEND:20260526T080000Z
-UID:1377740@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Faculty of Pharmacy\nClassroom: H
- all 105\nFloor: 1\nLecturer: Diana Georgieva Ivanova\nGroup: 1\, 2\, 3\, 4
- \, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 2
- 0\, 21\, 22\, 23\, 24\nUniID: 1377740
-LOCATION:Hall 105\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260526T103000Z
-DTEND:20260526T120000Z
-UID:1404999@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2\nUniID: 1404999
-LOCATION:431\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sport
-DTSTART:20260526T130000Z
-DTEND:20260526T140000Z
-UID:1411565@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: Golya
- ma zala\nLecturer: Zhulieta Georgieva Videnova\nGroup: Български 
- Народни Танци (БНТ) 2 \, Вторник\, 16:00 - 17:00\nUn
- iID: 1411565
-LOCATION:Golyama zala\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Sport
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260527T043000Z
-DTEND:20260527T060000Z
-UID:1359829@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 05\nF
- loor: 1\nLecturer: Petar Stamatov Valchanov\nGroup: 1\, 2\nUniID: 1359829
-LOCATION:05\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260527T121500Z
-DTEND:20260527T134500Z
-UID:1405012@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
- Floor: 5\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2\nUniID: 1405012
-LOCATION:505\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
 DTSTART:20260608T060000Z
 DTEND:20260608T081500Z
 UID:1421300@muv.mihoff.de
@@ -239,21 +165,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Biochemistry
-DTSTART:20260529T103000Z
-DTEND:20260529T124500Z
-UID:1379000@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  610\nFloor: 6\nLecturer: Desislava Plamenova Nedyalkova\nGroup: 2\nUniID:
-  1379000
-LOCATION:610\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
 DTSTART:20260608T060000Z
 DTEND:20260608T081500Z
 UID:1421301@muv.mihoff.de
@@ -263,94 +174,6 @@ LOCATION:508\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260526T140000Z
-DTEND:20260526T153000Z
-UID:1405037@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 313\n
- Floor: 3\nLecturer: Yordan Rumenov Rachev \nGroup: 3\, 4\nUniID: 1405037
-LOCATION:313\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260527T043000Z
-DTEND:20260527T060000Z
-UID:1366258@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 04\nF
- loor: 1\nLecturer: Iskren Boyanov Velikov\nGroup: 3\, 4\nUniID: 1366258
-LOCATION:04\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260527T081500Z
-DTEND:20260527T103000Z
-UID:1378837@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  609\nFloor: 6\nLecturer: Milka Asparuhova Nashar\nGroup: 3\nUniID: 137883
- 7
-LOCATION:609\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260528T133000Z
-DTEND:20260528T150000Z
-UID:1405051@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  Hall 816\nFloor: 8\nLecturer: Yordan Rumenov Rachev \nGroup: 3\, 4\nUniID
- : 1405051
-LOCATION:Hall 816\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260529T054500Z
-DTEND:20260529T080000Z
-UID:1370471@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-2
- \nFloor: 4\nLecturer: Antonia Plamenova Hachmeriyan\nGroup: 3\nUniID: 1370
- 471
-LOCATION:406-2\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260529T130000Z
-DTEND:20260529T143000Z
-UID:1407472@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: III-r
- d Auditorium\nFloor: 4\nLecturer: Yordan Rumenov Rachev \nGroup: 3\, 4\nUn
- iID: 1407472
-LOCATION:III-rd Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -398,20 +221,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Biochemistry
-DTSTART:20260527T110000Z
-DTEND:20260527T131500Z
-UID:1378877@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  501\nFloor: 5\nLecturer: Danail Vasilev Pavlov\nGroup: 4\nUniID: 1378877
-LOCATION:501\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
 DTSTART:20260608T100000Z
 DTEND:20260608T121500Z
 UID:1421303@muv.mihoff.de
@@ -421,62 +230,6 @@ LOCATION:508\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260526T083000Z
-DTEND:20260526T104500Z
-UID:1379013@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  609\nFloor: 6\nLecturer: Danail Vasilev Pavlov\nGroup: 5\nUniID: 1379013
-LOCATION:609\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260526T123000Z
-DTEND:20260526T140000Z
-UID:1408813@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 313\n
- Floor: 3\nLecturer: Daniel Mitkov Dimitrov\nGroup: 5\, 6\nUniID: 1408813
-LOCATION:313\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260527T043000Z
-DTEND:20260527T060000Z
-UID:1359855@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 03\nF
- loor: 1\nLecturer: Dimo Stoyanov Stoyanov\nGroup: 5\, 6\nUniID: 1359855
-LOCATION:03\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260529T063000Z
-DTEND:20260529T080000Z
-UID:1405088@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Daniel Mitkov Dimitrov\nGroup: 5\, 6\nUniID: 1405088
-LOCATION:431\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -523,36 +276,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260527T084500Z
-DTEND:20260527T110000Z
-UID:1370028@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-2
- \nFloor: 4\nLecturer: Antonia Plamenova Hachmeriyan\nGroup: 6\nUniID: 1370
- 028
-LOCATION:406-2\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260529T103000Z
-DTEND:20260529T124500Z
-UID:1378988@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  501\nFloor: 5\nLecturer: Yoana Dimitrova Kiselova-Kaneva\nGroup: 6\nUniID
- : 1378988
-LOCATION:501\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Biochemistry
 DTSTART:20260609T060000Z
 DTEND:20260609T081500Z
@@ -575,94 +298,6 @@ DESCRIPTION:Activity: Exam\nGroup: 6\, 7\, 8\, 9\, 10\nUniID: 1419052
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260526T083000Z
-DTEND:20260526T104500Z
-UID:1420098@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-1
- \nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 7\, 18\nUniID: 
- 1420098
-LOCATION:406-1\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260526T123000Z
-DTEND:20260526T140000Z
-UID:1405101@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: I-st 
- Auditorium\nFloor: 4\nLecturer: Daniela Hristova Ivanova\nGroup: 7\, 8\nUn
- iID: 1405101
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260527T043000Z
-DTEND:20260527T060000Z
-UID:1366261@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 01\nF
- loor: 1\nLecturer: Kristina Borislavova Petrova\nGroup: 7\, 8\nUniID: 1366
- 261
-LOCATION:01\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260527T090000Z
-DTEND:20260527T103000Z
-UID:1405114@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
- Floor: 4\nLecturer: Daniela Hristova Ivanova\nGroup: 7\, 8\nUniID: 1405114
-LOCATION:407\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260529T060000Z
-DTEND:20260529T081500Z
-UID:1378937@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  509\nFloor: 5\nLecturer: Desislava Plamenova Nedyalkova\nGroup: 7\nUniID:
-  1378937
-LOCATION:509\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260529T103000Z
-DTEND:20260529T120000Z
-UID:1405126@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Daniela Hristova Ivanova\nGroup: 7\, 8\nUniID: 1405126
-LOCATION:431\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -709,35 +344,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260527T061500Z
-DTEND:20260527T083000Z
-UID:1369920@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-2
- \nFloor: 4\nLecturer: Antonia Plamenova Hachmeriyan\nGroup: 8\nUniID: 1369
- 920
-LOCATION:406-2\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260529T060000Z
-DTEND:20260529T081500Z
-UID:1378961@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  609\nFloor: 6\nLecturer: Danko Dimchev Georgiev\nGroup: 8\nUniID: 1378961
-LOCATION:609\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Biochemistry
 DTSTART:20260609T060000Z
 DTEND:20260609T081500Z
@@ -748,80 +354,6 @@ LOCATION:509\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260526T081500Z
-DTEND:20260526T103000Z
-UID:1369789@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 311\n
- Floor: 3\nLecturer: Antonia Plamenova Hachmeriyan\nGroup: 9\nUniID: 136978
- 9
-LOCATION:311\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260527T043000Z
-DTEND:20260527T060000Z
-UID:1359881@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 02\nF
- loor: 1\nLecturer: Radoslav Hristov Spasov\nGroup: 9\, 10\nUniID: 1359881
-LOCATION:02\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260527T124500Z
-DTEND:20260527T141500Z
-UID:1405152@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
- Floor: 4\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUniID: 
- 1405152
-LOCATION:407\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260529T060000Z
-DTEND:20260529T081500Z
-UID:1378949@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  610\nFloor: 6\nLecturer: Oskan Bahidinov Tasinov\nGroup: 9\nUniID: 137894
- 9
-LOCATION:610\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260529T083000Z
-DTEND:20260529T100000Z
-UID:1405164@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
- room: 2\nFloor: 1\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10
- \nUniID: 1405164
-LOCATION:2\, Student Hostel\, Block 3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -870,21 +402,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Biochemistry
-DTSTART:20260526T083000Z
-DTEND:20260526T104500Z
-UID:1378030@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  509\nFloor: 5\nLecturer: Danko Dimchev Georgiev\nGroup: 10\nUniID: 137803
- 0
-LOCATION:509\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
 DTSTART:20260609T100000Z
 DTEND:20260609T121500Z
 UID:1421309@muv.mihoff.de
@@ -894,66 +411,6 @@ LOCATION:509\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260527T110000Z
-DTEND:20260527T123000Z
-UID:1359912@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 01\nF
- loor: 1\nLecturer: Meglena Valdemarova Angelova\nGroup: 11\, 12\nUniID: 13
- 59912
-LOCATION:01\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260528T060000Z
-DTEND:20260528T081500Z
-UID:1370413@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-1
- \nFloor: 4\nLecturer: Antonia Plamenova Hachmeriyan\nGroup: 11\, 23\nUniID
- : 1370413
-LOCATION:406-1\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260528T123000Z
-DTEND:20260528T140000Z
-UID:1409482@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 313\n
- Floor: 3\nLecturer: Katerina Yordanova Peneva\nGroup: 11\, 12\nUniID: 1409
- 482
-LOCATION:313\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260529T083000Z
-DTEND:20260529T100000Z
-UID:1405201@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
- room: Hall 1\nFloor: 1\nLecturer: Katerina Yordanova Peneva\nGroup: 11\, 1
- 2\nUniID: 1405201
-LOCATION:Hall 1\, Student Hostel\, Block 3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1015,21 +472,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Biochemistry
-DTSTART:20260526T110000Z
-DTEND:20260526T131500Z
-UID:1378058@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  501\nFloor: 5\nLecturer: Galya Mihaylova Mihaylova\nGroup: 12\nUniID: 137
- 8058
-LOCATION:501\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
 DTSTART:20260610T060000Z
 DTEND:20260610T081500Z
 UID:1421312@muv.mihoff.de
@@ -1039,96 +481,6 @@ LOCATION:508\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260526T120000Z
-DTEND:20260526T133000Z
-UID:1405214@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
- room: 2\nFloor: 1\nLecturer: Evdokiya Stefanova Skocheva-Shopova\nGroup: 1
- 3\, 14\nUniID: 1405214
-LOCATION:2\, Student Hostel\, Block 3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260527T110000Z
-DTEND:20260527T123000Z
-UID:1359925@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 03\nF
- loor: 1\nLecturer: Stanislav Radostinov Morfov\nGroup: 13\, 14\nUniID: 135
- 9925
-LOCATION:03\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260527T124500Z
-DTEND:20260527T141500Z
-UID:1405227@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Evdokiya Stefanova Skocheva-Shopova\nGroup: 13\, 14\nU
- niID: 1405227
-LOCATION:431\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260528T060000Z
-DTEND:20260528T081500Z
-UID:1370429@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-2
- \nFloor: 4\nLecturer: Gabriela Panayotova Georgieva\nGroup: 13\nUniID: 137
- 0429
-LOCATION:406-2\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260529T103000Z
-DTEND:20260529T124500Z
-UID:1378976@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  609\nFloor: 6\nLecturer: Danko Dimchev Georgiev\nGroup: 13\nUniID: 137897
- 6
-LOCATION:609\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260529T124500Z
-DTEND:20260529T141500Z
-UID:1405239@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  Hall 105\nFloor: 1\nLecturer: Evdokiya Stefanova Skocheva-Shopova\nGroup:
-  13\, 14\nUniID: 1405239
-LOCATION:Hall 105\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1178,36 +530,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Biochemistry
-DTSTART:20260526T083000Z
-DTEND:20260526T104500Z
-UID:1378043@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  610\nFloor: 6\nLecturer: Deyana Georgieva Vankova\nGroup: 14\nUniID: 1378
- 043
-LOCATION:610\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260529T083000Z
-DTEND:20260529T104500Z
-UID:1370526@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-2
- \nFloor: 4\nLecturer: Gabriela Panayotova Georgieva\nGroup: 14\nUniID: 137
- 0526
-LOCATION:406-2\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
 DTSTART:20260610T100000Z
 DTEND:20260610T121500Z
 UID:1421313@muv.mihoff.de
@@ -1217,79 +539,6 @@ LOCATION:508\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260526T083000Z
-DTEND:20260526T104500Z
-UID:1369744@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-2
- \nFloor: 4\nLecturer: Gabriela Panayotova Georgieva\nGroup: 15\nUniID: 136
- 9744
-LOCATION:406-2\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260526T110000Z
-DTEND:20260526T123000Z
-UID:1405264@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
- room: Hall 1\nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGrou
- p: 15\, 16\nUniID: 1405264
-LOCATION:Hall 1\, Student Hostel\, Block 3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260527T110000Z
-DTEND:20260527T123000Z
-UID:1366365@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 04\nF
- loor: 1\nLecturer: Marin Dimov Zhelezov\nGroup: 15\, 16\nUniID: 1366365
-LOCATION:04\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260528T060000Z
-DTEND:20260528T081500Z
-UID:1378894@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  610\nFloor: 6\nLecturer: Bogdan Rusev Hadzhiev\nGroup: 15\nUniID: 1378894
-LOCATION:610\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260529T083000Z
-DTEND:20260529T100000Z
-UID:1405276@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 311
- \nFloor: 3\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 15\, 16\n
- UniID: 1405276
-LOCATION:311\, Medical College
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1338,36 +587,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260527T084500Z
-DTEND:20260527T110000Z
-UID:1370076@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 311\n
- Floor: 3\nLecturer: Gabriela Panayotova Georgieva\nGroup: 16\nUniID: 13700
- 76
-LOCATION:311\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260528T060000Z
-DTEND:20260528T081500Z
-UID:1378908@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  509\nFloor: 5\nLecturer: Galya Mihaylova Mihaylova\nGroup: 16\nUniID: 137
- 8908
-LOCATION:509\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Biochemistry
 DTSTART:20260611T060000Z
 DTEND:20260611T081500Z
@@ -1390,65 +609,6 @@ DESCRIPTION:Activity: Exam\nGroup: 16\, 17\, 18\, 19\, 20\nUniID: 1419054
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260527T083000Z
-DTEND:20260527T100000Z
-UID:1405289@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
- room: 3\nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 17
- \, 18\nUniID: 1405289
-LOCATION:3\, Student Hostel\, Block 3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260527T110000Z
-DTEND:20260527T123000Z
-UID:1366368@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 02\nF
- loor: 1\nLecturer: Desislava Marinova Marinova\nGroup: 17\, 18\nUniID: 136
- 6368
-LOCATION:02\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260528T060000Z
-DTEND:20260528T081500Z
-UID:1378922@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  506\nFloor: 5\nLecturer: Danail Vasilev Pavlov\nGroup: 17\nUniID: 1378922
-LOCATION:506\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260528T123000Z
-DTEND:20260528T140000Z
-UID:1405303@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
- room: Hall 1\nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGrou
- p: 17\, 18\nUniID: 1405303
-LOCATION:Hall 1\, Student Hostel\, Block 3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1498,21 +658,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Biochemistry
-DTSTART:20260527T054500Z
-DTEND:20260527T080000Z
-UID:1378442@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  504\nFloor: 5\nLecturer: Galya Mihaylova Mihaylova\nGroup: 18\nUniID: 137
- 8442
-LOCATION:504\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
 DTSTART:20260611T060000Z
 DTEND:20260611T081500Z
 UID:1421317@muv.mihoff.de
@@ -1522,80 +667,6 @@ LOCATION:509\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260526T103000Z
-DTEND:20260526T120000Z
-UID:1405328@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
- room: 2\nFloor: 1\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\, 20\n
- UniID: 1405328
-LOCATION:2\, Student Hostel\, Block 3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260526T133000Z
-DTEND:20260526T154500Z
-UID:1369835@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-1
- \nFloor: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 19\nUniID: 1369
- 835
-LOCATION:406-1\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260527T081500Z
-DTEND:20260527T103000Z
-UID:1378863@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  504\nFloor: 5\nLecturer: Diana Georgieva Ivanova\nGroup: 19\nUniID: 13788
- 63
-LOCATION:504\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260527T110000Z
-DTEND:20260527T123000Z
-UID:1359964@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 05\nF
- loor: 1\nLecturer: Dimo Stoyanov Stoyanov\nGroup: 19\, 20\nUniID: 1359964
-LOCATION:05\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260528T123000Z
-DTEND:20260528T140000Z
-UID:1405342@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: I-st 
- Auditorium\nFloor: 4\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\, 2
- 0\nUniID: 1405342
-LOCATION:I-st Auditorium\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1644,35 +715,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260526T133000Z
-DTEND:20260526T154500Z
-UID:1369877@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 406-2
- \nFloor: 4\nLecturer: Hristiyana Hristoforova Todorova\nGroup: 20\nUniID: 
- 1369877
-LOCATION:406-2\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260527T081500Z
-DTEND:20260527T103000Z
-UID:1378850@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  501\nFloor: 5\nLecturer: Danail Vasilev Pavlov\nGroup: 20\nUniID: 1378850
-LOCATION:501\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Biochemistry
 DTSTART:20260611T100000Z
 DTEND:20260611T121500Z
@@ -1683,66 +725,6 @@ LOCATION:509\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
-DTSTART:20260526T110000Z
-DTEND:20260526T131500Z
-UID:1378071@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  609\nFloor: 6\nLecturer: Oskan Bahidinov Tasinov\nGroup: 21\nUniID: 13780
- 71
-LOCATION:609\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260527T103000Z
-DTEND:20260527T120000Z
-UID:1405367@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
- room: 3\nFloor: 1\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\n
- UniID: 1405367
-LOCATION:3\, Student Hostel\, Block 3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260527T124500Z
-DTEND:20260527T141500Z
-UID:1359987@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 02\nF
- loor: 1\nLecturer: Desislava Marinova Marinova\nGroup: 21\, 22\nUniID: 135
- 9987
-LOCATION:02\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260529T054500Z
-DTEND:20260529T080000Z
-UID:1370485@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 311\n
- Floor: 3\nLecturer: Gabriela Panayotova Georgieva\nGroup: 21\, 24\nUniID: 
- 1370485
-LOCATION:311\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1803,35 +785,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Biochemistry
-DTSTART:20260527T054500Z
-DTEND:20260527T080000Z
-UID:1378455@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  501\nFloor: 5\nLecturer: Bogdan Rusev Hadzhiev\nGroup: 22\nUniID: 1378455
-LOCATION:501\, Faculty of Pharmacy
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260528T131500Z
-DTEND:20260528T153000Z
-UID:1413398@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 311\n
- Floor: 3\nLecturer: Gabriela Panayotova Georgieva\nGroup: 22\nUniID: 14133
- 98
-LOCATION:311\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Biochemistry
 DTSTART:20260612T060000Z
 DTEND:20260612T081500Z
 UID:1421320@muv.mihoff.de
@@ -1841,66 +794,6 @@ LOCATION:508\, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Biochemistry
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260526T103000Z
-DTEND:20260526T120000Z
-UID:1405394@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
- Floor: 5\nLecturer: Presiyan Krasimirov Penchev\nGroup: 23\, 24\nUniID: 14
- 05394
-LOCATION:505\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260527T063000Z
-DTEND:20260527T080000Z
-UID:1405407@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Student Hostel\, Block 3\nClass
- room: 2\nFloor: 1\nLecturer: Dora Delcheva Solakova-Stanislavova\nGroup: 2
- 3\, 24\nUniID: 1405407
-LOCATION:2\, Student Hostel\, Block 3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260527T124500Z
-DTEND:20260527T141500Z
-UID:1360000@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 01\nF
- loor: 1\nLecturer: Meglena Valdemarova Angelova\nGroup: 23\, 24\nUniID: 13
- 60000
-LOCATION:01\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общ български език - В1 и В2
-DTSTART:20260528T123000Z
-DTEND:20260528T140000Z
-UID:1405421@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
- ssroom: Hall 111\nFloor: 1\nLecturer: Valentina Tihomirova Simeonova\nGrou
- p: 23\, 24\nUniID: 1405421
-LOCATION:Hall 111\, Faculty of Dental Medicine
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Общ български език - В1 и В2
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

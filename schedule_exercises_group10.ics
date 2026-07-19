@@ -43,4 +43,31 @@ DESCRIPTION:Reminder: Microbiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20260928T100000Z
+DTEND:20260928T113000Z
+UID:1429827@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 3\nFloor: 1\nGroup: 10\nUniID: 1429827
+LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20260930T083000Z
+DTEND:20260930T100000Z
+UID:1435703@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
+ ova\nGroup: 10\nUniID: 1435703
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

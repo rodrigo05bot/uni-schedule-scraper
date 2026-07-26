@@ -478,6 +478,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260921T123000Z
+DTEND:20260921T140000Z
+UID:1452056@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Veselin Petev Petkov\nGroup: 2\nUniID: 
+ 1452056
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260925T114500Z
 DTEND:20260925T131500Z
@@ -491,6 +506,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260928T123000Z
+DTEND:20260928T140000Z
+UID:1452057@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Veselin Petev Petkov\nGroup: 2\nUniID: 
+ 1452057
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261002T114500Z
 DTEND:20261002T131500Z
@@ -500,6 +530,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Denis Sunay Niazi\nGroup: 2\nUn
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261005T123000Z
+DTEND:20261005T140000Z
+UID:1452058@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Veselin Petev Petkov\nGroup: 2\nUniID: 
+ 1452058
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -552,6 +597,21 @@ LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260921T123000Z
+DTEND:20260921T140000Z
+UID:1452070@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 413\nFloor: 4\nLecturer: Panayot Nikolov Nikolov\nGroup: 3\nUniI
+ D: 1452070
+LOCATION:413\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -756,6 +816,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260915T104500Z
+DTEND:20260915T121500Z
+UID:1452124@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 404\nFloor: 4\nLecturer: Panayot Nikolov Nikolov\nGroup: 5\nUniI
+ D: 1452124
+LOCATION:404\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20260921T063000Z
 DTEND:20260921T080000Z
@@ -810,6 +885,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260929T104500Z
+DTEND:20260929T121500Z
+UID:1452125@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 404\nFloor: 4\nLecturer: Panayot Nikolov Nikolov\nGroup: 5\nUniI
+ D: 1452125
+LOCATION:404\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20261005T063000Z
 DTEND:20261005T080000Z
@@ -837,6 +927,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261006T104500Z
+DTEND:20261006T121500Z
+UID:1452126@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 404\nFloor: 4\nLecturer: Panayot Nikolov Nikolov\nGroup: 5\nUniI
+ D: 1452126
+LOCATION:404\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pathophysiology
 DTSTART:20261006T130000Z
 DTEND:20261006T143000Z
@@ -845,6 +950,21 @@ DESCRIPTION:Activity: Excercise\nGroup: 5\nUniID: 1425808
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260915T101500Z
+DTEND:20260915T114500Z
+UID:1452085@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Stanislava Emilova Hadzhieva\nGroup: 6\
+ nUniID: 1452085
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -903,6 +1023,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260929T101500Z
+DTEND:20260929T114500Z
+UID:1452086@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Stanislava Emilova Hadzhieva\nGroup: 6\
+ nUniID: 1452086
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20261005T063000Z
 DTEND:20261005T080000Z
@@ -938,6 +1073,36 @@ DESCRIPTION:Activity: Excercise\nGroup: 6\nUniID: 1425805
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261006T101500Z
+DTEND:20261006T114500Z
+UID:1452087@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Stanislava Emilova Hadzhieva\nGroup: 6\
+ nUniID: 1452087
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260915T101500Z
+DTEND:20260915T114500Z
+UID:1452098@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 410\nFloor: 4\nLecturer: Dimitar Borisov Marinov\nGroup: 7\nUniI
+ D: 1452098
+LOCATION:410\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -998,6 +1163,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260929T101500Z
+DTEND:20260929T114500Z
+UID:1452099@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 410\nFloor: 4\nLecturer: Dimitar Borisov Marinov\nGroup: 7\nUniI
+ D: 1452099
+LOCATION:410\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20261005T063000Z
 DTEND:20261005T080000Z
@@ -1026,6 +1206,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261006T101500Z
+DTEND:20261006T114500Z
+UID:1452100@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 410\nFloor: 4\nLecturer: Dimitar Borisov Marinov\nGroup: 7\nUniI
+ D: 1452100
+LOCATION:410\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pathophysiology
 DTSTART:20261009T103000Z
 DTEND:20261009T120000Z
@@ -1034,6 +1229,21 @@ DESCRIPTION:Activity: Excercise\nGroup: 7\nUniID: 1425821
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260915T101500Z
+DTEND:20260915T114500Z
+UID:1452111@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 8\nU
+ niID: 1452111
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1064,6 +1274,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260929T101500Z
+DTEND:20260929T114500Z
+UID:1452112@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 8\nU
+ niID: 1452112
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261005T103000Z
 DTEND:20261005T120000Z
@@ -1073,6 +1298,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Zhivka Stoykova Demireva-Kalche
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261006T101500Z
+DTEND:20261006T114500Z
+UID:1452113@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 8\nU
+ niID: 1452113
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -2124,6 +2364,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260921T103000Z
+DTEND:20260921T120000Z
+UID:1452001@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 413\nFloor: 4\nLecturer: Panayot Nikolov Nikolov\nGroup: 17\nUni
+ ID: 1452001
+LOCATION:413\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260923T043000Z
 DTEND:20260923T060000Z
@@ -2146,6 +2401,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Stefan Blagovestov Mihaylov\nGr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+UID:1452015@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 413\nFloor: 4\nLecturer: Panayot Nikolov Nikolov\nGroup: 17\nUni
+ ID: 1452015
+LOCATION:413\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -2187,6 +2457,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Stefan Blagovestov Mihaylov\nGr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+UID:1452016@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 413\nFloor: 4\nLecturer: Panayot Nikolov Nikolov\nGroup: 17\nUni
+ ID: 1452016
+LOCATION:413\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -2269,6 +2554,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260921T103000Z
+DTEND:20260921T120000Z
+UID:1452028@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 410\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 18\n
+ UniID: 1452028
+LOCATION:410\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260923T083000Z
 DTEND:20260923T100000Z
@@ -2294,6 +2594,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+UID:1452029@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 410\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 18\n
+ UniID: 1452029
+LOCATION:410\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260930T083000Z
 DTEND:20260930T100000Z
@@ -2315,6 +2630,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Ivan Aleksandrov Hinev\nGroup:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+UID:1452030@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 410\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 18\n
+ UniID: 1452030
+LOCATION:410\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -2384,6 +2714,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260921T103000Z
+DTEND:20260921T120000Z
+UID:1452042@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Veselin Petev Petkov\nGroup: 19\nUniID:
+  1452042
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260921T123000Z
 DTEND:20260921T140000Z
@@ -2425,6 +2770,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+UID:1452043@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Veselin Petev Petkov\nGroup: 19\nUniID:
+  1452043
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260928T123000Z
 DTEND:20260928T140000Z
@@ -2447,6 +2807,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Anna-Mariya Vladimirova Mirosla
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+UID:1452044@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Veselin Petev Petkov\nGroup: 19\nUniID:
+  1452044
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -2648,6 +3023,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260921T123000Z
+DTEND:20260921T140000Z
+UID:1452071@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Rozalina Stefanova Braykova\nGroup: 21\
+ nUniID: 1452071
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260923T064500Z
 DTEND:20260923T081500Z
@@ -2672,6 +3062,21 @@ LOCATION:2\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260928T123000Z
+DTEND:20260928T140000Z
+UID:1452072@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Rozalina Stefanova Braykova\nGroup: 21\
+ nUniID: 1452072
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -2713,6 +3118,21 @@ LOCATION:2\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261005T123000Z
+DTEND:20261005T140000Z
+UID:1452073@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Rozalina Stefanova Braykova\nGroup: 21\
+ nUniID: 1452073
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -3004,6 +3424,19 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260915T104500Z
+DTEND:20260915T121500Z
+UID:1452137@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Todor Kirilov Todorov\nGroup: 2
+ 4\nUniID: 1452137
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260916T043000Z
 DTEND:20260916T060000Z
@@ -3084,6 +3517,19 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260929T104500Z
+DTEND:20260929T121500Z
+UID:1452138@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Todor Kirilov Todorov\nGroup: 2
+ 4\nUniID: 1452138
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260930T043000Z
 DTEND:20260930T060000Z
@@ -3120,6 +3566,19 @@ LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261006T104500Z
+DTEND:20261006T121500Z
+UID:1452139@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Todor Kirilov Todorov\nGroup: 2
+ 4\nUniID: 1452139
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

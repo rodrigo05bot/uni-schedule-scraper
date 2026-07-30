@@ -389,6 +389,96 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+UID:1460669@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
+ nGroup: 9\, 10\nUniID: 1460669
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260921T114500Z
+DTEND:20260921T131500Z
+UID:1460659@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
+ nGroup: 9\, 10\nUniID: 1460659
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260928T114500Z
+DTEND:20260928T131500Z
+UID:1460746@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
+ nGroup: 9\, 10\nUniID: 1460746
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+UID:1460833@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
+ nGroup: 9\, 10\nUniID: 1460833
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261005T114500Z
+DTEND:20261005T131500Z
+UID:1460747@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
+ nGroup: 9\, 10\nUniID: 1460747
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+UID:1460834@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
+ nGroup: 9\, 10\nUniID: 1460834
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260916T083000Z
 DTEND:20260916T100000Z

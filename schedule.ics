@@ -189,6 +189,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260916T083000Z
+DTEND:20260916T100000Z
+UID:1460672@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: ІV-t
+ h Аuditorium\nFloor: 1\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2\
+ nUniID: 1460672
+LOCATION:ІV-th Аuditorium\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20260916T103000Z
 DTEND:20260916T120000Z
@@ -237,6 +254,22 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260917T124500Z
+DTEND:20260917T141500Z
+UID:1460692@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2\nUniID: 1460692
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20260918T081500Z
 DTEND:20260918T094500Z
@@ -263,6 +296,23 @@ DESCRIPTION:Activity: Excercise\nLecturer: Neli Mitkova Ermenlieva\nGroup:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260923T083000Z
+DTEND:20260923T100000Z
+UID:1460846@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: ІV-t
+ h Аuditorium\nFloor: 1\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2\
+ nUniID: 1460846
+LOCATION:ІV-th Аuditorium\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -311,6 +361,22 @@ LOCATION:UNIK\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260924T124500Z
+DTEND:20260924T141500Z
+UID:1460942@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2\nUniID: 1460942
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -372,6 +438,23 @@ LOCATION:404\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260930T083000Z
+DTEND:20260930T100000Z
+UID:1460847@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: ІV-t
+ h Аuditorium\nFloor: 1\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2\
+ nUniID: 1460847
+LOCATION:ІV-th Аuditorium\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -452,6 +535,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261007T083000Z
+DTEND:20261007T100000Z
+UID:1460848@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: ІV-t
+ h Аuditorium\nFloor: 1\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2\
+ nUniID: 1460848
+LOCATION:ІV-th Аuditorium\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20261007T103000Z
 DTEND:20261007T120000Z
@@ -524,6 +624,22 @@ LOCATION:UNIK\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261008T124500Z
+DTEND:20261008T141500Z
+UID:1460943@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2\nUniID: 1460943
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -694,6 +810,36 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260916T123000Z
+DTEND:20260916T140000Z
+UID:1460684@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 3\, 4\nUniID: 1460684
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260921T063000Z
+DTEND:20260921T080000Z
+UID:1460657@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 3\, 4\nUniID: 1460657
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20260921T123000Z
 DTEND:20260921T140000Z
@@ -719,6 +865,36 @@ LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260923T123000Z
+DTEND:20260923T140000Z
+UID:1460888@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 3\, 4\nUniID: 1460888
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260928T063000Z
+DTEND:20260928T080000Z
+UID:1460719@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 3\, 4\nUniID: 1460719
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -761,6 +937,36 @@ LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260930T123000Z
+DTEND:20260930T140000Z
+UID:1460889@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 3\, 4\nUniID: 1460889
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261005T063000Z
+DTEND:20261005T080000Z
+UID:1460720@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 3\, 4\nUniID: 1460720
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -815,6 +1021,21 @@ LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261007T123000Z
+DTEND:20261007T140000Z
+UID:1460890@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 3\, 4\nUniID: 1460890
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -984,6 +1205,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260915T083000Z
+DTEND:20260915T100000Z
+UID:1460666@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
+ Floor: 4\nLecturer: Silvena Nikolova Stavreva-Dorostolska\nGroup: 5\, 6\nU
+ niID: 1460666
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20260915T104500Z
 DTEND:20260915T121500Z
@@ -995,6 +1233,23 @@ LOCATION:404\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260916T123000Z
+DTEND:20260916T140000Z
+UID:1460685@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Silvena Nikolova Stavreva-Dorostolska\nGroup: 5\, 6\nU
+ niID: 1460685
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1026,6 +1281,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260923T123000Z
+DTEND:20260923T140000Z
+UID:1460902@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Silvena Nikolova Stavreva-Dorostolska\nGroup: 5\, 6\nU
+ niID: 1460902
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20260928T063000Z
 DTEND:20260928T080000Z
@@ -1053,6 +1325,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260929T083000Z
+DTEND:20260929T100000Z
+UID:1460797@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
+ Floor: 4\nLecturer: Silvena Nikolova Stavreva-Dorostolska\nGroup: 5\, 6\nU
+ niID: 1460797
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20260929T104500Z
 DTEND:20260929T121500Z
@@ -1064,6 +1353,23 @@ LOCATION:404\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260930T123000Z
+DTEND:20260930T140000Z
+UID:1460903@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Silvena Nikolova Stavreva-Dorostolska\nGroup: 5\, 6\nU
+ niID: 1460903
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1095,6 +1401,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261006T083000Z
+DTEND:20261006T100000Z
+UID:1460798@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
+ Floor: 4\nLecturer: Silvena Nikolova Stavreva-Dorostolska\nGroup: 5\, 6\nU
+ niID: 1460798
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20261006T104500Z
 DTEND:20261006T121500Z
@@ -1118,6 +1441,23 @@ DESCRIPTION:Activity: Excercise\nGroup: 5\nUniID: 1425808
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261007T123000Z
+DTEND:20261007T140000Z
+UID:1460904@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Silvena Nikolova Stavreva-Dorostolska\nGroup: 5\, 6\nU
+ niID: 1460904
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1260,6 +1600,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260915T083000Z
+DTEND:20260915T100000Z
+UID:1460667@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Daniela Hristova Ivanova\nGroup
+ : 7\, 8\nUniID: 1460667
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20260915T101500Z
 DTEND:20260915T114500Z
@@ -1303,6 +1658,22 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260921T123000Z
+DTEND:20260921T140000Z
+UID:1460662@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
+ Floor: 4\nLecturer: Daniela Hristova Ivanova\nGroup: 7\, 8\nUniID: 1460662
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20260928T063000Z
 DTEND:20260928T080000Z
@@ -1327,6 +1698,37 @@ DESCRIPTION:Activity: Excercise\nLecturer: Teodora Ilieva Katrandzhieva\nG
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260928T123000Z
+DTEND:20260928T140000Z
+UID:1460772@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
+ Floor: 4\nLecturer: Daniela Hristova Ivanova\nGroup: 7\, 8\nUniID: 1460772
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260929T083000Z
+DTEND:20260929T100000Z
+UID:1460809@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Daniela Hristova Ivanova\nGroup
+ : 7\, 8\nUniID: 1460809
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1370,6 +1772,37 @@ DESCRIPTION:Activity: Excercise\nLecturer: Teodora Ilieva Katrandzhieva\nG
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261005T123000Z
+DTEND:20261005T140000Z
+UID:1460773@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
+ Floor: 4\nLecturer: Daniela Hristova Ivanova\nGroup: 7\, 8\nUniID: 1460773
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261006T083000Z
+DTEND:20261006T100000Z
+UID:1460810@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Daniela Hristova Ivanova\nGroup
+ : 7\, 8\nUniID: 1460810
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1497,6 +1930,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+UID:1460669@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
+ nGroup: 9\, 10\nUniID: 1460669
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260916T083000Z
 DTEND:20260916T100000Z
@@ -1535,6 +1983,21 @@ LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260921T114500Z
+DTEND:20260921T131500Z
+UID:1460659@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
+ nGroup: 9\, 10\nUniID: 1460659
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1581,6 +2044,36 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260928T114500Z
+DTEND:20260928T131500Z
+UID:1460746@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
+ nGroup: 9\, 10\nUniID: 1460746
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+UID:1460833@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
+ nGroup: 9\, 10\nUniID: 1460833
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260930T083000Z
 DTEND:20260930T100000Z
@@ -1604,6 +2097,36 @@ LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261005T114500Z
+DTEND:20261005T131500Z
+UID:1460747@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
+ nGroup: 9\, 10\nUniID: 1460747
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+UID:1460834@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
+ nGroup: 9\, 10\nUniID: 1460834
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1813,6 +2336,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260916T123000Z
+DTEND:20260916T140000Z
+UID:1460686@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460686
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20260917T083000Z
 DTEND:20260917T100000Z
@@ -1824,6 +2362,21 @@ LOCATION:410\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260918T063000Z
+DTEND:20260918T080000Z
+UID:1460694@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460694
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1841,6 +2394,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260923T123000Z
+DTEND:20260923T140000Z
+UID:1460874@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460874
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20260924T083000Z
 DTEND:20260924T100000Z
@@ -1852,6 +2420,21 @@ LOCATION:410\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260925T063000Z
+DTEND:20260925T080000Z
+UID:1460978@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460978
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1879,6 +2462,36 @@ LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260930T123000Z
+DTEND:20260930T140000Z
+UID:1460875@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460875
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261002T063000Z
+DTEND:20261002T080000Z
+UID:1460979@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460979
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1922,6 +2535,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261007T123000Z
+DTEND:20261007T140000Z
+UID:1460876@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460876
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20261008T083000Z
 DTEND:20261008T100000Z
@@ -1933,6 +2561,21 @@ LOCATION:410\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261009T063000Z
+DTEND:20261009T080000Z
+UID:1460980@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460980
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -2093,6 +2736,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260915T083000Z
+DTEND:20260915T100000Z
+UID:1460716@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Evdokiya Stefanova Skocheva-Sho
+ pova\nGroup: 13\, 14\nUniID: 1460716
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260915T110000Z
 DTEND:20260915T123000Z
@@ -2131,6 +2789,21 @@ LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260917T124500Z
+DTEND:20260917T141500Z
+UID:1460690@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Evdokiya Stefanova Skocheva-Sho
+ pova\nGroup: 13\, 14\nUniID: 1460690
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -2203,6 +2876,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260924T124500Z
+DTEND:20260924T141500Z
+UID:1460954@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Evdokiya Stefanova Skocheva-Sho
+ pova\nGroup: 13\, 14\nUniID: 1460954
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General and Operative Surgery
 DTSTART:20260928T063000Z
 DTEND:20260928T080000Z
@@ -2225,6 +2913,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Turgay Turgay Kalinov\nGroup: 1
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260929T083000Z
+DTEND:20260929T100000Z
+UID:1460785@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Evdokiya Stefanova Skocheva-Sho
+ pova\nGroup: 13\, 14\nUniID: 1460785
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -2282,6 +2985,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261006T083000Z
+DTEND:20261006T100000Z
+UID:1460786@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Evdokiya Stefanova Skocheva-Sho
+ pova\nGroup: 13\, 14\nUniID: 1460786
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261006T110000Z
 DTEND:20261006T123000Z
@@ -2332,6 +3050,21 @@ LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261008T124500Z
+DTEND:20261008T141500Z
+UID:1460955@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Evdokiya Stefanova Skocheva-Sho
+ pova\nGroup: 13\, 14\nUniID: 1460955
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -2498,6 +3231,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260917T124500Z
+DTEND:20260917T141500Z
+UID:1460691@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 15\, 16\nUniID: 1460691
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20260918T060000Z
 DTEND:20260918T073000Z
@@ -2509,6 +3257,21 @@ LOCATION:410\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260921T103000Z
+DTEND:20260921T120000Z
+UID:1460658@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 15\, 16\nUniID: 1460658
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -2553,6 +3316,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260924T124500Z
+DTEND:20260924T141500Z
+UID:1460966@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 15\, 16\nUniID: 1460966
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20260925T060000Z
 DTEND:20260925T073000Z
@@ -2564,6 +3342,21 @@ LOCATION:410\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+UID:1460733@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 15\, 16\nUniID: 1460733
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -2609,6 +3402,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+UID:1460734@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 15\, 16\nUniID: 1460734
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General and Operative Surgery
 DTSTART:20261005T123000Z
 DTEND:20261005T144500Z
@@ -2645,6 +3453,21 @@ LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261008T124500Z
+DTEND:20261008T141500Z
+UID:1460967@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 15\, 16\nUniID: 1460967
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -2922,6 +3745,36 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260917T123000Z
+DTEND:20260917T140000Z
+UID:1460689@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Daniela Mitkova Tancheva-Stefan
+ ova\nGroup: 17\, 18\nUniID: 1460689
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260918T100000Z
+DTEND:20260918T113000Z
+UID:1460695@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Daniela Mitkova Tancheva-Stefan
+ ova\nGroup: 17\, 18\nUniID: 1460695
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20260921T103000Z
 DTEND:20260921T120000Z
@@ -2959,6 +3812,36 @@ DESCRIPTION:Activity: Excercise\nLecturer: Stefan Blagovestov Mihaylov\nGr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260924T123000Z
+DTEND:20260924T140000Z
+UID:1460930@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Daniela Mitkova Tancheva-Stefan
+ ova\nGroup: 17\, 18\nUniID: 1460930
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260925T100000Z
+DTEND:20260925T113000Z
+UID:1460991@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Daniela Mitkova Tancheva-Stefan
+ ova\nGroup: 17\, 18\nUniID: 1460991
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -3019,6 +3902,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261002T100000Z
+DTEND:20261002T113000Z
+UID:1460992@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Daniela Mitkova Tancheva-Stefan
+ ova\nGroup: 17\, 18\nUniID: 1460992
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20261005T103000Z
 DTEND:20261005T120000Z
@@ -3075,6 +3973,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261008T123000Z
+DTEND:20261008T140000Z
+UID:1460931@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Daniela Mitkova Tancheva-Stefan
+ ova\nGroup: 17\, 18\nUniID: 1460931
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pathophysiology
 DTSTART:20261009T060000Z
 DTEND:20261009T073000Z
@@ -3083,6 +3996,21 @@ DESCRIPTION:Activity: Excercise\nGroup: 17\nUniID: 1425823
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261009T100000Z
+DTEND:20261009T113000Z
+UID:1460993@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Daniela Mitkova Tancheva-Stefan
+ ova\nGroup: 17\, 18\nUniID: 1460993
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -3244,6 +4172,38 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+UID:1460668@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\, 20\nUniID: 14
+ 60668
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260916T140000Z
+DTEND:20260916T153000Z
+UID:1460687@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordanka Tsvetkova Marinova\nGr
+ oup: 19\, 20\nUniID: 1460687
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20260917T083000Z
 DTEND:20260917T100000Z
@@ -3296,6 +4256,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Dobromira Yordanova Savova\nGro
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260923T140000Z
+DTEND:20260923T153000Z
+UID:1460916@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordanka Tsvetkova Marinova\nGr
+ oup: 19\, 20\nUniID: 1460916
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -3356,6 +4331,38 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+UID:1460821@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\, 20\nUniID: 14
+ 60821
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260930T140000Z
+DTEND:20260930T153000Z
+UID:1460917@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordanka Tsvetkova Marinova\nGr
+ oup: 19\, 20\nUniID: 1460917
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General and Operative Surgery
 DTSTART:20261002T114500Z
 DTEND:20261002T140000Z
@@ -3393,6 +4400,38 @@ DESCRIPTION:Activity: Excercise\nLecturer: Dobromira Yordanova Savova\nGro
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+UID:1460822@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\, 20\nUniID: 14
+ 60822
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261007T140000Z
+DTEND:20261007T153000Z
+UID:1460918@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordanka Tsvetkova Marinova\nGr
+ oup: 19\, 20\nUniID: 1460918
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -3613,6 +4652,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260915T124500Z
+DTEND:20260915T141500Z
+UID:1460671@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
+ 60671
+LOCATION:505\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260916T064500Z
 DTEND:20260916T081500Z
@@ -3622,6 +4678,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260918T103000Z
+DTEND:20260918T120000Z
+UID:1460696@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
+ oup: 21\, 22\nUniID: 1460696
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -3669,6 +4740,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+UID:1461004@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
+ oup: 21\, 22\nUniID: 1461004
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20260928T100000Z
 DTEND:20260928T113000Z
@@ -3712,6 +4798,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260929T124500Z
+DTEND:20260929T141500Z
+UID:1460845@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
+ 60845
+LOCATION:505\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260930T064500Z
 DTEND:20260930T081500Z
@@ -3721,6 +4824,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+UID:1461005@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
+ oup: 21\, 22\nUniID: 1461005
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -3789,6 +4907,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+UID:1461006@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
+ oup: 21\, 22\nUniID: 1461006
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -3969,6 +5102,22 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260916T083000Z
+DTEND:20260916T100000Z
+UID:1460673@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
+ Floor: 4\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\nUniID: 1460673
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20260918T050000Z
 DTEND:20260918T063000Z
@@ -3998,6 +5147,22 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260921T123000Z
+DTEND:20260921T140000Z
+UID:1460660@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\nUniID: 1460660
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260923T043000Z
 DTEND:20260923T060000Z
@@ -4007,6 +5172,22 @@ DESCRIPTION:Activity: Excercise\nLecturer: Teodora Ilieva Katrandzhieva\nG
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260923T083000Z
+DTEND:20260923T100000Z
+UID:1460860@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
+ Floor: 4\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\nUniID: 1460860
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -4040,6 +5221,22 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260928T123000Z
+DTEND:20260928T140000Z
+UID:1460759@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\nUniID: 1460759
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General and Operative Surgery
 DTSTART:20260929T100000Z
 DTEND:20260929T121500Z
@@ -4062,6 +5259,22 @@ DESCRIPTION:Activity: Excercise\nLecturer: Teodora Ilieva Katrandzhieva\nG
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260930T083000Z
+DTEND:20260930T100000Z
+UID:1460861@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
+ Floor: 4\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\nUniID: 1460861
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -4095,6 +5308,22 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261005T123000Z
+DTEND:20261005T140000Z
+UID:1460760@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\nUniID: 1460760
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General and Operative Surgery
 DTSTART:20261006T100000Z
 DTEND:20261006T121500Z
@@ -4117,6 +5346,22 @@ DESCRIPTION:Activity: Excercise\nLecturer: Teodora Ilieva Katrandzhieva\nG
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261007T083000Z
+DTEND:20261007T100000Z
+UID:1460862@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
+ Floor: 4\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\nUniID: 1460862
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

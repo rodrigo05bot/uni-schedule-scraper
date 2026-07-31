@@ -394,8 +394,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260915T103000Z
 DTEND:20260915T120000Z
 UID:1460669@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
- nGroup: 9\, 10\nUniID: 1460669
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUniID: 
+ 1460669
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -439,8 +441,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260929T103000Z
 DTEND:20260929T120000Z
 UID:1460833@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
- nGroup: 9\, 10\nUniID: 1460833
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUniID: 
+ 1460833
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -469,8 +473,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261006T103000Z
 DTEND:20261006T120000Z
 UID:1460834@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
- nGroup: 9\, 10\nUniID: 1460834
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUniID: 
+ 1460834
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 

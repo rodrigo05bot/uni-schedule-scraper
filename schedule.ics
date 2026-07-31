@@ -815,8 +815,9 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260916T123000Z
 DTEND:20260916T140000Z
 UID:1460684@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
- 3\, 4\nUniID: 1460684
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Yordan Rumenov Rachev \nGroup: 3\, 4\nUniID: 1460684
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -874,8 +875,9 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260923T123000Z
 DTEND:20260923T140000Z
 UID:1460888@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
- 3\, 4\nUniID: 1460888
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Yordan Rumenov Rachev \nGroup: 3\, 4\nUniID: 1460888
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -946,8 +948,9 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260930T123000Z
 DTEND:20260930T140000Z
 UID:1460889@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
- 3\, 4\nUniID: 1460889
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Yordan Rumenov Rachev \nGroup: 3\, 4\nUniID: 1460889
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -1030,8 +1033,9 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261007T123000Z
 DTEND:20261007T140000Z
 UID:1460890@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
- 3\, 4\nUniID: 1460890
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Yordan Rumenov Rachev \nGroup: 3\, 4\nUniID: 1460890
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -1935,8 +1939,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260915T103000Z
 DTEND:20260915T120000Z
 UID:1460669@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
- nGroup: 9\, 10\nUniID: 1460669
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUniID: 
+ 1460669
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -2064,8 +2070,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260929T103000Z
 DTEND:20260929T120000Z
 UID:1460833@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
- nGroup: 9\, 10\nUniID: 1460833
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUniID: 
+ 1460833
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -2121,8 +2129,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261006T103000Z
 DTEND:20261006T120000Z
 UID:1460834@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
- nGroup: 9\, 10\nUniID: 1460834
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUniID: 
+ 1460834
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -3266,8 +3276,9 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260921T103000Z
 DTEND:20260921T120000Z
 UID:1460658@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
- 15\, 16\nUniID: 1460658
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Yordan Rumenov Rachev \nGroup: 15\, 16\nUniID: 1460658
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -3351,8 +3362,9 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260928T103000Z
 DTEND:20260928T120000Z
 UID:1460733@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
- 15\, 16\nUniID: 1460733
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Yordan Rumenov Rachev \nGroup: 15\, 16\nUniID: 1460733
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -3422,8 +3434,9 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261005T103000Z
 DTEND:20261005T120000Z
 UID:1460734@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
- 15\, 16\nUniID: 1460734
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Yordan Rumenov Rachev \nGroup: 15\, 16\nUniID: 1460734
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -4209,8 +4222,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260916T140000Z
 DTEND:20260916T153000Z
 UID:1460687@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Yordanka Tsvetkova Marinova\nGr
- oup: 19\, 20\nUniID: 1460687
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\, 20\nUniID: 14
+ 60687
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -4280,8 +4295,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260923T140000Z
 DTEND:20260923T153000Z
 UID:1460916@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Yordanka Tsvetkova Marinova\nGr
- oup: 19\, 20\nUniID: 1460916
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\, 20\nUniID: 14
+ 60916
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -4368,8 +4385,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260930T140000Z
 DTEND:20260930T153000Z
 UID:1460917@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Yordanka Tsvetkova Marinova\nGr
- oup: 19\, 20\nUniID: 1460917
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\, 20\nUniID: 14
+ 60917
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -4441,8 +4460,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261007T140000Z
 DTEND:20261007T153000Z
 UID:1460918@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Yordanka Tsvetkova Marinova\nGr
- oup: 19\, 20\nUniID: 1460918
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\, 20\nUniID: 14
+ 60918
+LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -4672,10 +4693,8 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260915T124500Z
 DTEND:20260915T141500Z
 UID:1460671@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
- Floor: 5\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
- 60671
-LOCATION:505\, Main Building
+DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
+ oup: 21\, 22\nUniID: 1460671
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -4818,10 +4837,8 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260929T124500Z
 DTEND:20260929T141500Z
 UID:1460845@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
- Floor: 5\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
- 60845
-LOCATION:505\, Main Building
+DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
+ oup: 21\, 22\nUniID: 1460845
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -4897,6 +4914,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Tanya Nikolova Kirilova - Krast
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261006T124500Z
+DTEND:20261006T141500Z
+UID:1462218@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
+ oup: 21\, 22\nUniID: 1462218
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

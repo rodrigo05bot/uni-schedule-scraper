@@ -4,96 +4,6 @@ PRODID:-//Uni Schedule Scraper//muv.mihoff.de//
 X-WR-CALNAME:MU Varna Schedule - Group 10
 X-WR-TIMEZONE:Europe/Sofia
 BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260713T050000Z
-DTEND:20260713T063000Z
-UID:1419056@muv.mihoff.de
-DESCRIPTION:Activity: Exam\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\
- , 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUni
- ID: 1419056
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260714T050000Z
-DTEND:20260714T063000Z
-UID:1419057@muv.mihoff.de
-DESCRIPTION:Activity: Exam\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\
- , 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUni
- ID: 1419057
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260714T063000Z
-DTEND:20260714T071500Z
-UID:1420244@muv.mihoff.de
-DESCRIPTION:Activity: Exam\nBuilding: Main Building\nClassroom: 406-1\nFlo
- or: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\, 3\, 4\, 5\, 
- 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\
- , 22\, 23\, 24\nUniID: 1420244
-LOCATION:406-1\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Anatomy and Histology
-DTSTART:20260715T050000Z
-DTEND:20260715T063000Z
-UID:1419058@muv.mihoff.de
-DESCRIPTION:Activity: Exam\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\
- , 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUni
- ID: 1419058
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Anatomy and Histology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Human Physiology
-DTSTART:20260715T063000Z
-DTEND:20260715T071500Z
-UID:1420245@muv.mihoff.de
-DESCRIPTION:Activity: Exam\nBuilding: Main Building\nClassroom: 406-1\nFlo
- or: 4\nLecturer: Margarita Stefanova Velikova\nGroup: 1\, 2\, 3\, 4\, 5\, 
- 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\
- , 22\, 23\, 24\nUniID: 1420245
-LOCATION:406-1\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Human Physiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sport
-DTSTART:20260716T070000Z
-DTEND:20260716T083000Z
-UID:1418626@muv.mihoff.de
-DESCRIPTION:Activity: Exam\nBuilding: Main Building\nClassroom: Golyam sal
- on\nFloor: 1\nLecturer: Zhulieta Georgieva Videnova\nGroup: 1\, 2\, 3\, 4\
- , 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20
- \, 21\, 22\, 23\, 24\nUniID: 1418626
-LOCATION:Golyam salon\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Sport
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Human Physiology
 DTSTART:20260908T051500Z
 DTEND:20260908T060000Z
@@ -389,6 +299,72 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261013T044500Z
+DTEND:20261013T061500Z
+UID:1452340@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Regional Health Inspectorate\nCla
+ ssroom: Hall "G. Kaprelyan"\nFloor: 1\nLecturer: Ruzha Zlatanova Pancheva-
+ Dimitrova\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 
+ 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1452340
+LOCATION:Hall "G. Kaprelyan"\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261015T064500Z
+DTEND:20261015T081500Z
+UID:1429665@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nGroup: 1\, 2\, 3\
+ , 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\
+ , 20\, 21\, 22\, 23\, 24\nUniID: 1429665
+LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
+ a" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261015T101500Z
+DTEND:20261015T123000Z
+UID:1435422@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Regional Health Inspectorate\nCla
+ ssroom: UNIK\nFloor: 1\nLecturer: Temenuga Zhekova Stoeva\nGroup: 1\, 2\, 
+ 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 1
+ 9\, 20\, 21\, 22\, 23\, 24\nUniID: 1435422
+LOCATION:UNIK\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261016T081500Z
+DTEND:20261016T094500Z
+UID:1429595@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nGroup: 1\, 2\, 3\
+ , 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\
+ , 20\, 21\, 22\, 23\, 24\nUniID: 1429595
+LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
+ a" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
 DTSTART:20260915T103000Z
@@ -476,6 +452,38 @@ UID:1460834@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
  Floor: 5\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUniID: 
  1460834
+LOCATION:505\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261012T114500Z
+DTEND:20261012T131500Z
+UID:1460748@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
+ nGroup: 9\, 10\nUniID: 1460748
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+UID:1460835@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUniID: 
+ 1460835
 LOCATION:505\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -628,6 +636,48 @@ UID:1452243@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 408\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 10\n
  UniID: 1452243
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261012T100000Z
+DTEND:20261012T113000Z
+UID:1429829@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 3\nFloor: 1\nGroup: 10\nUniID: 1429829
+LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261014T083000Z
+DTEND:20261014T100000Z
+UID:1435705@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
+ ova\nGroup: 10\nUniID: 1435705
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261015T124500Z
+DTEND:20261015T141500Z
+UID:1452244@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 10\n
+ UniID: 1452244
 LOCATION:408\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY

@@ -184,8 +184,10 @@ SUMMARY:Medical Ethics
 DTSTART:20260917T143000Z
 DTEND:20260917T160000Z
 UID:1472412@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Aleksandar Konstantinov Stoyche
- v\nGroup: 1\nUniID: 1472412
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 304\nFloor: 3\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 1\nUniID: 1472412
+LOCATION:304\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -300,6 +302,21 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
  в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20260924T143000Z
+DTEND:20260924T160000Z
+UID:1472414@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 304\nFloor: 3\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 1\nUniID: 1472414
+LOCATION:304\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -567,6 +584,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261008T143000Z
+DTEND:20261008T160000Z
+UID:1472415@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 304\nFloor: 3\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 1\nUniID: 1472415
+LOCATION:304\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20261009T081500Z
 DTEND:20261009T094500Z
@@ -705,6 +737,21 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
  в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261015T143000Z
+DTEND:20261015T160000Z
+UID:1472416@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 304\nFloor: 3\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 1\nUniID: 1472416
+LOCATION:304\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

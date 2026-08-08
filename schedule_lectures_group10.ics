@@ -70,6 +70,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20260921T044500Z
+DTEND:20260921T061500Z
+UID:1472446@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Hall Helige\nFloor: 2\nLecturer: Aleksandar Konst
+ antinov Stoychev\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\
+ , 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 147244
+ 6
+LOCATION:Hall Helige\, Hospital for Active Treatment "Saint Marina" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20260924T064500Z
 DTEND:20260924T081500Z
@@ -120,6 +137,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20260928T044500Z
+DTEND:20260928T061500Z
+UID:1472447@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Hall Helige\nFloor: 2\nLecturer: Aleksandar Konst
+ antinov Stoychev\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\
+ , 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 147244
+ 7
+LOCATION:Hall Helige\, Hospital for Active Treatment "Saint Marina" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20260929T044500Z
 DTEND:20260929T061500Z
@@ -149,6 +183,23 @@ LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261005T044500Z
+DTEND:20261005T061500Z
+UID:1472448@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Hall Helige\nFloor: 2\nLecturer: Aleksandar Konst
+ antinov Stoychev\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\
+ , 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 147244
+ 8
+LOCATION:Hall Helige\, Hospital for Active Treatment "Saint Marina" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -231,6 +282,23 @@ LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261012T044500Z
+DTEND:20261012T061500Z
+UID:1472449@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Hall Helige\nFloor: 2\nLecturer: Aleksandar Konst
+ antinov Stoychev\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\
+ , 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 147244
+ 9
+LOCATION:Hall Helige\, Hospital for Active Treatment "Saint Marina" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

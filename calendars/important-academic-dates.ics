@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rodrigo//MU Varna Important Dates//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MU Varna Colloquiums & Exams
+X-WR-TIMEZONE:Europe/Sofia
+BEGIN:VEVENT
+UID:biochem-colloq-lipids-20260316@rodrigo05bot
+DTSTAMP:20260325T234800Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260321
+SUMMARY:Biochemistry Colloquium — Lipid metabolism
+DESCRIPTION:Biochemistry colloquium week. Source: Schedule of Biochemistry classes Summer semester 2025/2026. Exact day/time not specified in source PDF.
+CATEGORIES:Biochemistry,Colloquium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:biochem-colloq-lipids-retake-20260323@rodrigo05bot
+DTSTAMP:20260325T234800Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260328
+SUMMARY:Biochemistry Retake Colloquium — Lipid metabolism
+DESCRIPTION:Retake week for Biochemistry colloquium on lipids. Exact day/time not specified in source PDF.
+CATEGORIES:Biochemistry,Colloquium,Retake
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:biochem-colloq-aa-nucleotides-20260504@rodrigo05bot
+DTSTAMP:20260325T234800Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260509
+SUMMARY:Biochemistry Colloquium — Amino acids, nucleotides, heme/iron, xenobiotics
+DESCRIPTION:Biochemistry colloquium week. Covers amino acid and nucleotide metabolism, heme and iron metabolism, xenobiotic metabolism. Exact day/time not specified in source PDF.
+CATEGORIES:Biochemistry,Colloquium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:biochem-colloq-aa-nucleotides-retake-20260511@rodrigo05bot
+DTSTAMP:20260325T234800Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260516
+SUMMARY:Biochemistry Retake Colloquium — Amino acids, nucleotides, heme/iron, xenobiotics
+DESCRIPTION:Retake week for Biochemistry colloquium on amino acid and nucleotide metabolism, heme and iron metabolism, xenobiotic metabolism. Exact day/time not specified in source PDF.
+CATEGORIES:Biochemistry,Colloquium,Retake
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:physiology-midterm-iii-20260309@rodrigo05bot
+DTSTAMP:20260325T234800Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260314
+SUMMARY:Physiology Midterm III
+DESCRIPTION:Physiology Midterm III conductance week. Group-specific day/time schedule exists in the provided document. This calendar entry marks the exam week.
+CATEGORIES:Physiology,Midterm,Exam
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:anatomy-histology-exam-session-20260615@rodrigo05bot
+DTSTAMP:20260325T234800Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260716
+SUMMARY:Anatomy & Histology Exam Session Window
+DESCRIPTION:Exam takes place according to a timetable published on Blackboard. Exact date/time not specified in the regulations PDF; this placeholder covers the regular summer exam period and should be replaced once the official timetable is available.
+CATEGORIES:Anatomy,Histology,Exam
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:biochemistry-final-exam-window-20260615@rodrigo05bot
+DTSTAMP:20260325T234800Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260716
+SUMMARY:Biochemistry Final Exam Window
+DESCRIPTION:Biochemistry final exam is held during the regular session at the end of the IV semester. Exact date/time not specified in the provided PDF; placeholder covers the regular summer exam period and should be updated once the official timetable is published.
+CATEGORIES:Biochemistry,Exam
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

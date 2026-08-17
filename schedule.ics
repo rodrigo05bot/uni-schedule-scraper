@@ -8010,6 +8010,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260915T130000Z
+DTEND:20260915T143000Z
+UID:1477671@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Evdokiya Stefanova Skocheva-Sho
+ pova\nGroup: 13\, 14\nUniID: 1477671
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20260916T064500Z
 DTEND:20260916T081500Z
@@ -8245,6 +8260,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20260929T130000Z
+DTEND:20260929T143000Z
+UID:1477672@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Evdokiya Stefanova Skocheva-Sho
+ pova\nGroup: 13\, 14\nUniID: 1477672
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20260930T064500Z
 DTEND:20260930T081500Z
@@ -8335,6 +8365,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Milena Krasimirova Bozhkova\nGr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261006T130000Z
+DTEND:20261006T143000Z
+UID:1477673@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Evdokiya Stefanova Skocheva-Sho
+ pova\nGroup: 13\, 14\nUniID: 1477673
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -8475,6 +8520,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261013T130000Z
+DTEND:20261013T143000Z
+UID:1477674@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Evdokiya Stefanova Skocheva-Sho
+ pova\nGroup: 13\, 14\nUniID: 1477674
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20261014T064500Z
 DTEND:20261014T081500Z
@@ -8599,6 +8659,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261020T130000Z
+DTEND:20261020T143000Z
+UID:1477675@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Evdokiya Stefanova Skocheva-Sho
+ pova\nGroup: 13\, 14\nUniID: 1477675
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20261021T064500Z
 DTEND:20261021T081500Z
@@ -8719,6 +8794,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Milena Krasimirova Bozhkova\nGr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261027T140000Z
+DTEND:20261027T153000Z
+UID:1477676@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Evdokiya Stefanova Skocheva-Sho
+ pova\nGroup: 13\, 14\nUniID: 1477676
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

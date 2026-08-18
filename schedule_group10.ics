@@ -714,11 +714,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20260921T114500Z
-DTEND:20260921T131500Z
+DTSTART:20260921T120000Z
+DTEND:20260921T133000Z
 UID:1460659@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
- nGroup: 9\, 10\nUniID: 1460659
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: Hal
+ l B\nFloor: 4\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUn
+ iID: 1460659
+LOCATION:Hall B\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -729,11 +731,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20260928T114500Z
-DTEND:20260928T131500Z
-UID:1460746@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
- nGroup: 9\, 10\nUniID: 1460746
+DTSTART:20260928T120000Z
+DTEND:20260928T133000Z
+UID:1478123@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: Hal
+ l B\nFloor: 4\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUn
+ iID: 1478123
+LOCATION:Hall B\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -761,11 +765,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261005T114500Z
-DTEND:20261005T131500Z
-UID:1460747@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
- nGroup: 9\, 10\nUniID: 1460747
+DTSTART:20261005T120000Z
+DTEND:20261005T133000Z
+UID:1478124@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: Hal
+ l B\nFloor: 4\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUn
+ iID: 1478124
+LOCATION:Hall B\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -793,11 +799,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261012T114500Z
-DTEND:20261012T131500Z
-UID:1460748@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
- nGroup: 9\, 10\nUniID: 1460748
+DTSTART:20261012T120000Z
+DTEND:20261012T133000Z
+UID:1478125@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: Hal
+ l B\nFloor: 4\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUn
+ iID: 1478125
+LOCATION:Hall B\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -825,11 +833,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261019T114500Z
-DTEND:20261019T131500Z
-UID:1460749@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
- nGroup: 9\, 10\nUniID: 1460749
+DTSTART:20261019T120000Z
+DTEND:20261019T133000Z
+UID:1478126@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: Hal
+ l B\nFloor: 4\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUn
+ iID: 1478126
+LOCATION:Hall B\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -857,11 +867,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261026T124500Z
-DTEND:20261026T141500Z
-UID:1460750@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Valentina Tihomirova Simeonova\
- nGroup: 9\, 10\nUniID: 1460750
+DTSTART:20261026T130000Z
+DTEND:20261026T143000Z
+UID:1478127@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: Hal
+ l B\nFloor: 4\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUn
+ iID: 1478127
+LOCATION:Hall B\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 

@@ -14699,12 +14699,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20260921T123000Z
-DTEND:20260921T140000Z
+DTSTART:20260921T141500Z
+DTEND:20260921T154500Z
 UID:1460660@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\nUniID: 1460660
-LOCATION:431\, Main Building
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: ІV-t
+ h Аuditorium\nFloor: 1\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\
+ nUniID: 1460660
+LOCATION:ІV-th Аuditorium\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -14801,12 +14802,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20260928T123000Z
-DTEND:20260928T140000Z
-UID:1460759@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\nUniID: 1460759
-LOCATION:431\, Main Building
+DTSTART:20260928T141500Z
+DTEND:20260928T154500Z
+UID:1478547@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: ІV-t
+ h Аuditorium\nFloor: 1\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\
+ nUniID: 1478547
+LOCATION:ІV-th Аuditorium\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -14929,12 +14931,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261005T123000Z
-DTEND:20261005T140000Z
-UID:1460760@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\nUniID: 1460760
-LOCATION:431\, Main Building
+DTSTART:20261005T141500Z
+DTEND:20261005T154500Z
+UID:1478548@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: ІV-t
+ h Аuditorium\nFloor: 1\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\
+ nUniID: 1478548
+LOCATION:ІV-th Аuditorium\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -15069,12 +15072,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261012T123000Z
-DTEND:20261012T140000Z
-UID:1460761@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\nUniID: 1460761
-LOCATION:431\, Main Building
+DTSTART:20261012T141500Z
+DTEND:20261012T154500Z
+UID:1478549@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: ІV-t
+ h Аuditorium\nFloor: 1\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\
+ nUniID: 1478549
+LOCATION:ІV-th Аuditorium\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -15197,12 +15201,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261019T123000Z
-DTEND:20261019T140000Z
-UID:1460762@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\nUniID: 1460762
-LOCATION:431\, Main Building
+DTSTART:20261019T141500Z
+DTEND:20261019T154500Z
+UID:1478550@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: ІV-t
+ h Аuditorium\nFloor: 1\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\
+ nUniID: 1478550
+LOCATION:ІV-th Аuditorium\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -15325,12 +15330,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261026T133000Z
-DTEND:20261026T150000Z
-UID:1460763@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\nUniID: 1460763
-LOCATION:431\, Main Building
+DTSTART:20261026T151500Z
+DTEND:20261026T164500Z
+UID:1478551@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: ІV-t
+ h Аuditorium\nFloor: 1\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\
+ nUniID: 1478551
+LOCATION:ІV-th Аuditorium\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 

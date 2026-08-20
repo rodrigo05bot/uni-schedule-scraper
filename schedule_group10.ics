@@ -68,6 +68,22 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Общ български език - В1 и В2
+DTSTART:20260911T100000Z
+DTEND:20260911T113000Z
+UID:1479226@muv.mihoff.de
+DESCRIPTION:Activity: Exam\nBuilding: Main Building\nClassroom: 407\nFloor
+ : 4\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 1\, 2\, 3\, 4\, 
+ 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\,
+  21\, 22\, 23\, 24\nUniID: 1479226
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Общ български език - В1 и В2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20260915T044500Z
 DTEND:20260915T061500Z

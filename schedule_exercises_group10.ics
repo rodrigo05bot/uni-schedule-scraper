@@ -208,6 +208,40 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261102T130000Z
+DTEND:20261102T143000Z
+UID:1478128@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: Hal
+ l B\nFloor: 4\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUn
+ iID: 1478128
+LOCATION:Hall B\, Medical College
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261103T113000Z
+DTEND:20261103T130000Z
+UID:1460838@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUniID: 
+ 1460838
+LOCATION:505\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260916T083000Z
 DTEND:20260916T100000Z
@@ -755,6 +789,74 @@ LOCATION:306\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261102T110000Z
+DTEND:20261102T123000Z
+UID:1429832@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 3\nFloor: 1\nGroup: 10\nUniID: 1429832
+LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261104T093000Z
+DTEND:20261104T110000Z
+UID:1435708@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
+ ova\nGroup: 10\nUniID: 1435708
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261105T093000Z
+DTEND:20261105T110000Z
+UID:1477155@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: YAnitsa Milkova Dimitrova\nGrou
+ p: 10\nUniID: 1477155
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261105T134500Z
+DTEND:20261105T151500Z
+UID:1452247@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 10\n
+ UniID: 1452247
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261106T060000Z
+DTEND:20261106T090000Z
+UID:1477321@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: YAnitsa Milkova Dimitrova\nGrou
+ p: 10\nUniID: 1477321
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

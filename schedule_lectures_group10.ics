@@ -630,4 +630,86 @@ DESCRIPTION:Reminder: General Pathology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261102T091500Z
+DTEND:20261102T104500Z
+UID:1476695@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Аuditorium A\nFloor: 2\nGroup: 1\, 2\, 3\, 4\, 5
+ \, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 
+ 21\, 22\, 23\, 24\nUniID: 1476695
+LOCATION:Аuditorium A\, Hospital for Active Treatment "Saint Marina" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261103T054500Z
+DTEND:20261103T071500Z
+UID:1452343@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Regional Health Inspectorate\nCla
+ ssroom: Hall "G. Kaprelyan"\nFloor: 1\nLecturer: Ruzha Zlatanova Pancheva-
+ Dimitrova\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 
+ 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1452343
+LOCATION:Hall "G. Kaprelyan"\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261105T074500Z
+DTEND:20261105T091500Z
+UID:1429668@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nGroup: 1\, 2\, 3
+ \, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19
+ \, 20\, 21\, 22\, 23\, 24\nUniID: 1429668
+LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
+ a" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261105T111500Z
+DTEND:20261105T133000Z
+UID:1435425@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Regional Health Inspectorate\nCla
+ ssroom: UNIK\nFloor: 1\nLecturer: Temenuga Zhekova Stoeva\nGroup: 1\, 2\, 
+ 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 1
+ 9\, 20\, 21\, 22\, 23\, 24\nUniID: 1435425
+LOCATION:UNIK\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261106T091500Z
+DTEND:20261106T104500Z
+UID:1429598@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nGroup: 1\, 2\, 3
+ \, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19
+ \, 20\, 21\, 22\, 23\, 24\nUniID: 1429598
+LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
+ a" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

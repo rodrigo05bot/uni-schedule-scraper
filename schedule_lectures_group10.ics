@@ -942,4 +942,113 @@ DESCRIPTION:Reminder: General Pathology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261116T054500Z
+DTEND:20261116T071500Z
+UID:1483336@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nLecturer: Koraliya Stefanova Todorova-Nenov
+ a\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15
+ \, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1483336
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261116T091500Z
+DTEND:20261116T104500Z
+UID:1476697@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Аuditorium A\nFloor: 2\nGroup: 1\, 2\, 3\, 4\, 5
+ \, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 
+ 21\, 22\, 23\, 24\nUniID: 1476697
+LOCATION:Аuditorium A\, Hospital for Active Treatment "Saint Marina" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261117T054500Z
+DTEND:20261117T071500Z
+UID:1452345@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Regional Health Inspectorate\nCla
+ ssroom: Hall "G. Kaprelyan"\nFloor: 1\nLecturer: Ruzha Zlatanova Pancheva-
+ Dimitrova\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 
+ 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1452345
+LOCATION:Hall "G. Kaprelyan"\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261118T060000Z
+DTEND:20261118T073000Z
+UID:1484025@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nLecturer: Vasil Markov Bozhkov\nGroup: 1\, 
+ 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\nUniID: 1484025
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261119T074500Z
+DTEND:20261119T091500Z
+UID:1429670@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nGroup: 1\, 2\, 3
+ \, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19
+ \, 20\, 21\, 22\, 23\, 24\nUniID: 1429670
+LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
+ a" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261119T111500Z
+DTEND:20261119T133000Z
+UID:1435427@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Regional Health Inspectorate\nCla
+ ssroom: UNIK\nFloor: 1\nLecturer: Temenuga Zhekova Stoeva\nGroup: 1\, 2\, 
+ 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 1
+ 9\, 20\, 21\, 22\, 23\, 24\nUniID: 1435427
+LOCATION:UNIK\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261120T091500Z
+DTEND:20261120T104500Z
+UID:1429600@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nGroup: 1\, 2\, 3
+ \, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19
+ \, 20\, 21\, 22\, 23\, 24\nUniID: 1429600
+LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
+ a" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

@@ -1442,8 +1442,10 @@ SUMMARY:Microbiology
 DTSTART:20260916T083000Z
 DTEND:20260916T100000Z
 UID:1435701@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
- ova\nGroup: 10\nUniID: 1435701
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
+ up: 10\nUniID: 1435701
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -1538,8 +1540,10 @@ SUMMARY:Microbiology
 DTSTART:20260923T083000Z
 DTEND:20260923T100000Z
 UID:1435702@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
- ova\nGroup: 10\nUniID: 1435702
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
+ up: 10\nUniID: 1435702
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -1634,8 +1638,10 @@ SUMMARY:Microbiology
 DTSTART:20260930T083000Z
 DTEND:20260930T100000Z
 UID:1435703@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
- ova\nGroup: 10\nUniID: 1435703
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
+ up: 10\nUniID: 1435703
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -1714,8 +1720,10 @@ SUMMARY:Microbiology
 DTSTART:20261007T083000Z
 DTEND:20261007T100000Z
 UID:1435704@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
- ova\nGroup: 10\nUniID: 1435704
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
+ up: 10\nUniID: 1435704
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -1810,8 +1818,10 @@ SUMMARY:Microbiology
 DTSTART:20261014T083000Z
 DTEND:20261014T100000Z
 UID:1435705@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
- ova\nGroup: 10\nUniID: 1435705
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
+ up: 10\nUniID: 1435705
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -1906,8 +1916,10 @@ SUMMARY:Microbiology
 DTSTART:20261021T083000Z
 DTEND:20261021T100000Z
 UID:1435706@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
- ova\nGroup: 10\nUniID: 1435706
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
+ up: 10\nUniID: 1435706
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -2002,8 +2014,10 @@ SUMMARY:Microbiology
 DTSTART:20261028T093000Z
 DTEND:20261028T110000Z
 UID:1435707@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
- ova\nGroup: 10\nUniID: 1435707
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
+ up: 10\nUniID: 1435707
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -2111,8 +2125,10 @@ SUMMARY:Microbiology
 DTSTART:20261104T093000Z
 DTEND:20261104T110000Z
 UID:1435708@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
- ova\nGroup: 10\nUniID: 1435708
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
+ up: 10\nUniID: 1435708
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -2205,8 +2221,10 @@ SUMMARY:Microbiology
 DTSTART:20261111T093000Z
 DTEND:20261111T110000Z
 UID:1435709@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
- ova\nGroup: 10\nUniID: 1435709
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
+ up: 10\nUniID: 1435709
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -2299,8 +2317,10 @@ SUMMARY:Microbiology
 DTSTART:20261118T093000Z
 DTEND:20261118T110000Z
 UID:1435710@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Denitsa Todorova Tsaneva-Damyan
- ova\nGroup: 10\nUniID: 1435710
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
+ up: 10\nUniID: 1435710
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology

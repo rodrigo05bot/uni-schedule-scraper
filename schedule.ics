@@ -9436,8 +9436,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260916T064500Z
 DTEND:20260916T081500Z
 UID:1485873@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 8\nUniID: 1485873
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 8\nUniID: 1485873
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -9503,8 +9504,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260923T064500Z
 DTEND:20260923T081500Z
 UID:1485892@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 8\nUniID: 1485892
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 8\nUniID: 1485892
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -9600,8 +9602,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260930T064500Z
 DTEND:20260930T081500Z
 UID:1486049@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 8\nUniID: 1486049
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 8\nUniID: 1486049
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -9684,8 +9687,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261007T064500Z
 DTEND:20261007T081500Z
 UID:1486050@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 8\nUniID: 1486050
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 8\nUniID: 1486050
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -9781,8 +9785,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261014T064500Z
 DTEND:20261014T081500Z
 UID:1486051@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 8\nUniID: 1486051
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 8\nUniID: 1486051
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -9878,8 +9883,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261021T064500Z
 DTEND:20261021T081500Z
 UID:1486052@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 8\nUniID: 1486052
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 8\nUniID: 1486052
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -9975,8 +9981,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261028T074500Z
 DTEND:20261028T091500Z
 UID:1486053@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 8\nUniID: 1486053
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 8\nUniID: 1486053
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -10070,8 +10077,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261104T074500Z
 DTEND:20261104T091500Z
 UID:1486054@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 8\nUniID: 1486054
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 8\nUniID: 1486054
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -10165,8 +10173,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261111T074500Z
 DTEND:20261111T091500Z
 UID:1486055@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 8\nUniID: 1486055
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 8\nUniID: 1486055
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -10260,8 +10269,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261118T074500Z
 DTEND:20261118T091500Z
 UID:1486056@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 8\nUniID: 1486056
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 8\nUniID: 1486056
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -23956,8 +23966,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260916T050000Z
 DTEND:20260916T063000Z
 UID:1485871@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 21\nUniID: 1485871
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 21\nUniID: 1485871
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -24070,8 +24081,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260923T050000Z
 DTEND:20260923T063000Z
 UID:1485890@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 21\nUniID: 1485890
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 21\nUniID: 1485890
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -24201,8 +24213,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260930T050000Z
 DTEND:20260930T063000Z
 UID:1486023@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 21\nUniID: 1486023
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 21\nUniID: 1486023
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -24317,8 +24330,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261007T050000Z
 DTEND:20261007T063000Z
 UID:1486024@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 21\nUniID: 1486024
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 21\nUniID: 1486024
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -24446,8 +24460,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261014T050000Z
 DTEND:20261014T063000Z
 UID:1486025@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 21\nUniID: 1486025
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 21\nUniID: 1486025
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -24575,8 +24590,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261021T050000Z
 DTEND:20261021T063000Z
 UID:1486026@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 21\nUniID: 1486026
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 21\nUniID: 1486026
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -24704,8 +24720,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261028T060000Z
 DTEND:20261028T073000Z
 UID:1486027@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 21\nUniID: 1486027
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 21\nUniID: 1486027
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -24846,8 +24863,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261104T060000Z
 DTEND:20261104T073000Z
 UID:1486028@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 21\nUniID: 1486028
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 21\nUniID: 1486028
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -24988,8 +25006,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261111T060000Z
 DTEND:20261111T073000Z
 UID:1486029@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 21\nUniID: 1486029
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 21\nUniID: 1486029
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -25130,8 +25149,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261118T060000Z
 DTEND:20261118T073000Z
 UID:1486030@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 21\nUniID: 1486030
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 21\nUniID: 1486030
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -25227,8 +25247,10 @@ SUMMARY:Pathophysiology
 DTSTART:20260916T050000Z
 DTEND:20260916T063000Z
 UID:1485872@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 22\nUniID: 1485872
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 22\nUniID: 148587
+ 2
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -25296,8 +25318,10 @@ SUMMARY:Pathophysiology
 DTSTART:20260923T050000Z
 DTEND:20260923T063000Z
 UID:1485891@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 22\nUniID: 1485891
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 22\nUniID: 148589
+ 1
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -25378,8 +25402,10 @@ SUMMARY:Pathophysiology
 DTSTART:20260930T050000Z
 DTEND:20260930T063000Z
 UID:1486036@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 22\nUniID: 1486036
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 22\nUniID: 148603
+ 6
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -25460,8 +25486,10 @@ SUMMARY:Pathophysiology
 DTSTART:20261007T050000Z
 DTEND:20261007T063000Z
 UID:1486037@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 22\nUniID: 1486037
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 22\nUniID: 148603
+ 7
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -25542,8 +25570,10 @@ SUMMARY:Pathophysiology
 DTSTART:20261014T050000Z
 DTEND:20261014T063000Z
 UID:1486038@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 22\nUniID: 1486038
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 22\nUniID: 148603
+ 8
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -25624,8 +25654,10 @@ SUMMARY:Pathophysiology
 DTSTART:20261021T050000Z
 DTEND:20261021T063000Z
 UID:1486039@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 22\nUniID: 1486039
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 22\nUniID: 148603
+ 9
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -25706,8 +25738,10 @@ SUMMARY:Pathophysiology
 DTSTART:20261028T060000Z
 DTEND:20261028T073000Z
 UID:1486040@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 22\nUniID: 1486040
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 22\nUniID: 148604
+ 0
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -25788,8 +25822,10 @@ SUMMARY:Pathophysiology
 DTSTART:20261104T060000Z
 DTEND:20261104T073000Z
 UID:1486041@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 22\nUniID: 1486041
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 22\nUniID: 148604
+ 1
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -25883,8 +25919,10 @@ SUMMARY:Pathophysiology
 DTSTART:20261111T060000Z
 DTEND:20261111T073000Z
 UID:1486042@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 22\nUniID: 1486042
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 22\nUniID: 148604
+ 2
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -25978,8 +26016,10 @@ SUMMARY:Pathophysiology
 DTSTART:20261118T060000Z
 DTEND:20261118T073000Z
 UID:1486043@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 22\nUniID: 1486043
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 22\nUniID: 148604
+ 3
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology

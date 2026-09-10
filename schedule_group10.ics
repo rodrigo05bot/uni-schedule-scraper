@@ -1570,8 +1570,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260915T063000Z
 DTEND:20260915T080000Z
 UID:1485863@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 10\nUniID: 1485863
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 10\nUniID: 1485863
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology

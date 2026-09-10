@@ -5775,11 +5775,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pathophysiology
-DTSTART:20260915T130000Z
-DTEND:20260915T143000Z
+DTSTART:20260915T133000Z
+DTEND:20260915T150000Z
 UID:1485867@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Viktor Veselinov Velyanov\nGrou
- p: 5\nUniID: 1485867
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Viktor Veselinov Velyanov\nGroup: 5\nUniID: 1485867
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -10361,8 +10362,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260916T103000Z
 DTEND:20260916T120000Z
 UID:1485875@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Viktor Veselinov Velyanov\nGrou
- p: 9\nUniID: 1485875
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Viktor Veselinov Velyanov\nGroup: 9\nUniID: 1485875
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -12771,11 +12773,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pathophysiology
-DTSTART:20260915T133000Z
-DTEND:20260915T150000Z
+DTSTART:20260915T130000Z
+DTEND:20260915T143000Z
 UID:1485868@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 11\nUniID: 1485868
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 11\nUniID: 1485868
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -14050,8 +14053,10 @@ SUMMARY:Pathophysiology
 DTSTART:20260916T103000Z
 DTEND:20260916T120000Z
 UID:1485876@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 12\nUniID: 1485876
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 12\nUniID: 148587
+ 6
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -27521,8 +27526,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260915T123000Z
 DTEND:20260915T140000Z
 UID:1485866@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Hristo Tonchev Papanchev\nGroup
- : 24\nUniID: 1485866
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 401\n
+ Floor: 4\nLecturer: Hristo Tonchev Papanchev\nGroup: 24\nUniID: 1485866
+LOCATION:401\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology

@@ -854,8 +854,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pathophysiology
-DTSTART:20261007T123000Z
-DTEND:20261007T140000Z
+DTSTART:20261007T120000Z
+DTEND:20261007T133000Z
 UID:1486115@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nLecturer: Hristo Tonchev Papanchev\nGroup
  : 1\nUniID: 1486115
@@ -7168,7 +7168,7 @@ DTSTART:20260921T123000Z
 DTEND:20260921T140000Z
 UID:1485889@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
- Floor: 1\nGroup: 6\nUniID: 1485889
+ Floor: 1\nLecturer: Hristo Tonchev Papanchev\nGroup: 6\nUniID: 1485889
 LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY

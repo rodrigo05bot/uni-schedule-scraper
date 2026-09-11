@@ -14808,8 +14808,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260916T090000Z
 DTEND:20260916T103000Z
 UID:1485874@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Viktor Veselinov Velyanov\nGrou
- p: 13\nUniID: 1485874
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Viktor Veselinov Velyanov\nGroup: 13\nUniID: 1485874
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology

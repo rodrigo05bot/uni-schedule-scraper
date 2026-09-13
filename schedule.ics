@@ -3870,8 +3870,10 @@ SUMMARY:Medical Ethics
 DTSTART:20260916T083000Z
 DTEND:20260916T100000Z
 UID:1472396@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Aleksandar Konstantinov Stoyche
- v\nGroup: 3\nUniID: 1472396
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 3\nUniID: 1472396
+LOCATION:414\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -3974,6 +3976,21 @@ LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20260923T083000Z
+DTEND:20260923T100000Z
+UID:1488760@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 3\nUniID: 1488760
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -4105,6 +4122,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20260930T083000Z
+DTEND:20260930T100000Z
+UID:1488761@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 3\nUniID: 1488761
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20260930T103000Z
 DTEND:20260930T120000Z
@@ -4215,6 +4247,21 @@ LOCATION:812\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261007T083000Z
+DTEND:20261007T100000Z
+UID:1488762@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 3\nUniID: 1488762
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -4346,6 +4393,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261014T083000Z
+DTEND:20261014T100000Z
+UID:1488763@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 3\nUniID: 1488763
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20261014T103000Z
 DTEND:20261014T120000Z
@@ -4473,6 +4535,18 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261021T083000Z
+DTEND:20261021T091500Z
+UID:1488764@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nGroup: 3\nUniID: 1488764
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20261021T103000Z
 DTEND:20261021T120000Z
@@ -4596,6 +4670,21 @@ LOCATION:812\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261028T093000Z
+DTEND:20261028T110000Z
+UID:1488765@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 3\nUniID: 1488765
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -13986,8 +14075,10 @@ SUMMARY:Medical Ethics
 DTSTART:20260921T103000Z
 DTEND:20260921T120000Z
 UID:1472458@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Aleksandar Konstantinov Stoyche
- v\nGroup: 11\nUniID: 1472458
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 209
+ \nFloor: 2\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 11\nUniID: 
+ 1472458
+LOCATION:209\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -14079,6 +14170,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Hristo Juri Nikov\nGroup: 11\nU
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+UID:1488766@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 209
+ \nFloor: 2\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 11\nUniID: 
+ 1488766
+LOCATION:209\, Medical College
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -14192,6 +14298,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Hristo Juri Nikov\nGroup: 11\nU
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+UID:1488767@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 209
+ \nFloor: 2\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 11\nUniID: 
+ 1488767
+LOCATION:209\, Medical College
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -14324,6 +14445,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+UID:1488768@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 209
+ \nFloor: 2\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 11\nUniID: 
+ 1488768
+LOCATION:209\, Medical College
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261012T123000Z
 DTEND:20261012T140000Z
@@ -14452,6 +14588,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+UID:1488769@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 209
+ \nFloor: 2\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 11\nUniID: 
+ 1488769
+LOCATION:209\, Medical College
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261019T123000Z
 DTEND:20261019T140000Z
@@ -14576,6 +14727,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Hristo Juri Nikov\nGroup: 11\nU
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261026T113000Z
+DTEND:20261026T130000Z
+UID:1488770@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 209
+ \nFloor: 2\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 11\nUniID: 
+ 1488770
+LOCATION:209\, Medical College
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -15375,8 +15541,10 @@ SUMMARY:Medical Ethics
 DTSTART:20260921T123000Z
 DTEND:20260921T140000Z
 UID:1472460@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Aleksandar Konstantinov Stoyche
- v\nGroup: 12\nUniID: 1472460
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 209
+ \nFloor: 2\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 12\nUniID: 
+ 1472460
+LOCATION:209\, Medical College
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -15449,6 +15617,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Todor Ivanov Ivanov\nGroup: 12
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20260928T123000Z
+DTEND:20260928T140000Z
+UID:1488771@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 209
+ \nFloor: 2\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 12\nUniID: 
+ 1488771
+LOCATION:209\, Medical College
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -15533,6 +15716,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Todor Ivanov Ivanov\nGroup: 12
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261005T123000Z
+DTEND:20261005T140000Z
+UID:1488772@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 209
+ \nFloor: 2\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 12\nUniID: 
+ 1488772
+LOCATION:209\, Medical College
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -15636,6 +15834,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261012T123000Z
+DTEND:20261012T140000Z
+UID:1488773@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 209
+ \nFloor: 2\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 12\nUniID: 
+ 1488773
+LOCATION:209\, Medical College
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20261013T063000Z
 DTEND:20261013T094500Z
@@ -15733,6 +15946,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261019T123000Z
+DTEND:20261019T140000Z
+UID:1488774@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 209
+ \nFloor: 2\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 12\nUniID: 
+ 1488774
+LOCATION:209\, Medical College
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20261020T063000Z
 DTEND:20261020T094500Z
@@ -15826,6 +16054,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Todor Ivanov Ivanov\nGroup: 12
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261026T133000Z
+DTEND:20261026T150000Z
+UID:1488775@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: 209
+ \nFloor: 2\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 12\nUniID: 
+ 1488775
+LOCATION:209\, Medical College
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

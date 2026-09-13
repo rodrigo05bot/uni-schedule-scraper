@@ -16713,10 +16713,10 @@ SUMMARY:Medical Ethics
 DTSTART:20260918T050000Z
 DTEND:20260918T063000Z
 UID:1472417@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 306\nFloor: 3\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
- : 13\nUniID: 1472417
-LOCATION:306\, Regional Health Inspectorate
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 408\n
+ Floor: 4\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 13\nUniID: 14
+ 72417
+LOCATION:408\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -16826,10 +16826,10 @@ SUMMARY:Medical Ethics
 DTSTART:20260925T050000Z
 DTEND:20260925T063000Z
 UID:1472419@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 306\nFloor: 3\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
- : 13\nUniID: 1472419
-LOCATION:306\, Regional Health Inspectorate
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 408\n
+ Floor: 4\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 13\nUniID: 14
+ 72419
+LOCATION:408\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -16967,10 +16967,10 @@ SUMMARY:Medical Ethics
 DTSTART:20261002T050000Z
 DTEND:20261002T063000Z
 UID:1472420@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 306\nFloor: 3\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
- : 13\nUniID: 1472420
-LOCATION:306\, Regional Health Inspectorate
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 408\n
+ Floor: 4\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 13\nUniID: 14
+ 72420
+LOCATION:408\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -17119,6 +17119,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+UID:1488787@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 408\n
+ Floor: 4\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 13\nUniID: 14
+ 88787
+LOCATION:408\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
 DTSTART:20261009T130000Z
@@ -17256,6 +17271,21 @@ LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+UID:1488788@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 408\n
+ Floor: 4\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 13\nUniID: 14
+ 88788
+LOCATION:408\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -17405,10 +17435,8 @@ SUMMARY:Medical Ethics
 DTSTART:20261023T050000Z
 DTEND:20261023T063000Z
 UID:1472423@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 306\nFloor: 3\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
- : 13\nUniID: 1472423
-LOCATION:306\, Regional Health Inspectorate
+DESCRIPTION:Activity: Excercise\nLecturer: Aleksandar Konstantinov Stoyche
+ v\nGroup: 13\nUniID: 1472423
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -17561,10 +17589,10 @@ SUMMARY:Medical Ethics
 DTSTART:20261030T060000Z
 DTEND:20261030T073000Z
 UID:1472424@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 306\nFloor: 3\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
- : 13\nUniID: 1472424
-LOCATION:306\, Regional Health Inspectorate
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 408\n
+ Floor: 4\nLecturer: Aleksandar Konstantinov Stoychev\nGroup: 13\nUniID: 14
+ 72424
+LOCATION:408\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -18250,8 +18278,10 @@ SUMMARY:Medical Ethics
 DTSTART:20260916T123000Z
 DTEND:20260916T140000Z
 UID:1472404@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Martin Ognyanov Mirchev\nGroup:
-  14\nUniID: 1472404
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 14\nUniID: 1472404
+LOCATION:814\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -18310,6 +18340,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Shenay Beyhan Mustafa-Nasuf\nGr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20260923T123000Z
+DTEND:20260923T140000Z
+UID:1488776@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 14\nUniID: 1488776
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -18397,6 +18442,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20260930T123000Z
+DTEND:20260930T140000Z
+UID:1488777@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 14\nUniID: 1488777
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pathophysiology
 DTSTART:20261002T060000Z
 DTEND:20261002T073000Z
@@ -18461,6 +18521,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Shenay Beyhan Mustafa-Nasuf\nGr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261007T123000Z
+DTEND:20261007T140000Z
+UID:1488778@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 14\nUniID: 1488778
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -18548,6 +18623,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261014T123000Z
+DTEND:20261014T140000Z
+UID:1488779@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 14\nUniID: 1488779
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20261015T083000Z
 DTEND:20261015T100000Z
@@ -18631,6 +18721,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261021T123000Z
+DTEND:20261021T140000Z
+UID:1488780@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 14\nUniID: 1488780
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20261022T083000Z
 DTEND:20261022T100000Z
@@ -18710,6 +18815,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Shenay Beyhan Mustafa-Nasuf\nGr
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261028T133000Z
+DTEND:20261028T150000Z
+UID:1488781@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 14\nUniID: 1488781
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -19144,8 +19264,10 @@ SUMMARY:Medical Ethics
 DTSTART:20260915T110000Z
 DTEND:20260915T123000Z
 UID:1472318@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Martin Ognyanov Mirchev\nGroup:
-  15\nUniID: 1472318
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 803\nFloor: 8\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 15\nUniID: 1472318
+LOCATION:803\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -19400,6 +19522,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20260929T110000Z
+DTEND:20260929T123000Z
+UID:1488782@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 803\nFloor: 8\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 15\nUniID: 1488782
+LOCATION:803\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20260930T064500Z
 DTEND:20260930T081500Z
@@ -19494,6 +19631,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Samuil Sashev Todorov\nGroup: 1
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261006T110000Z
+DTEND:20261006T123000Z
+UID:1488783@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 803\nFloor: 8\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 15\nUniID: 1488783
+LOCATION:803\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -19627,6 +19779,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261013T110000Z
+DTEND:20261013T123000Z
+UID:1488784@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 803\nFloor: 8\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 15\nUniID: 1488784
+LOCATION:803\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20261014T064500Z
 DTEND:20261014T081500Z
@@ -19756,6 +19923,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261020T110000Z
+DTEND:20261020T123000Z
+UID:1488785@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 803\nFloor: 8\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 15\nUniID: 1488785
+LOCATION:803\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20261021T064500Z
 DTEND:20261021T081500Z
@@ -19881,6 +20063,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Samuil Sashev Todorov\nGroup: 1
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261027T120000Z
+DTEND:20261027T133000Z
+UID:1488786@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 803\nFloor: 8\nLecturer: Aleksandar Konstantinov Stoychev\nGroup
+ : 15\nUniID: 1488786
+LOCATION:803\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -20557,8 +20754,8 @@ SUMMARY:Medical Ethics
 DTSTART:20260915T110000Z
 DTEND:20260915T123000Z
 UID:1472319@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Aleksandar Konstantinov Stoyche
- v\nGroup: 16\nUniID: 1472319
+DESCRIPTION:Activity: Excercise\nLecturer: Martin Ognyanov Mirchev\nGroup:
+  16\nUniID: 1472319
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -23197,8 +23394,10 @@ SUMMARY:Medical Ethics
 DTSTART:20260918T050000Z
 DTEND:20260918T063000Z
 UID:1472418@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Martin Ognyanov Mirchev\nGroup:
-  18\nUniID: 1472418
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 306\nFloor: 3\nLecturer: Martin Ognyanov Mirchev\nGroup: 18\nUni
+ ID: 1472418
+LOCATION:306\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -23271,6 +23470,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Ivan Aleksandrov Hinev\nGroup:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+UID:1488789@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 306\nFloor: 3\nLecturer: Martin Ognyanov Mirchev\nGroup: 18\nUni
+ ID: 1488789
+LOCATION:306\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -23357,6 +23571,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+UID:1488790@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 306\nFloor: 3\nLecturer: Martin Ognyanov Mirchev\nGroup: 18\nUni
+ ID: 1488790
+LOCATION:306\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20261005T103000Z
 DTEND:20261005T120000Z
@@ -23435,6 +23664,18 @@ DESCRIPTION:Activity: Excercise\nLecturer: Ivan Aleksandrov Hinev\nGroup:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261009T050000Z
+DTEND:20261009T054500Z
+UID:1488791@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nGroup: 18\nUniID: 1488791
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -23521,6 +23762,18 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261016T050000Z
+DTEND:20261016T054500Z
+UID:1488792@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nGroup: 18\nUniID: 1488792
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20261019T103000Z
 DTEND:20261019T120000Z
@@ -23603,6 +23856,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+UID:1488793@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 306\nFloor: 3\nLecturer: Martin Ognyanov Mirchev\nGroup: 18\nUni
+ ID: 1488793
+LOCATION:306\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20261026T113000Z
 DTEND:20261026T130000Z
@@ -23681,6 +23949,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Ivan Aleksandrov Hinev\nGroup:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261030T060000Z
+DTEND:20261030T073000Z
+UID:1488794@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 306\nFloor: 3\nLecturer: Martin Ognyanov Mirchev\nGroup: 18\nUni
+ ID: 1488794
+LOCATION:306\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -26680,8 +26963,10 @@ SUMMARY:Medical Ethics
 DTSTART:20260917T143000Z
 DTEND:20260917T160000Z
 UID:1472413@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Martin Ognyanov Mirchev\nGroup:
-  21\nUniID: 1472413
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Martin Ognyanov Mirchev\nGroup: 21\nUni
+ ID: 1472413
+LOCATION:408\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -26787,6 +27072,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Doroteya Rumenova Radeva\nGroup
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20260924T143000Z
+DTEND:20260924T160000Z
+UID:1488795@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Martin Ognyanov Mirchev\nGroup: 21\nUni
+ ID: 1488795
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -27040,6 +27340,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261008T143000Z
+DTEND:20261008T160000Z
+UID:1488796@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Martin Ognyanov Mirchev\nGroup: 21\nUni
+ ID: 1488796
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20261009T050000Z
 DTEND:20261009T080000Z
@@ -27166,6 +27481,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Doroteya Rumenova Radeva\nGroup
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261015T143000Z
+DTEND:20261015T160000Z
+UID:1488797@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Martin Ognyanov Mirchev\nGroup: 21\nUni
+ ID: 1488797
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -27300,6 +27630,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261022T143000Z
+DTEND:20261022T160000Z
+UID:1488798@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Martin Ognyanov Mirchev\nGroup: 21\nUni
+ ID: 1488798
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20261023T050000Z
 DTEND:20261023T080000Z
@@ -27426,6 +27771,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Doroteya Rumenova Radeva\nGroup
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261029T153000Z
+DTEND:20261029T170000Z
+UID:1488799@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Martin Ognyanov Mirchev\nGroup: 21\nUni
+ ID: 1488799
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -28090,8 +28450,10 @@ SUMMARY:Medical Ethics
 DTSTART:20260917T083000Z
 DTEND:20260917T100000Z
 UID:1472406@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Martin Ognyanov Mirchev\nGroup:
-  22\nUniID: 1472406
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Martin Ognyanov Mirchev\nGroup: 22\nUni
+ ID: 1472406
+LOCATION:814\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -28153,6 +28515,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Dragomir Zdravkov Ivanov\nGroup
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20260924T083000Z
+DTEND:20260924T100000Z
+UID:1488804@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Martin Ognyanov Mirchev\nGroup: 22\nUni
+ ID: 1488804
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -28325,6 +28702,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261008T083000Z
+DTEND:20261008T100000Z
+UID:1488805@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Martin Ognyanov Mirchev\nGroup: 22\nUni
+ ID: 1488805
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20261009T063000Z
 DTEND:20261009T080000Z
@@ -28405,6 +28797,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Dragomir Zdravkov Ivanov\nGroup
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261015T083000Z
+DTEND:20261015T100000Z
+UID:1488806@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Martin Ognyanov Mirchev\nGroup: 22\nUni
+ ID: 1488806
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -28493,6 +28900,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261022T083000Z
+DTEND:20261022T100000Z
+UID:1488807@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Martin Ognyanov Mirchev\nGroup: 22\nUni
+ ID: 1488807
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20261023T063000Z
 DTEND:20261023T080000Z
@@ -28573,6 +28995,21 @@ DESCRIPTION:Activity: Excercise\nLecturer: Dragomir Zdravkov Ivanov\nGroup
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261029T093000Z
+DTEND:20261029T110000Z
+UID:1488808@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Martin Ognyanov Mirchev\nGroup: 22\nUni
+ ID: 1488808
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

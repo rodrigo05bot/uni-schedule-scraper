@@ -2594,6 +2594,273 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261123T054500Z
+DTEND:20261123T071500Z
+UID:1483337@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nLecturer: Koraliya Stefanova Todorova-Nenov
+ a\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15
+ \, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1483337
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261123T074500Z
+DTEND:20261123T091500Z
+UID:1483351@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Sonya Mladenova Maneva \nGroup:
+  1\nUniID: 1483351
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261123T091500Z
+DTEND:20261123T104500Z
+UID:1476698@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Аuditorium A\nFloor: 2\nGroup: 1\, 2\, 3\, 4\, 5
+ \, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 
+ 21\, 22\, 23\, 24\nUniID: 1476698
+LOCATION:Аuditorium A\, Hospital for Active Treatment "Saint Marina" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261123T110000Z
+DTEND:20261123T131500Z
+UID:1484398@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Vasil Markov Bozhkov\nGroup: 1
+ \nUniID: 1484398
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261124T054500Z
+DTEND:20261124T071500Z
+UID:1452346@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Regional Health Inspectorate\nCla
+ ssroom: Hall "G. Kaprelyan"\nFloor: 1\nLecturer: Ruzha Zlatanova Pancheva-
+ Dimitrova\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 
+ 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1452346
+LOCATION:Hall "G. Kaprelyan"\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261124T133000Z
+DTEND:20261124T150000Z
+UID:1452159@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 404\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 1\nU
+ niID: 1452159
+LOCATION:404\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261125T060000Z
+DTEND:20261125T073000Z
+UID:1484026@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nLecturer: Vasil Markov Bozhkov\nGroup: 1\, 
+ 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\nUniID: 1484026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261125T093000Z
+DTEND:20261125T110000Z
+UID:1460855@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: ІV-t
+ h Аuditorium\nFloor: 1\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2
+ \nUniID: 1460855
+LOCATION:ІV-th Аuditorium\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261125T113000Z
+DTEND:20261125T130000Z
+UID:1429700@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 2\nFloor: 1\nGroup: 1\, 2\nUniID: 1429
+ 700
+LOCATION:2\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261125T133000Z
+DTEND:20261125T150000Z
+UID:1486122@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Hristo Tonchev Papanchev\nGroup
+ : 1\nUniID: 1486122
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261126T060000Z
+DTEND:20261126T073000Z
+UID:1486134@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Main Building\nClassroom: II-nd A
+ uditorium\nFloor: 3\nLecturer: Kameliya Zhechkova Bratoeva\nGroup: 1\, 2\,
+  3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 
+ 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1486134
+LOCATION:II-nd Auditorium\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261126T074500Z
+DTEND:20261126T091500Z
+UID:1429671@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nGroup: 1\, 2\, 3
+ \, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19
+ \, 20\, 21\, 22\, 23\, 24\nUniID: 1429671
+LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
+ a" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1477040@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Veselin Dobrev Valkov\nGroup: 1
+ \nUniID: 1477040
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261126T111500Z
+DTEND:20261126T133000Z
+UID:1435428@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Regional Health Inspectorate\nCla
+ ssroom: UNIK\nFloor: 1\nLecturer: Temenuga Zhekova Stoeva\nGroup: 1\, 2\, 
+ 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 1
+ 9\, 20\, 21\, 22\, 23\, 24\nUniID: 1435428
+LOCATION:UNIK\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261126T134500Z
+DTEND:20261126T151500Z
+UID:1460950@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Boyana Angelova Angelova\nGroup
+ : 1\, 2\nUniID: 1460950
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261127T060000Z
+DTEND:20261127T090000Z
+UID:1477198@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Veselin Dobrev Valkov\nGroup: 1
+ \nUniID: 1477198
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261127T091500Z
+DTEND:20261127T104500Z
+UID:1429601@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
+ int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nGroup: 1\, 2\, 3
+ \, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19
+ \, 20\, 21\, 22\, 23\, 24\nUniID: 1429601
+LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
+ a" 
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261127T124500Z
+DTEND:20261127T141500Z
+UID:1435756@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 802\nFloor: 8\nLecturer: Neli Mitkova Ermenlieva\nGroup: 1\nUniI
+ D: 1435756
+LOCATION:802\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pathophysiology
 DTSTART:20260915T080000Z
 DTEND:20260915T093000Z
@@ -3467,6 +3734,101 @@ UID:1435769@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 806\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 2\nUniID: 143
  5769
+LOCATION:806\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261123T074500Z
+DTEND:20261123T091500Z
+UID:1483357@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Viyana Yanislavova Angelova\nGr
+ oup: 2\nUniID: 1483357
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261123T110000Z
+DTEND:20261123T131500Z
+UID:1484431@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Plamen Milchev Chernopolski\nGr
+ oup: 2\nUniID: 1484431
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261123T133000Z
+DTEND:20261123T150000Z
+UID:1452065@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Veselin Petev Petkov\nGroup: 2\nUniID: 
+ 1452065
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261124T090000Z
+DTEND:20261124T103000Z
+UID:1485976@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
+ roup: 2\nUniID: 1485976
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1477054@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Nikolay Borisov Kalvachev\nGrou
+ p: 2\nUniID: 1477054
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261127T060000Z
+DTEND:20261127T090000Z
+UID:1477212@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Nikolay Borisov Kalvachev\nGrou
+ p: 2\nUniID: 1477212
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261127T124500Z
+DTEND:20261127T141500Z
+UID:1435770@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 2\nUniID: 143
+ 5770
 LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4714,6 +5076,146 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261123T073000Z
+DTEND:20261123T090000Z
+UID:1460727@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Rumenov Rachev \nGroup: 
+ 3\, 4\nUniID: 1460727
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261123T110000Z
+DTEND:20261123T131500Z
+UID:1484445@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Dilyan Svilenov Chaushev\nGroup
+ : 3\nUniID: 1484445
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261123T133000Z
+DTEND:20261123T150000Z
+UID:1452262@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 413\nFloor: 4\nLecturer: Panayot Nikolov Nikolov\nGroup: 3\nUniI
+ D: 1452262
+LOCATION:413\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261124T090000Z
+DTEND:20261124T103000Z
+UID:1485987@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Viktor Veselinov Velyanov\nGrou
+ p: 3\nUniID: 1485987
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261124T120000Z
+DTEND:20261124T133000Z
+UID:1435553@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 812\nFloor: 8\nLecturer: Marina Petrova Miroshnikova\nGroup: 3\n
+ UniID: 1435553
+LOCATION:812\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261125T093000Z
+DTEND:20261125T110000Z
+UID:1483457@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Koraliya Stefanova Todorova-Nen
+ ova\nGroup: 3\nUniID: 1483457
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261125T113000Z
+DTEND:20261125T130000Z
+UID:1429715@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 1\nFloor: 1\nGroup: 3\nUniID: 1429715
+LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261125T133000Z
+DTEND:20261125T150000Z
+UID:1460897@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Yordan Rumenov Rachev \nGroup: 3\, 4\nUniID: 1460897
+LOCATION:505\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1477067@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Krasimir Todorov Todorov\nGroup
+ : 3\nUniID: 1477067
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261127T060000Z
+DTEND:20261127T090000Z
+UID:1477226@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Krasimir Todorov Todorov\nGroup
+ : 3\nUniID: 1477226
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260916T064500Z
 DTEND:20260916T081500Z
@@ -4876,8 +5378,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260928T103000Z
 DTEND:20260928T120000Z
 UID:1485918@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 4\nUniID: 1485918
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 4\nUniID: 1485918
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -4946,8 +5449,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261005T103000Z
 DTEND:20261005T120000Z
 UID:1485919@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
- roup: 4\nUniID: 1485919
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 4\nUniID: 1485919
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -5031,7 +5535,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261012T103000Z
 DTEND:20261012T120000Z
 UID:1485920@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nGroup: 4\nUniID: 1485920
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 4\nUniID: 1485920
+LOCATION:502\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -5502,6 +6008,88 @@ UID:1452223@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 410\nFloor: 4\nLecturer: Panayot Nikolov Nikolov\nGroup: 4\nUniI
  D: 1452223
+LOCATION:410\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261123T113000Z
+DTEND:20261123T130000Z
+UID:1485926@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nGroup: 4\nUniID: 1485926
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261123T134500Z
+DTEND:20261123T160000Z
+UID:1484459@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Boyan Dimitrov Minkov\nGroup: 4
+ \nUniID: 1484459
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1435666@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 802\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 4\nUniID: 1435666
+LOCATION:802\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261125T093000Z
+DTEND:20261125T110000Z
+UID:1483463@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Svetlin Varbanov Varbanov\nGrou
+ p: 4\nUniID: 1483463
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261125T113000Z
+DTEND:20261125T130000Z
+UID:1429730@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 3\nFloor: 1\nGroup: 4\nUniID: 1429730
+LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261126T134500Z
+DTEND:20261126T151500Z
+UID:1452224@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 410\nFloor: 4\nLecturer: Panayot Nikolov Nikolov\nGroup: 4\nUniI
+ D: 1452224
 LOCATION:410\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -6835,6 +7423,147 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261123T073000Z
+DTEND:20261123T090000Z
+UID:1429775@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 1\nFloor: 1\nGroup: 5\nUniID: 1429775
+LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261123T113000Z
+DTEND:20261123T130000Z
+UID:1435441@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 5\nUniID: 143
+ 5441
+LOCATION:806\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261123T134500Z
+DTEND:20261123T160000Z
+UID:1484473@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordan Georgiev Georgiev\nGroup
+ : 5\nUniID: 1484473
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261124T093000Z
+DTEND:20261124T110000Z
+UID:1460805@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
+ Floor: 4\nLecturer: Silvena Nikolova Stavreva-Dorostolska\nGroup: 5\, 6\nU
+ niID: 1460805
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261124T114500Z
+DTEND:20261124T131500Z
+UID:1452133@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 404\nFloor: 4\nLecturer: Panayot Nikolov Nikolov\nGroup: 5\nUniI
+ D: 1452133
+LOCATION:404\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261124T143000Z
+DTEND:20261124T160000Z
+UID:1486020@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Viktor Veselinov Velyanov\nGrou
+ p: 5\nUniID: 1486020
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1483442@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Vangeliya Marinoska-Ivanova \nG
+ roup: 5\nUniID: 1483442
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261125T133000Z
+DTEND:20261125T150000Z
+UID:1460911@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Silvena Nikolova Stavreva-Doros
+ tolska\nGroup: 5\, 6\nUniID: 1460911
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1477093@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Kristiyana Hristova Dimitrova-I
+ vanova\nGroup: 5\nUniID: 1477093
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261127T060000Z
+DTEND:20261127T090000Z
+UID:1477254@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Kristiyana Hristova Dimitrova-I
+ vanova\nGroup: 5\nUniID: 1477254
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20260915T101500Z
 DTEND:20260915T114500Z
@@ -7034,7 +7763,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260928T123000Z
 DTEND:20260928T140000Z
 UID:1485944@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nGroup: 6\nUniID: 1485944
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Hristo Tonchev Papanchev\nGroup: 6\nUniID: 1485944
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -7131,8 +7862,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261005T123000Z
 DTEND:20261005T140000Z
 UID:1485945@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Hristo Tonchev Papanchev\nGroup
- : 6\nUniID: 1485945
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Hristo Tonchev Papanchev\nGroup: 6\nUniID: 1485945
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -7242,7 +7974,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261012T123000Z
 DTEND:20261012T140000Z
 UID:1485946@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nGroup: 6\nUniID: 1485946
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Hristo Tonchev Papanchev\nGroup: 6\nUniID: 1485946
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -7841,6 +8575,114 @@ DTEND:20261120T090000Z
 UID:1477267@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nLecturer: Sindi Rumenova Ivanova\nGroup: 
  6\nUniID: 1477267
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261123T073000Z
+DTEND:20261123T090000Z
+UID:1429790@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 3\nFloor: 1\nGroup: 6\nUniID: 1429790
+LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261123T113000Z
+DTEND:20261123T130000Z
+UID:1435455@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 812\nFloor: 8\nLecturer: Dobromira Yordanova Savova\nGroup: 6\nU
+ niID: 1435455
+LOCATION:812\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261123T133000Z
+DTEND:20261123T150000Z
+UID:1485952@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nGroup: 6\nUniID: 1485952
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261124T111500Z
+DTEND:20261124T124500Z
+UID:1452094@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Stanislava Emilova Hadzhieva\nGroup: 6
+ \nUniID: 1452094
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1483449@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Ivaylo Aleksandrov Aleksandrov
+ \nGroup: 6\nUniID: 1483449
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261125T110000Z
+DTEND:20261125T131500Z
+UID:1484488@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Vasil Markov Bozhkov\nGroup: 6
+ \nUniID: 1484488
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1477106@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Sindi Rumenova Ivanova\nGroup: 
+ 6\nUniID: 1477106
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261127T060000Z
+DTEND:20261127T090000Z
+UID:1477268@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Sindi Rumenova Ivanova\nGroup: 
+ 6\nUniID: 1477268
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
@@ -9178,6 +10020,148 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261123T073000Z
+DTEND:20261123T090000Z
+UID:1429805@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 2\nFloor: 1\nGroup: 7\, 8\nUniID: 1429
+ 805
+LOCATION:2\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261123T113000Z
+DTEND:20261123T130000Z
+UID:1435469@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Teodora Ilieva Katrandzhieva\nGroup: 7
+ \nUniID: 1435469
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261123T133000Z
+DTEND:20261123T150000Z
+UID:1460780@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
+ Floor: 4\nLecturer: Daniela Hristova Ivanova\nGroup: 7\, 8\nUniID: 1460780
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261124T073000Z
+DTEND:20261124T090000Z
+UID:1483381@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Zhivko Pavlinov Apostolov\nGrou
+ p: 7\nUniID: 1483381
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261124T111500Z
+DTEND:20261124T124500Z
+UID:1452107@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 410\nFloor: 4\nLecturer: Dimitar Borisov Marinov\nGroup: 7\nUniI
+ D: 1452107
+LOCATION:410\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261125T110000Z
+DTEND:20261125T131500Z
+UID:1484503@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Hristo Juri Nikov\nGroup: 7\nUn
+ iID: 1484503
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1477119@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordanka Georgieva Doneva-Kashl
+ ova\nGroup: 7\nUniID: 1477119
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261126T134500Z
+DTEND:20261126T151500Z
+UID:1460817@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Daniela Hristova Ivanova\nGroup: 7\, 8\nUniID: 1460817
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261127T060000Z
+DTEND:20261127T090000Z
+UID:1477282@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordanka Georgieva Doneva-Kashl
+ ova\nGroup: 7\nUniID: 1477282
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261127T113000Z
+DTEND:20261127T130000Z
+UID:1486205@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Viktor Veselinov Velyanov\nGrou
+ p: 7\nUniID: 1486205
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Medical Ethics
 DTSTART:20260915T063000Z
 DTEND:20260915T080000Z
@@ -9280,9 +10264,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260923T064500Z
 DTEND:20260923T081500Z
 UID:1485892@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
- Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 8\nUniID: 1485892
-LOCATION:502\, Main Building
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 331\n
+ Floor: 3\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 8\nUniID: 1485892
+LOCATION:331\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -10087,6 +11071,102 @@ DTEND:20261120T090000Z
 UID:1477295@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nLecturer: Mariya Stankova Vernova\nGroup:
   8\nUniID: 1477295
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261123T113000Z
+DTEND:20261123T130000Z
+UID:1435483@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 802\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 8\nUniID: 1435483
+LOCATION:802\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261124T073000Z
+DTEND:20261124T090000Z
+UID:1483386@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Sonya Mladenova Maneva \nGroup:
+  8\nUniID: 1483386
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261124T111500Z
+DTEND:20261124T124500Z
+UID:1452120@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 8\nU
+ niID: 1452120
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1486057@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 8\nUniID: 1486057
+LOCATION:502\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261125T110000Z
+DTEND:20261125T131500Z
+UID:1484518@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Filip Ivaylov Gabarski\nGroup: 
+ 8\nUniID: 1484518
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1477132@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Mariya Stankova Vernova\nGroup:
+  8\nUniID: 1477132
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261127T060000Z
+DTEND:20261127T090000Z
+UID:1477296@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Mariya Stankova Vernova\nGroup:
+  8\nUniID: 1477296
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
@@ -11463,6 +12543,149 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261123T110000Z
+DTEND:20261123T123000Z
+UID:1429820@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 1\nFloor: 1\nGroup: 9\nUniID: 1429820
+LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261123T130000Z
+DTEND:20261123T143000Z
+UID:1478131@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: Hal
+ l B\nFloor: 4\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUn
+ iID: 1478131
+LOCATION:Hall B\, Medical College
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261124T093000Z
+DTEND:20261124T110000Z
+UID:1483406@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Viyana Yanislavova Angelova\nGr
+ oup: 9\nUniID: 1483406
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261124T113000Z
+DTEND:20261124T130000Z
+UID:1460841@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUniID: 
+ 1460841
+LOCATION:505\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261125T093000Z
+DTEND:20261125T110000Z
+UID:1435696@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 802\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 9\nUniID: 1435696
+LOCATION:802\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261125T113000Z
+DTEND:20261125T130000Z
+UID:1486109@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Viktor Veselinov Velyanov\nGrou
+ p: 9\nUniID: 1486109
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1477145@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yavor Kirilov Hinov\nGroup: 9\n
+ UniID: 1477145
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261126T134500Z
+DTEND:20261126T151500Z
+UID:1452237@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Todor Kirilov Todorov\nGroup: 9\nUniID:
+  1452237
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261127T060000Z
+DTEND:20261127T090000Z
+UID:1477310@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yavor Kirilov Hinov\nGroup: 9\n
+ UniID: 1477310
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261127T110000Z
+DTEND:20261127T131500Z
+UID:1484533@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Plamen Milchev Chernopolski\nGr
+ oup: 9\nUniID: 1484533
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pathophysiology
 DTSTART:20260915T063000Z
 DTEND:20260915T080000Z
@@ -12506,6 +13729,115 @@ DTEND:20261120T131500Z
 UID:1484546@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nLecturer: Dilyan Svilenov Chaushev\nGroup
  : 10\nUniID: 1484546
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261123T110000Z
+DTEND:20261123T123000Z
+UID:1429835@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 3\nFloor: 1\nGroup: 10\nUniID: 1429835
+LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261124T073000Z
+DTEND:20261124T090000Z
+UID:1485965@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
+ 10\nUniID: 1485965
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261124T093000Z
+DTEND:20261124T110000Z
+UID:1483400@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Mirela Miroslavova Vacheva\nGro
+ up: 10\nUniID: 1483400
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261125T093000Z
+DTEND:20261125T110000Z
+UID:1435711@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
+ up: 10\nUniID: 1435711
+LOCATION:806\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1477158@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: YAnitsa Milkova Dimitrova\nGrou
+ p: 10\nUniID: 1477158
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261126T134500Z
+DTEND:20261126T151500Z
+UID:1452250@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 10\n
+ UniID: 1452250
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261127T060000Z
+DTEND:20261127T090000Z
+UID:1477324@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: YAnitsa Milkova Dimitrova\nGrou
+ p: 10\nUniID: 1477324
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261127T110000Z
+DTEND:20261127T131500Z
+UID:1484547@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Dilyan Svilenov Chaushev\nGroup
+ : 10\nUniID: 1484547
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
@@ -13776,6 +15108,147 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261123T110000Z
+DTEND:20261123T123000Z
+UID:1483365@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Ralitsa Radomirova Marinova\nGr
+ oup: 11\nUniID: 1483365
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261123T133000Z
+DTEND:20261123T150000Z
+UID:1435497@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 11\nUniID: 14
+ 35497
+LOCATION:806\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261124T073000Z
+DTEND:20261124T104500Z
+UID:1476724@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Iliyan Kalinov Kanchev\nGroup: 
+ 11\nUniID: 1476724
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261124T111500Z
+DTEND:20261124T124500Z
+UID:1429745@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 1\nFloor: 1\nGroup: 11\nUniID: 1429745
+LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261124T140000Z
+DTEND:20261124T153000Z
+UID:1486009@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
+ 11\nUniID: 1486009
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1476861@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Iliyan Kalinov Kanchev\nGroup: 
+ 11\nUniID: 1476861
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261125T133000Z
+DTEND:20261125T150000Z
+UID:1460883@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460883
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1452172@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 410\nFloor: 4\nLecturer: Veselin Petev Petkov\nGroup: 11\nUniID:
+  1452172
+LOCATION:410\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261127T073000Z
+DTEND:20261127T090000Z
+UID:1460987@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
+  Hall 104 \nFloor: 1\nLecturer: Katerina Yordanova Peneva\nGroup: 11\, 12
+ \nUniID: 1460987
+LOCATION:Hall 104 \, Faculty of Pharmacy
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261127T110000Z
+DTEND:20261127T131500Z
+UID:1484561@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Hristo Juri Nikov\nGroup: 11\nU
+ niID: 1484561
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20260915T063000Z
 DTEND:20260915T094500Z
@@ -14740,6 +16213,116 @@ UID:1429586@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
  кционен блок\nClassroom: 2\nFloor: 1\nGroup: 12\, 14\nUniID: 14
  29586
+LOCATION:2\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261123T110000Z
+DTEND:20261123T131500Z
+UID:1484575@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Todor Ivanov Ivanov\nGroup: 12
+ \nUniID: 1484575
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261124T073000Z
+DTEND:20261124T104500Z
+UID:1476740@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Mariya Stankova Vernova\nGroup:
+  12\nUniID: 1476740
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261124T120000Z
+DTEND:20261124T133000Z
+UID:1435566@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Teodora Ilieva Katrandzhieva\nGroup: 12
+ \nUniID: 1435566
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1476876@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Mariya Stankova Vernova\nGroup:
+  12\nUniID: 1476876
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261125T093000Z
+DTEND:20261125T110000Z
+UID:1483470@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Illya Somusev\nGroup: 12\nUniID
+ : 1483470
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261125T113000Z
+DTEND:20261125T130000Z
+UID:1486083@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
+ roup: 12\nUniID: 1486083
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1452185@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Dimitar Borisov Marinov\nGroup: 12\nUni
+ ID: 1452185
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261127T113000Z
+DTEND:20261127T130000Z
+UID:1429587@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 2\nFloor: 1\nGroup: 12\, 14\nUniID: 14
+ 29587
 LOCATION:2\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -16202,6 +17785,160 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261123T073000Z
+DTEND:20261123T090000Z
+UID:1425726@muv.mihoff.de
+DESCRIPTION:Activity: Lecture\nLecturer: Nikola Yordanov Kolev\nGroup: 13
+ \, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 1425726
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261123T110000Z
+DTEND:20261123T131500Z
+UID:1425244@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Turgay Turgay Kalinov\nGroup: 1
+ 3\nUniID: 1425244
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261124T073000Z
+DTEND:20261124T104500Z
+UID:1477486@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Sindi Rumenova Ivanova\nGroup: 
+ 13\nUniID: 1477486
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261124T120000Z
+DTEND:20261124T133000Z
+UID:1435579@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 802\nFloor: 8\nLecturer: Milena Krasimirova Bozhkova\nGroup: 13
+ \nUniID: 1435579
+LOCATION:802\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261124T140000Z
+DTEND:20261124T153000Z
+UID:1477680@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Evdokiya Stefanova Skocheva-Sho
+ pova\nGroup: 13\, 14\nUniID: 1477680
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1476891@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Nikolay Borisov Kalvachev\nGrou
+ p: 13\nUniID: 1476891
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261125T100000Z
+DTEND:20261125T113000Z
+UID:1486070@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Viktor Veselinov Velyanov\nGrou
+ p: 13\nUniID: 1486070
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261125T130000Z
+DTEND:20261125T143000Z
+UID:1429685@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 3\nFloor: 1\nGroup: 13\nUniID: 1429685
+LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1452198@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 413\nFloor: 4\nLecturer: Rozalina Stefanova Braykova\nGroup: 13
+ \nUniID: 1452198
+LOCATION:413\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261127T060000Z
+DTEND:20261127T073000Z
+UID:1483506@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Ralitsa Radomirova Marinova\nGr
+ oup: 13\nUniID: 1483506
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261127T140000Z
+DTEND:20261127T153000Z
+UID:1460962@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
+ Floor: 4\nLecturer: Evdokiya Stefanova Skocheva-Shopova\nGroup: 13\, 14\nU
+ niID: 1460962
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20260915T063000Z
 DTEND:20260915T094500Z
@@ -17020,6 +18757,102 @@ DTEND:20261120T083000Z
 UID:1486156@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
  Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 14\nUniID: 1486156
+LOCATION:104\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261123T133000Z
+DTEND:20261123T154500Z
+UID:1425258@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Deniz Shirinov Ahmedov \nGroup:
+  14\nUniID: 1425258
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261124T073000Z
+DTEND:20261124T104500Z
+UID:1477499@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Shenay Beyhan Mustafa-Nasuf\nGr
+ oup: 14\nUniID: 1477499
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261124T120000Z
+DTEND:20261124T133000Z
+UID:1435592@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Neli Mitkova Ermenlieva\nGroup: 14\nUni
+ ID: 1435592
+LOCATION:806\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1476906@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Shenay Beyhan Mustafa-Nasuf\nGr
+ oup: 14\nUniID: 1476906
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261125T093000Z
+DTEND:20261125T110000Z
+UID:1483478@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Sonya Mladenova Maneva \nGroup:
+  14\nUniID: 1483478
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1452211@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Stanislava Emilova Hadzhieva\nGroup: 14
+ \nUniID: 1452211
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261127T070000Z
+DTEND:20261127T083000Z
+UID:1486157@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 14\nUniID: 1486157
 LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -18299,6 +20132,148 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261123T113000Z
+DTEND:20261123T130000Z
+UID:1460741@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Yordan Rumenov Rachev \nGroup: 15\, 16\nUniID: 1460741
+LOCATION:505\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261123T133000Z
+DTEND:20261123T154500Z
+UID:1425272@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Aleksandar Kamenov Zlatarov\nGr
+ oup: 15\nUniID: 1425272
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261124T073000Z
+DTEND:20261124T104500Z
+UID:1476755@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Samuil Sashev Todorov\nGroup: 1
+ 5\nUniID: 1476755
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261124T110000Z
+DTEND:20261124T123000Z
+UID:1483413@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Vangeliya Marinoska-Ivanova \nG
+ roup: 15\nUniID: 1483413
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1476921@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Samuil Sashev Todorov\nGroup: 1
+ 5\nUniID: 1476921
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261125T093000Z
+DTEND:20261125T110000Z
+UID:1435726@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 812\nFloor: 8\nLecturer: Neli Mitkova Ermenlieva\nGroup: 15\nUni
+ ID: 1435726
+LOCATION:812\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1429629@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 1\nFloor: 1\nGroup: 15\nUniID: 1429629
+LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261126T150000Z
+DTEND:20261126T163000Z
+UID:1486812@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
+ ssroom: Hall 111\nFloor: 1\nLecturer: Yordan Rumenov Rachev \nGroup: 15\, 
+ 16\nUniID: 1486812
+LOCATION:Hall 111\, Faculty of Dental Medicine
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261127T070000Z
+DTEND:20261127T083000Z
+UID:1452291@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 410\nFloor: 4\nLecturer: Todor Kirilov Todorov\nGroup: 15\nUniID
+ : 1452291
+LOCATION:410\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261127T113000Z
+DTEND:20261127T130000Z
+UID:1486181@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Diyana Asparuhova Kjuchukova\nG
+ roup: 15\nUniID: 1486181
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20260915T063000Z
 DTEND:20260915T094500Z
@@ -19265,6 +21240,115 @@ DTEND:20261120T130000Z
 UID:1486192@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nLecturer: Hristo Tonchev Papanchev\nGroup
  : 16\nUniID: 1486192
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261123T133000Z
+DTEND:20261123T154500Z
+UID:1425287@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Tanya Nikolova Kirilova - Krast
+ eva\nGroup: 16\nUniID: 1425287
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261124T073000Z
+DTEND:20261124T104500Z
+UID:1476768@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Gabriel Iliev Leondiev\nGroup: 
+ 16\nUniID: 1476768
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261124T110000Z
+DTEND:20261124T123000Z
+UID:1483418@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Violeta Ivanova Stancheva\nGrou
+ p: 16\nUniID: 1483418
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261125T053000Z
+DTEND:20261125T070000Z
+UID:1435606@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
+ up: 16\nUniID: 1435606
+LOCATION:806\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1476936@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Gabriel Iliev Leondiev\nGroup: 
+ 16\nUniID: 1476936
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1429643@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 3\nFloor: 1\nGroup: 16\nUniID: 1429643
+LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261127T060000Z
+DTEND:20261127T073000Z
+UID:1452277@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Rositsa Hristova Chamova\nGroup: 16\nUn
+ iID: 1452277
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261127T113000Z
+DTEND:20261127T130000Z
+UID:1486193@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Hristo Tonchev Papanchev\nGroup
+ : 16\nUniID: 1486193
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -20647,6 +22731,149 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261123T113000Z
+DTEND:20261123T130000Z
+UID:1452023@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 413\nFloor: 4\nLecturer: Panayot Nikolov Nikolov\nGroup: 17\nUni
+ ID: 1452023
+LOCATION:413\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261124T073000Z
+DTEND:20261124T104500Z
+UID:1476781@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Krasimir Todorov Todorov\nGroup
+ : 17\nUniID: 1476781
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261124T111500Z
+DTEND:20261124T124500Z
+UID:1429759@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 2\nFloor: 1\nGroup: 17\, 18\nUniID: 14
+ 29759
+LOCATION:2\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261125T053000Z
+DTEND:20261125T070000Z
+UID:1435621@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 802\nFloor: 8\nLecturer: Neli Mitkova Ermenlieva\nGroup: 17\nUni
+ ID: 1435621
+LOCATION:802\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1476951@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Krasimir Todorov Todorov\nGroup
+ : 17\nUniID: 1476951
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261125T124500Z
+DTEND:20261125T150000Z
+UID:1425302@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Stefan Blagovestov Mihaylov\nGr
+ oup: 17\nUniID: 1425302
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1483487@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Koraliya Stefanova Todorova-Nen
+ ova\nGroup: 17\nUniID: 1483487
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261126T133000Z
+DTEND:20261126T150000Z
+UID:1478145@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: Hal
+ l B\nFloor: 4\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 17\, 1
+ 8\nUniID: 1478145
+LOCATION:Hall B\, Medical College
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261127T070000Z
+DTEND:20261127T083000Z
+UID:1486169@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Viktor Veselinov Velyanov\nGroup: 17\nUniID: 1486169
+LOCATION:502\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261127T110000Z
+DTEND:20261127T123000Z
+UID:1478158@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Daniela Mitkova Tancheva-Stefan
+ ova\nGroup: 17\, 18\nUniID: 1478158
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20260915T063000Z
 DTEND:20260915T094500Z
@@ -20801,7 +23028,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260928T123000Z
 DTEND:20260928T140000Z
 UID:1485931@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nGroup: 18\nUniID: 1485931
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 331\n
+ Floor: 3\nLecturer: Nikola Rumenov Lazarov\nGroup: 18\nUniID: 1485931
+LOCATION:331\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -20881,8 +23110,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261005T123000Z
 DTEND:20261005T140000Z
 UID:1485932@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 18\nUniID: 1485932
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 331\n
+ Floor: 3\nLecturer: Nikola Rumenov Lazarov\nGroup: 18\nUniID: 1485932
+LOCATION:331\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -20962,7 +23192,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261012T123000Z
 DTEND:20261012T140000Z
 UID:1485933@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nGroup: 18\nUniID: 1485933
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 331\n
+ Floor: 3\nLecturer: Nikola Rumenov Lazarov\nGroup: 18\nUniID: 1485933
+LOCATION:331\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -21455,6 +23687,99 @@ DTEND:20261120T073000Z
 UID:1483512@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nLecturer: Mirela Miroslavova Vacheva\nGro
  up: 18\nUniID: 1483512
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261123T113000Z
+DTEND:20261123T130000Z
+UID:1452037@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 410\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 18\n
+ UniID: 1452037
+LOCATION:410\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261123T133000Z
+DTEND:20261123T150000Z
+UID:1485939@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nGroup: 18\nUniID: 1485939
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261124T073000Z
+DTEND:20261124T104500Z
+UID:1476794@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yavor Kirilov Hinov\nGroup: 18
+ \nUniID: 1476794
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1476966@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: YAnitsa Milkova Dimitrova\nGrou
+ p: 18\nUniID: 1476966
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261125T093000Z
+DTEND:20261125T110000Z
+UID:1435741@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nGroup: 18\nUniID: 1435741
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261125T124500Z
+DTEND:20261125T150000Z
+UID:1425317@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Ivan Aleksandrov Hinev\nGroup: 
+ 18\nUniID: 1425317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261127T060000Z
+DTEND:20261127T073000Z
+UID:1483513@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Mirela Miroslavova Vacheva\nGro
+ up: 18\nUniID: 1483513
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Psychology
@@ -22829,6 +25154,150 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261123T113000Z
+DTEND:20261123T130000Z
+UID:1452051@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Veselin Petev Petkov\nGroup: 19\nUniID:
+  1452051
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261123T133000Z
+DTEND:20261123T150000Z
+UID:1435511@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 812\nFloor: 8\nLecturer: Dobromira Yordanova Savova\nGroup: 19\n
+ UniID: 1435511
+LOCATION:812\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261124T073000Z
+DTEND:20261124T104500Z
+UID:1476807@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yordanka Georgieva Doneva-Kashl
+ ova\nGroup: 19\nUniID: 1476807
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261124T113000Z
+DTEND:20261124T130000Z
+UID:1460829@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\, 20\nUniID: 14
+ 60829
+LOCATION:431\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261125T060000Z
+DTEND:20261125T073000Z
+UID:1483425@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Njukhet Mustafa Selman\nGroup: 
+ 19\nUniID: 1483425
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1476981@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Kristiyana Hristova Dimitrova-I
+ vanova\nGroup: 19\nUniID: 1476981
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261125T150000Z
+DTEND:20261125T163000Z
+UID:1460925@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Yordanka Tsvetkova Marinova\nGroup: 19\, 20\nUniID: 14
+ 60925
+LOCATION:505\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1429657@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 2\nFloor: 1\nGroup: 19\, 20\nUniID: 14
+ 29657
+LOCATION:2\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261126T134500Z
+DTEND:20261126T151500Z
+UID:1486145@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Hristo Tonchev Papanchev\nGroup
+ : 19\nUniID: 1486145
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261127T124500Z
+DTEND:20261127T150000Z
+UID:1425332@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Anna-Mariya Vladimirova Mirosla
+ vova\nGroup: 19\nUniID: 1425332
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20260915T063000Z
 DTEND:20260915T094500Z
@@ -22987,7 +25456,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260928T103000Z
 DTEND:20260928T120000Z
 UID:1485905@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nGroup: 20\nUniID: 1485905
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Hristo Tonchev Papanchev\nGroup: 20\nUniID: 1485905
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -23083,8 +25554,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261005T103000Z
 DTEND:20261005T120000Z
 UID:1485906@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Hristo Tonchev Papanchev\nGroup
- : 20\nUniID: 1485906
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Hristo Tonchev Papanchev\nGroup: 20\nUniID: 1485906
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -23180,7 +25652,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261012T103000Z
 DTEND:20261012T120000Z
 UID:1485907@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nGroup: 20\nUniID: 1485907
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nGroup: 20\nUniID: 1485907
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -23739,6 +26213,100 @@ DTEND:20261120T150000Z
 UID:1425345@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nLecturer: Viktor Vladimirov Shivachev\nGr
  oup: 20\nUniID: 1425345
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261123T113000Z
+DTEND:20261123T130000Z
+UID:1485913@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nGroup: 20\nUniID: 1485913
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261123T133000Z
+DTEND:20261123T150000Z
+UID:1435525@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Teodora Ilieva Katrandzhieva\nGroup: 20
+ \nUniID: 1435525
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261124T073000Z
+DTEND:20261124T104500Z
+UID:1476820@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Rostislav Radoslavov Manev\nGro
+ up: 20\nUniID: 1476820
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261125T060000Z
+DTEND:20261125T073000Z
+UID:1483432@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Mirela Miroslavova Vacheva\nGro
+ up: 20\nUniID: 1483432
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1476996@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Rostislav Radoslavov Manev\nGro
+ up: 20\nUniID: 1476996
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261127T073000Z
+DTEND:20261127T090000Z
+UID:1452305@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 413\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 20\n
+ UniID: 1452305
+LOCATION:413\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261127T124500Z
+DTEND:20261127T150000Z
+UID:1425346@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Viktor Vladimirov Shivachev\nGr
+ oup: 20\nUniID: 1425346
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General and Operative Surgery
@@ -25031,6 +27599,149 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261123T110000Z
+DTEND:20261123T123000Z
+UID:1429850@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 2\nFloor: 1\nGroup: 21\, 22\nUniID: 14
+ 29850
+LOCATION:2\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261123T133000Z
+DTEND:20261123T150000Z
+UID:1452080@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Rozalina Stefanova Braykova\nGroup: 21
+ \nUniID: 1452080
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261124T080000Z
+DTEND:20261124T093000Z
+UID:1483393@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Njukhet Mustafa Selman\nGroup: 
+ 21\nUniID: 1483393
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261124T110000Z
+DTEND:20261124T131500Z
+UID:1425359@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Tanya Nikolova Kirilova - Krast
+ eva\nGroup: 21\nUniID: 1425359
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261124T134500Z
+DTEND:20261124T151500Z
+UID:1462225@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
+ oup: 21\, 22\nUniID: 1462225
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261125T060000Z
+DTEND:20261125T073000Z
+UID:1486031@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 21\nUniID: 1486031
+LOCATION:104\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1435681@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
+ up: 21\nUniID: 1435681
+LOCATION:806\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1477171@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Doroteya Rumenova Radeva\nGroup
+ : 21\nUniID: 1477171
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261127T060000Z
+DTEND:20261127T090000Z
+UID:1477352@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Doroteya Rumenova Radeva\nGroup
+ : 21\nUniID: 1477352
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261127T113000Z
+DTEND:20261127T130000Z
+UID:1461013@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
+ Floor: 5\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
+ 61013
+LOCATION:505\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Propaedeutics of Internal Medicine
 DTSTART:20260915T063000Z
 DTEND:20260915T094500Z
@@ -25874,6 +28585,103 @@ UID:1452318@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 408\nFloor: 4\nLecturer: Rositsa Hristova Chamova\nGroup: 22\nUn
  iID: 1452318
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261123T133000Z
+DTEND:20261123T150000Z
+UID:1435539@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 802\nFloor: 8\nLecturer: Milena Krasimirova Bozhkova\nGroup: 22
+ \nUniID: 1435539
+LOCATION:802\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261124T073000Z
+DTEND:20261124T104500Z
+UID:1476833@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Dragomir Zdravkov Ivanov\nGroup
+ : 22\nUniID: 1476833
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261124T110000Z
+DTEND:20261124T131500Z
+UID:1425372@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Anna-Mariya Vladimirova Mirosla
+ vova\nGroup: 22\nUniID: 1425372
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261125T060000Z
+DTEND:20261125T073000Z
+UID:1486044@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 22\nUniID: 148604
+ 4
+LOCATION:502\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1477011@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Dragomir Zdravkov Ivanov\nGroup
+ : 22\nUniID: 1477011
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1483493@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Svetlin Varbanov Varbanov\nGrou
+ p: 22\nUniID: 1483493
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261127T073000Z
+DTEND:20261127T090000Z
+UID:1452319@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nLecturer: Rositsa Hristova Chamova\nGroup: 22\nUn
+ iID: 1452319
 LOCATION:408\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -27283,6 +30091,149 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261123T151500Z
+DTEND:20261123T164500Z
+UID:1478555@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: ІV-t
+ h Аuditorium\nFloor: 1\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24
+ \nUniID: 1478555
+LOCATION:ІV-th Аuditorium\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261124T073000Z
+DTEND:20261124T104500Z
+UID:1476846@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yoana Svetlozarova Stoyanova\nG
+ roup: 23\nUniID: 1476846
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261124T110000Z
+DTEND:20261124T131500Z
+UID:1425385@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Stefan Blagovestov Mihaylov\nGr
+ oup: 23\nUniID: 1425385
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261125T053000Z
+DTEND:20261125T070000Z
+UID:1435636@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 814\nFloor: 8\nLecturer: Teodora Ilieva Katrandzhieva\nGroup: 23
+ \nUniID: 1435636
+LOCATION:814\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261125T074500Z
+DTEND:20261125T091500Z
+UID:1477026@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Yoana Svetlozarova Stoyanova\nG
+ roup: 23\nUniID: 1477026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Терминология и комуникация в медици
+ нската практика eng
+DTSTART:20261125T093000Z
+DTEND:20261125T110000Z
+UID:1460869@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 407\n
+ Floor: 4\nLecturer: Albena Nedkova Dobreva\nGroup: 23\, 24\nUniID: 1460869
+LOCATION:407\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Терминология и комуникация 
+ в медицинската практика eng
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261125T113000Z
+DTEND:20261125T130000Z
+UID:1486096@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 401\n
+ Floor: 4\nLecturer: Nikola Rumenov Lazarov\nGroup: 23\nUniID: 1486096
+LOCATION:401\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1483499@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Danko Tonev Avramov \nGroup: 23
+ \nUniID: 1483499
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261127T060000Z
+DTEND:20261127T073000Z
+UID:1429615@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 1\nFloor: 1\nGroup: 23\nUniID: 1429615
+LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261127T073000Z
+DTEND:20261127T090000Z
+UID:1452333@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 414\nFloor: 4\nLecturer: Anna Dragomirova Kozhuharova\nGroup: 23
+ \nUniID: 1452333
+LOCATION:414\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20260915T104500Z
 DTEND:20260915T121500Z
@@ -28229,6 +31180,113 @@ DTEND:20261120T130000Z
 UID:1429551@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
  кционен блок\nClassroom: 3\nFloor: 1\nGroup: 24\nUniID: 1429551
+LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Psychology
+DTSTART:20261123T110000Z
+DTEND:20261123T123000Z
+UID:1483371@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Illya Somusev\nGroup: 24\nUniID
+ : 1483371
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Psychology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261124T114500Z
+DTEND:20261124T131500Z
+UID:1452146@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Todor Kirilov Todorov\nGroup: 2
+ 4\nUniID: 1452146
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261124T133000Z
+DTEND:20261124T150000Z
+UID:1485998@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Hristo Tonchev Papanchev\nGroup
+ : 24\nUniID: 1485998
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microbiology
+DTSTART:20261125T053000Z
+DTEND:20261125T070000Z
+UID:1435651@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 812\nFloor: 8\nLecturer: Marina Petrova Miroshnikova\nGroup: 24
+ \nUniID: 1435651
+LOCATION:812\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Microbiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General and Operative Surgery
+DTSTART:20261125T124500Z
+DTEND:20261125T150000Z
+UID:1425399@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Viktor Vladimirov Shivachev\nGr
+ oup: 24\nUniID: 1425399
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: General and Operative Surgery
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261126T093000Z
+DTEND:20261126T110000Z
+UID:1477184@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Dragomir Svetozarov Stoyanov\nG
+ roup: 24\nUniID: 1477184
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propaedeutics of Internal Medicine
+DTSTART:20261127T060000Z
+DTEND:20261127T090000Z
+UID:1477338@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nLecturer: Dragomir Svetozarov Stoyanov\nG
+ roup: 24\nUniID: 1477338
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Pathology
+DTSTART:20261127T113000Z
+DTEND:20261127T130000Z
+UID:1429552@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
+ кционен блок\nClassroom: 3\nFloor: 1\nGroup: 24\nUniID: 1429552
 LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY

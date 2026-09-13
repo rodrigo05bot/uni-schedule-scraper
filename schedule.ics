@@ -31060,8 +31060,10 @@ SUMMARY:Medical Ethics
 DTSTART:20260921T103000Z
 DTEND:20260921T120000Z
 UID:1472459@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Martin Ognyanov Mirchev\nGroup:
-  24\nUniID: 1472459
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 803\nFloor: 8\nLecturer: Martin Ognyanov Mirchev\nGroup: 24\nUni
+ ID: 1472459
+LOCATION:803\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
@@ -31133,6 +31135,21 @@ LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+UID:1488809@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 803\nFloor: 8\nLecturer: Martin Ognyanov Mirchev\nGroup: 24\nUni
+ ID: 1488809
+LOCATION:803\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -31214,6 +31231,21 @@ LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+UID:1488810@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 803\nFloor: 8\nLecturer: Martin Ognyanov Mirchev\nGroup: 24\nUni
+ ID: 1488810
+LOCATION:803\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -31312,6 +31344,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+UID:1488811@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 803\nFloor: 8\nLecturer: Martin Ognyanov Mirchev\nGroup: 24\nUni
+ ID: 1488811
+LOCATION:803\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20261013T104500Z
 DTEND:20261013T121500Z
@@ -31406,6 +31453,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+UID:1488812@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 803\nFloor: 8\nLecturer: Martin Ognyanov Mirchev\nGroup: 24\nUni
+ ID: 1488812
+LOCATION:803\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
 DTSTART:20261020T104500Z
 DTEND:20261020T121500Z
@@ -31496,6 +31558,21 @@ LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medical Ethics
+DTSTART:20261026T113000Z
+DTEND:20261026T130000Z
+UID:1488813@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 803\nFloor: 8\nLecturer: Martin Ognyanov Mirchev\nGroup: 24\nUni
+ ID: 1488813
+LOCATION:803\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medical Ethics
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

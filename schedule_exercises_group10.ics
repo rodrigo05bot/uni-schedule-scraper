@@ -447,7 +447,8 @@ DTSTART:20260921T100000Z
 DTEND:20260921T113000Z
 UID:1429826@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nGroup: 10\nUniID: 1429826
+ кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
+ Marinova\nGroup: 10\nUniID: 1429826
 LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -545,7 +546,8 @@ DTSTART:20260928T100000Z
 DTEND:20260928T113000Z
 UID:1429827@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nGroup: 10\nUniID: 1429827
+ кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
+ Marinova\nGroup: 10\nUniID: 1429827
 LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -628,7 +630,8 @@ DTSTART:20261005T100000Z
 DTEND:20261005T113000Z
 UID:1429828@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nGroup: 10\nUniID: 1429828
+ кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
+ Marinova\nGroup: 10\nUniID: 1429828
 LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -739,7 +742,8 @@ DTSTART:20261012T100000Z
 DTEND:20261012T113000Z
 UID:1429829@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nGroup: 10\nUniID: 1429829
+ кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
+ Marinova\nGroup: 10\nUniID: 1429829
 LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -850,7 +854,8 @@ DTSTART:20261019T100000Z
 DTEND:20261019T113000Z
 UID:1429830@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nGroup: 10\nUniID: 1429830
+ кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
+ Marinova\nGroup: 10\nUniID: 1429830
 LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -961,7 +966,8 @@ DTSTART:20261026T110000Z
 DTEND:20261026T123000Z
 UID:1429831@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nGroup: 10\nUniID: 1429831
+ кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
+ Marinova\nGroup: 10\nUniID: 1429831
 LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1072,7 +1078,8 @@ DTSTART:20261102T110000Z
 DTEND:20261102T123000Z
 UID:1429832@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nGroup: 10\nUniID: 1429832
+ кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
+ Marinova\nGroup: 10\nUniID: 1429832
 LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1181,7 +1188,8 @@ DTSTART:20261109T110000Z
 DTEND:20261109T123000Z
 UID:1429833@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nGroup: 10\nUniID: 1429833
+ кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
+ Marinova\nGroup: 10\nUniID: 1429833
 LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1290,7 +1298,8 @@ DTSTART:20261116T110000Z
 DTEND:20261116T123000Z
 UID:1429834@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nGroup: 10\nUniID: 1429834
+ кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
+ Marinova\nGroup: 10\nUniID: 1429834
 LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1399,7 +1408,8 @@ DTSTART:20261123T110000Z
 DTEND:20261123T123000Z
 UID:1429835@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nGroup: 10\nUniID: 1429835
+ кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
+ Marinova\nGroup: 10\nUniID: 1429835
 LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY

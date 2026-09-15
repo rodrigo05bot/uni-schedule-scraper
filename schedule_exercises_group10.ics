@@ -560,8 +560,9 @@ SUMMARY:Pathophysiology
 DTSTART:20260929T063000Z
 DTEND:20260929T080000Z
 UID:1485957@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 10\nUniID: 1485957
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 10\nUniID: 1485957
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -644,8 +645,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261006T063000Z
 DTEND:20261006T080000Z
 UID:1485958@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 10\nUniID: 1485958
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 10\nUniID: 1485958
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -756,8 +758,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261013T063000Z
 DTEND:20261013T080000Z
 UID:1485959@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 10\nUniID: 1485959
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 10\nUniID: 1485959
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -868,8 +871,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261020T063000Z
 DTEND:20261020T080000Z
 UID:1485960@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 10\nUniID: 1485960
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 10\nUniID: 1485960
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -980,8 +984,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261027T073000Z
 DTEND:20261027T090000Z
 UID:1485961@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 10\nUniID: 1485961
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 10\nUniID: 1485961
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -1092,8 +1097,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261103T073000Z
 DTEND:20261103T090000Z
 UID:1485962@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 10\nUniID: 1485962
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 10\nUniID: 1485962
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -1202,8 +1208,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261110T073000Z
 DTEND:20261110T090000Z
 UID:1485963@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 10\nUniID: 1485963
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 10\nUniID: 1485963
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -1312,8 +1319,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261117T073000Z
 DTEND:20261117T090000Z
 UID:1485964@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 10\nUniID: 1485964
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 10\nUniID: 1485964
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
@@ -1422,8 +1430,9 @@ SUMMARY:Pathophysiology
 DTSTART:20261124T073000Z
 DTEND:20261124T090000Z
 UID:1485965@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Nikola Rumenov Lazarov\nGroup: 
- 10\nUniID: 1485965
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Nikola Rumenov Lazarov\nGroup: 10\nUniID: 1485965
+LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology

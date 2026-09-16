@@ -23297,8 +23297,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261112T133000Z
 DTEND:20261112T150000Z
 UID:1478143@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Daniela Mitkova Tancheva-Stefan
- ova\nGroup: 17\, 18\nUniID: 1478143
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
+  Hall 104 \nFloor: 1\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup:
+  17\, 18\nUniID: 1478143
+LOCATION:Hall 104 \, Faculty of Pharmacy
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -27460,13 +27462,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20260929T124500Z
-DTEND:20260929T141500Z
+DTSTART:20260929T130000Z
+DTEND:20260929T143000Z
 UID:1460845@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 505\n
- Floor: 5\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 331\n
+ Floor: 3\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
  60845
-LOCATION:505\, Main Building
+LOCATION:331\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -27579,11 +27581,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261006T124500Z
-DTEND:20261006T141500Z
-UID:1462218@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
- oup: 21\, 22\nUniID: 1462218
+DTSTART:20261006T130000Z
+DTEND:20261006T143000Z
+UID:1492032@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 331\n
+ Floor: 3\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
+ 92032
+LOCATION:331\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -27724,11 +27728,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261013T124500Z
-DTEND:20261013T141500Z
-UID:1462219@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
- oup: 21\, 22\nUniID: 1462219
+DTSTART:20261013T130000Z
+DTEND:20261013T143000Z
+UID:1492033@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 331\n
+ Floor: 3\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
+ 92033
+LOCATION:331\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -27869,11 +27875,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261020T124500Z
-DTEND:20261020T141500Z
-UID:1462220@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
- oup: 21\, 22\nUniID: 1462220
+DTSTART:20261020T130000Z
+DTEND:20261020T143000Z
+UID:1492034@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 331\n
+ Floor: 3\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
+ 92034
+LOCATION:331\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -28014,11 +28022,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261027T134500Z
-DTEND:20261027T151500Z
-UID:1462221@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
- oup: 21\, 22\nUniID: 1462221
+DTSTART:20261027T140000Z
+DTEND:20261027T153000Z
+UID:1492035@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 331\n
+ Floor: 3\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
+ 92035
+LOCATION:331\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -28172,11 +28182,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261103T134500Z
-DTEND:20261103T151500Z
-UID:1462222@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
- oup: 21\, 22\nUniID: 1462222
+DTSTART:20261103T140000Z
+DTEND:20261103T153000Z
+UID:1492036@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 331\n
+ Floor: 3\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
+ 92036
+LOCATION:331\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -28315,11 +28327,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261110T134500Z
-DTEND:20261110T151500Z
-UID:1462223@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
- oup: 21\, 22\nUniID: 1462223
+DTSTART:20261110T140000Z
+DTEND:20261110T153000Z
+UID:1492037@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 331\n
+ Floor: 3\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
+ 92037
+LOCATION:331\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -28458,11 +28472,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261117T134500Z
-DTEND:20261117T151500Z
-UID:1462224@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
- oup: 21\, 22\nUniID: 1462224
+DTSTART:20261117T140000Z
+DTEND:20261117T153000Z
+UID:1492038@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 331\n
+ Floor: 3\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
+ 92038
+LOCATION:331\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -28601,11 +28617,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261124T134500Z
-DTEND:20261124T151500Z
-UID:1462225@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Presiyan Krasimirov Penchev\nGr
- oup: 21\, 22\nUniID: 1462225
+DTSTART:20261124T140000Z
+DTEND:20261124T153000Z
+UID:1492039@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 331\n
+ Floor: 3\nLecturer: Presiyan Krasimirov Penchev\nGroup: 21\, 22\nUniID: 14
+ 92039
+LOCATION:331\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 

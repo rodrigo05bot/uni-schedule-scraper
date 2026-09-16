@@ -241,8 +241,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260917T124500Z
 DTEND:20260917T141500Z
 UID:1460692@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Boyana Angelova Angelova\nGroup
- : 1\, 2\nUniID: 1460692
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
+ ssroom: Hall 103\nFloor: 1\nLecturer: Boyana Angelova Angelova\nGroup: 1\,
+  2\nUniID: 1460692
+LOCATION:Hall 103\, Faculty of Dental Medicine
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -484,8 +486,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20260924T124500Z
 DTEND:20260924T141500Z
 UID:1460942@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Boyana Angelova Angelova\nGroup
- : 1\, 2\nUniID: 1460942
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
+ ssroom: Hall 103\nFloor: 1\nLecturer: Boyana Angelova Angelova\nGroup: 1\,
+  2\nUniID: 1460942
+LOCATION:Hall 103\, Faculty of Dental Medicine
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -939,8 +943,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261008T124500Z
 DTEND:20261008T141500Z
 UID:1460943@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Boyana Angelova Angelova\nGroup
- : 1\, 2\nUniID: 1460943
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
+ ssroom: Hall 103\nFloor: 1\nLecturer: Boyana Angelova Angelova\nGroup: 1\,
+  2\nUniID: 1460943
+LOCATION:Hall 103\, Faculty of Dental Medicine
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -1212,8 +1218,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261015T124500Z
 DTEND:20261015T141500Z
 UID:1460944@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Boyana Angelova Angelova\nGroup
- : 1\, 2\nUniID: 1460944
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
+ ssroom: Hall 103\nFloor: 1\nLecturer: Boyana Angelova Angelova\nGroup: 1\,
+  2\nUniID: 1460944
+LOCATION:Hall 103\, Faculty of Dental Medicine
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -1485,8 +1493,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261022T124500Z
 DTEND:20261022T141500Z
 UID:1460945@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Boyana Angelova Angelova\nGroup
- : 1\, 2\nUniID: 1460945
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
+ ssroom: Hall 103\nFloor: 1\nLecturer: Boyana Angelova Angelova\nGroup: 1\,
+  2\nUniID: 1460945
+LOCATION:Hall 103\, Faculty of Dental Medicine
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -1743,8 +1753,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261029T134500Z
 DTEND:20261029T151500Z
 UID:1460946@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Boyana Angelova Angelova\nGroup
- : 1\, 2\nUniID: 1460946
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
+ ssroom: Hall 103\nFloor: 1\nLecturer: Boyana Angelova Angelova\nGroup: 1\,
+  2\nUniID: 1460946
+LOCATION:Hall 103\, Faculty of Dental Medicine
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -2014,8 +2026,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261105T134500Z
 DTEND:20261105T151500Z
 UID:1460947@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Boyana Angelova Angelova\nGroup
- : 1\, 2\nUniID: 1460947
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
+ ssroom: Hall 103\nFloor: 1\nLecturer: Boyana Angelova Angelova\nGroup: 1\,
+  2\nUniID: 1460947
+LOCATION:Hall 103\, Faculty of Dental Medicine
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -23283,10 +23297,8 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261112T133000Z
 DTEND:20261112T150000Z
 UID:1478143@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: Hal
- l B\nFloor: 4\nLecturer: Daniela Mitkova Tancheva-Stefanova\nGroup: 17\, 1
- 8\nUniID: 1478143
-LOCATION:Hall B\, Medical College
+DESCRIPTION:Activity: Excercise\nLecturer: Daniela Mitkova Tancheva-Stefan
+ ova\nGroup: 17\, 18\nUniID: 1478143
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 

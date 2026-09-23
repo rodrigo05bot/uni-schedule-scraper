@@ -23415,8 +23415,8 @@ DTSTART:20260925T050000Z
 DTEND:20260925T063000Z
 UID:1452268@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 408\nFloor: 4\nLecturer: Rositsa Hristova Chamova\nGroup: 16\nUn
- iID: 1452268
+ lassroom: 408\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 16\n
+ UniID: 1452268
 LOCATION:408\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -29065,8 +29065,8 @@ DTSTART:20260925T063000Z
 DTEND:20260925T080000Z
 UID:1452296@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 413\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 20\n
- UniID: 1452296
+ lassroom: 413\nFloor: 4\nLecturer: Dimitar Borisov Marinov\nGroup: 20\nUni
+ ID: 1452296
 LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -31862,21 +31862,6 @@ LOCATION:814\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hygiene and Ecology
-DTSTART:20260925T063000Z
-DTEND:20260925T080000Z
-UID:1452310@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 408\nFloor: 4\nLecturer: Rositsa Hristova Chamova\nGroup: 22\nUn
- iID: 1452310
-LOCATION:408\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

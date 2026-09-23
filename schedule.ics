@@ -14582,8 +14582,7 @@ DTSTART:20260924T124500Z
 DTEND:20260924T141500Z
 UID:1452242@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 408\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 10\n
- UniID: 1452242
+ lassroom: 408\nFloor: 4\nGroup: 10\nUniID: 1452242
 LOCATION:408\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -23415,8 +23414,7 @@ DTSTART:20260925T050000Z
 DTEND:20260925T063000Z
 UID:1452268@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 408\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 16\n
- UniID: 1452268
+ lassroom: 408\nFloor: 4\nGroup: 16\nUniID: 1452268
 LOCATION:408\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -31862,6 +31860,20 @@ LOCATION:814\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20260925T063000Z
+DTEND:20260925T080000Z
+UID:1493836@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 408\nFloor: 4\nGroup: 22\nUniID: 1493836
+LOCATION:408\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

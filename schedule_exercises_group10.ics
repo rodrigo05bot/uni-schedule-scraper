@@ -524,8 +524,7 @@ DTSTART:20260924T124500Z
 DTEND:20260924T141500Z
 UID:1452242@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 408\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 10\n
- UniID: 1452242
+ lassroom: 408\nFloor: 4\nGroup: 10\nUniID: 1452242
 LOCATION:408\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY

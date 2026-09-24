@@ -4400,8 +4400,8 @@ DTSTART:20260923T103000Z
 DTEND:20260923T120000Z
 UID:1429908@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 1\nFloor: 1\nLecturer: Andreya Kraseno
- va Kirilova\nGroup: 3\nUniID: 1429908
+ кционен блок\nClassroom: 1\nFloor: 1\nLecturer: Meral Ismail Ha
+ lil\nGroup: 3\nUniID: 1429908
 LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -7244,11 +7244,11 @@ BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20260921T063000Z
 DTEND:20260921T080000Z
-UID:1429766@muv.mihoff.de
+UID:1493842@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 1\nFloor: 1\nLecturer: Andreya Kraseno
- va Kirilova\nGroup: 5\nUniID: 1429766
-LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
+ кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
+ Marinova\nGroup: 5\, 6\nUniID: 1493842
+LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
@@ -8832,21 +8832,6 @@ DESCRIPTION:Activity: Excercise\nLecturer: Sindi Rumenova Ivanova\nGroup:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Pathology
-DTSTART:20260921T063000Z
-DTEND:20260921T080000Z
-UID:1429781@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
- Marinova\nGroup: 6\nUniID: 1429781
-LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: General Pathology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -12877,11 +12862,11 @@ BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20260921T100000Z
 DTEND:20260921T113000Z
-UID:1429811@muv.mihoff.de
+UID:1493843@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 1\nFloor: 1\nLecturer: Andreya Kraseno
- va Kirilova\nGroup: 9\nUniID: 1429811
-LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
+ кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
+ Marinova\nGroup: 9\, 10\nUniID: 1493843
+LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
@@ -14530,21 +14515,6 @@ LOCATION:306\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Pathology
-DTSTART:20260921T100000Z
-DTEND:20260921T113000Z
-UID:1429826@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
- Marinova\nGroup: 10\nUniID: 1429826
-LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: General Pathology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -23496,8 +23466,7 @@ DTSTART:20261002T050000Z
 DTEND:20261002T063000Z
 UID:1452269@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 408\nFloor: 4\nLecturer: Rositsa Hristova Chamova\nGroup: 16\nUn
- iID: 1452269
+ lassroom: 408\nFloor: 4\nGroup: 16\nUniID: 1452269
 LOCATION:408\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -29161,8 +29130,7 @@ DTSTART:20261002T063000Z
 DTEND:20261002T080000Z
 UID:1452297@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 413\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 20\n
- UniID: 1452297
+ lassroom: 413\nFloor: 4\nGroup: 20\nUniID: 1452297
 LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -31952,8 +31920,7 @@ DTSTART:20261002T063000Z
 DTEND:20261002T080000Z
 UID:1452311@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 408\nFloor: 4\nLecturer: Rositsa Hristova Chamova\nGroup: 22\nUn
- iID: 1452311
+ lassroom: 408\nFloor: 4\nGroup: 22\nUniID: 1452311
 LOCATION:408\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY

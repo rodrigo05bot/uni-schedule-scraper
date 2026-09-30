@@ -7819,11 +7819,11 @@ BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20260928T063000Z
 DTEND:20260928T080000Z
-UID:1429767@muv.mihoff.de
+UID:1494405@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 1\nFloor: 1\nLecturer: Andreya Kraseno
- va Kirilova\nGroup: 5\nUniID: 1429767
-LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
+ кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
+ Marinova\nGroup: 5\, 6\nUniID: 1494405
+LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
@@ -9492,21 +9492,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:General Pathology
-DTSTART:20260928T063000Z
-DTEND:20260928T080000Z
-UID:1429782@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
- Marinova\nGroup: 6\nUniID: 1429782
-LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: General Pathology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260928T103000Z
 DTEND:20260928T120000Z
@@ -10900,8 +10885,8 @@ DTSTART:20260928T063000Z
 DTEND:20260928T080000Z
 UID:1429797@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 2\nFloor: 1\nLecturer: Meral Ismail Ha
- lil\nGroup: 7\, 8\nUniID: 1429797
+ кционен блок\nClassroom: 2\nFloor: 1\nLecturer: Andreya Kraseno
+ va Kirilova\nGroup: 7\, 8\nUniID: 1429797
 LOCATION:2\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY

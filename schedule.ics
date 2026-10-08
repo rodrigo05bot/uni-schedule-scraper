@@ -220,10 +220,10 @@ DTSTART:20260925T081500Z
 DTEND:20260925T094500Z
 UID:1429935@muv.mihoff.de
 DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
- int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nLecturer: Nadezhd
- a Todorova Stefanova\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\,
-  12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 14
- 29935
+ int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nLecturer: Martina
+  Georgieva Stoeva\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12
+ \, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 14299
+ 35
 LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
  a" 
 BEGIN:VALARM
@@ -402,9 +402,10 @@ DTSTART:20261002T081500Z
 DTEND:20261002T094500Z
 UID:1429936@muv.mihoff.de
 DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
- int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nGroup: 1\, 2\, 3
- \, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19
- \, 20\, 21\, 22\, 23\, 24\nUniID: 1429936
+ int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nLecturer: Nadezhd
+ a Todorova Stefanova\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\,
+  12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 14
+ 29936
 LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
  a" 
 BEGIN:VALARM
@@ -35838,8 +35839,8 @@ DTSTART:20261002T050000Z
 DTEND:20261002T063000Z
 UID:1429922@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 1\nFloor: 1\nLecturer: Nikol Kirilova 
- Mircheva\nGroup: 23\nUniID: 1429922
+ кционен блок\nClassroom: 1\nFloor: 1\nLecturer: Andreya Kraseno
+ va Kirilova\nGroup: 23\nUniID: 1429922
 LOCATION:1\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -37616,8 +37617,8 @@ DTSTART:20261002T103000Z
 DTEND:20261002T120000Z
 UID:1429925@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Meral Ismail Ha
- lil\nGroup: 24\nUniID: 1429925
+ кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
+ Marinova\nGroup: 24\nUniID: 1429925
 LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY

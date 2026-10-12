@@ -7564,11 +7564,11 @@ BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20260928T103000Z
 DTEND:20260928T120000Z
-UID:1435433@muv.mihoff.de
+UID:1435475@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 802\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 5\nUniID: 143
- 5433
-LOCATION:802\, Regional Health Inspectorate
+ lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 5\, 8\nUniID: 1435475
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -7696,11 +7696,11 @@ BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261005T103000Z
 DTEND:20261005T120000Z
-UID:1435434@muv.mihoff.de
+UID:1435476@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 802\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 5\nUniID: 143
- 5434
-LOCATION:802\, Regional Health Inspectorate
+ lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 5\, 8\nUniID: 1435476
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -7841,11 +7841,11 @@ BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261012T103000Z
 DTEND:20261012T120000Z
-UID:1435435@muv.mihoff.de
+UID:1435477@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 802\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 5\nUniID: 143
- 5435
-LOCATION:802\, Regional Health Inspectorate
+ lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 5\, 8\nUniID: 1435477
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -7986,11 +7986,11 @@ BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261019T103000Z
 DTEND:20261019T120000Z
-UID:1435436@muv.mihoff.de
+UID:1435478@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 802\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 5\nUniID: 143
- 5436
-LOCATION:802\, Regional Health Inspectorate
+ lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 5\, 8\nUniID: 1435478
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -8131,11 +8131,11 @@ BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261026T113000Z
 DTEND:20261026T130000Z
-UID:1435437@muv.mihoff.de
+UID:1435479@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 802\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 5\nUniID: 143
- 5437
-LOCATION:802\, Regional Health Inspectorate
+ lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 5\, 8\nUniID: 1435479
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -8276,11 +8276,11 @@ BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261102T113000Z
 DTEND:20261102T130000Z
-UID:1435438@muv.mihoff.de
+UID:1435480@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 802\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 5\nUniID: 143
- 5438
-LOCATION:802\, Regional Health Inspectorate
+ lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 5\, 8\nUniID: 1435480
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -8419,11 +8419,11 @@ BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261109T113000Z
 DTEND:20261109T130000Z
-UID:1435439@muv.mihoff.de
+UID:1435481@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 802\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 5\nUniID: 143
- 5439
-LOCATION:802\, Regional Health Inspectorate
+ lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 5\, 8\nUniID: 1435481
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -8562,11 +8562,11 @@ BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261116T113000Z
 DTEND:20261116T130000Z
-UID:1435440@muv.mihoff.de
+UID:1435482@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 802\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 5\nUniID: 143
- 5440
-LOCATION:802\, Regional Health Inspectorate
+ lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 5\, 8\nUniID: 1435482
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -8705,11 +8705,11 @@ BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261123T113000Z
 DTEND:20261123T130000Z
-UID:1435441@muv.mihoff.de
+UID:1435483@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 802\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 5\nUniID: 143
- 5441
-LOCATION:802\, Regional Health Inspectorate
+ lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 5\, 8\nUniID: 1435483
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -8848,11 +8848,11 @@ BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261130T113000Z
 DTEND:20261130T130000Z
-UID:1435442@muv.mihoff.de
+UID:1435484@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 802\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 5\nUniID: 143
- 5442
-LOCATION:802\, Regional Health Inspectorate
+ lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 5\, 8\nUniID: 1435484
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -8991,11 +8991,11 @@ BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261207T113000Z
 DTEND:20261207T130000Z
-UID:1435443@muv.mihoff.de
+UID:1435485@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 802\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 5\nUniID: 143
- 5443
-LOCATION:802\, Regional Health Inspectorate
+ lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 5\, 8\nUniID: 1435485
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -9088,11 +9088,11 @@ BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261214T113000Z
 DTEND:20261214T130000Z
-UID:1435444@muv.mihoff.de
+UID:1435486@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 802\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 5\nUniID: 143
- 5444
-LOCATION:802\, Regional Health Inspectorate
+ lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 5\, 8\nUniID: 1435486
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -9231,11 +9231,11 @@ BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261221T113000Z
 DTEND:20261221T130000Z
-UID:1435445@muv.mihoff.de
+UID:1435487@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 802\nFloor: 8\nLecturer: Denis Sunay Niazi\nGroup: 5\nUniID: 143
- 5445
-LOCATION:802\, Regional Health Inspectorate
+ lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
+ p: 5\, 8\nUniID: 1435487
+LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Microbiology
@@ -12418,21 +12418,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Microbiology
-DTSTART:20260928T103000Z
-DTEND:20260928T120000Z
-UID:1435475@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
- p: 8\nUniID: 1435475
-LOCATION:806\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Microbiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Medical Ethics
 DTSTART:20260929T063000Z
 DTEND:20260929T080000Z
@@ -12499,21 +12484,6 @@ DESCRIPTION:Activity: Excercise\nLecturer: Mariya Stankova Vernova\nGroup:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Microbiology
-DTSTART:20261005T103000Z
-DTEND:20261005T120000Z
-UID:1435476@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
- p: 8\nUniID: 1435476
-LOCATION:806\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Microbiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -12601,21 +12571,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Microbiology
-DTSTART:20261012T103000Z
-DTEND:20261012T120000Z
-UID:1435477@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
- p: 8\nUniID: 1435477
-LOCATION:806\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Microbiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Medical Ethics
 DTSTART:20261013T063000Z
 DTEND:20261013T080000Z
@@ -12695,21 +12650,6 @@ DESCRIPTION:Activity: Excercise\nLecturer: Mariya Stankova Vernova\nGroup:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Microbiology
-DTSTART:20261019T103000Z
-DTEND:20261019T120000Z
-UID:1435478@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
- p: 8\nUniID: 1435478
-LOCATION:806\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Microbiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -12797,21 +12737,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Microbiology
-DTSTART:20261026T113000Z
-DTEND:20261026T130000Z
-UID:1435479@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
- p: 8\nUniID: 1435479
-LOCATION:806\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Microbiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Medical Ethics
 DTSTART:20261027T073000Z
 DTEND:20261027T090000Z
@@ -12891,21 +12816,6 @@ DESCRIPTION:Activity: Excercise\nLecturer: Mariya Stankova Vernova\nGroup:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Microbiology
-DTSTART:20261102T113000Z
-DTEND:20261102T130000Z
-UID:1435480@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
- p: 8\nUniID: 1435480
-LOCATION:806\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Microbiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -12991,21 +12901,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Microbiology
-DTSTART:20261109T113000Z
-DTEND:20261109T130000Z
-UID:1435481@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
- p: 8\nUniID: 1435481
-LOCATION:806\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Microbiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Medical Psychology
 DTSTART:20261110T073000Z
 DTEND:20261110T090000Z
@@ -13083,21 +12978,6 @@ DESCRIPTION:Activity: Excercise\nLecturer: Mariya Stankova Vernova\nGroup:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Microbiology
-DTSTART:20261116T113000Z
-DTEND:20261116T130000Z
-UID:1435482@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
- p: 8\nUniID: 1435482
-LOCATION:806\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Microbiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -13183,21 +13063,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Microbiology
-DTSTART:20261123T113000Z
-DTEND:20261123T130000Z
-UID:1435483@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
- p: 8\nUniID: 1435483
-LOCATION:806\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Microbiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Medical Psychology
 DTSTART:20261124T073000Z
 DTEND:20261124T090000Z
@@ -13275,21 +13140,6 @@ DESCRIPTION:Activity: Excercise\nLecturer: Mariya Stankova Vernova\nGroup:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Microbiology
-DTSTART:20261130T113000Z
-DTEND:20261130T130000Z
-UID:1435484@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
- p: 8\nUniID: 1435484
-LOCATION:806\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Microbiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -13375,21 +13225,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Microbiology
-DTSTART:20261207T113000Z
-DTEND:20261207T130000Z
-UID:1435485@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
- p: 8\nUniID: 1435485
-LOCATION:806\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Microbiology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pathophysiology
 DTSTART:20261209T074500Z
 DTEND:20261209T091500Z
@@ -13439,21 +13274,6 @@ DESCRIPTION:Activity: Excercise\nLecturer: Mariya Stankova Vernova\nGroup:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Microbiology
-DTSTART:20261214T113000Z
-DTEND:20261214T130000Z
-UID:1435486@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
- p: 8\nUniID: 1435486
-LOCATION:806\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Microbiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -13535,21 +13355,6 @@ DESCRIPTION:Activity: Excercise\nLecturer: Mariya Stankova Vernova\nGroup:
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Microbiology
-DTSTART:20261221T113000Z
-DTEND:20261221T130000Z
-UID:1435487@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 806\nFloor: 8\nLecturer: Zhivka Stoykova Demireva-Kalcheva\nGrou
- p: 8\nUniID: 1435487
-LOCATION:806\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Microbiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

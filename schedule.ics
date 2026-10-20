@@ -526,9 +526,10 @@ DTSTART:20261016T081500Z
 DTEND:20261016T094500Z
 UID:1429595@muv.mihoff.de
 DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
- int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nGroup: 1\, 2\, 3
- \, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19
- \, 20\, 21\, 22\, 23\, 24\nUniID: 1429595
+ int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nLecturer: Nadezhd
+ a Todorova Stefanova\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\,
+  12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 14
+ 29595
 LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
  a" 
 BEGIN:VALARM

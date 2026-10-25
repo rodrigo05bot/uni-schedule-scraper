@@ -396,7 +396,7 @@ DTEND:20261014T100000Z
 UID:1435705@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
- up: 10\nUniID: 1435705
+ up: 10\, 18\nUniID: 1435705
 LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -509,7 +509,7 @@ DTEND:20261021T100000Z
 UID:1435706@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
- up: 10\nUniID: 1435706
+ up: 10\, 18\nUniID: 1435706
 LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -622,7 +622,7 @@ DTEND:20261028T110000Z
 UID:1435707@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
- up: 10\nUniID: 1435707
+ up: 10\, 18\nUniID: 1435707
 LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -748,7 +748,7 @@ DTEND:20261104T110000Z
 UID:1435708@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
- up: 10\nUniID: 1435708
+ up: 10\, 18\nUniID: 1435708
 LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -859,7 +859,7 @@ DTEND:20261111T110000Z
 UID:1435709@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
- up: 10\nUniID: 1435709
+ up: 10\, 18\nUniID: 1435709
 LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -970,7 +970,7 @@ DTEND:20261118T110000Z
 UID:1435710@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
- up: 10\nUniID: 1435710
+ up: 10\, 18\nUniID: 1435710
 LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1081,7 +1081,7 @@ DTEND:20261125T110000Z
 UID:1435711@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
- up: 10\nUniID: 1435711
+ up: 10\, 18\nUniID: 1435711
 LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1192,7 +1192,7 @@ DTEND:20261202T110000Z
 UID:1435712@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
- up: 10\nUniID: 1435712
+ up: 10\, 18\nUniID: 1435712
 LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1276,7 +1276,7 @@ DTEND:20261209T110000Z
 UID:1435713@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
- up: 10\nUniID: 1435713
+ up: 10\, 18\nUniID: 1435713
 LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1387,7 +1387,7 @@ DTEND:20261216T110000Z
 UID:1435714@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
- up: 10\nUniID: 1435714
+ up: 10\, 18\nUniID: 1435714
 LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1485,7 +1485,7 @@ DTEND:20261223T110000Z
 UID:1435715@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
  lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
- up: 10\nUniID: 1435715
+ up: 10\, 18\nUniID: 1435715
 LOCATION:806\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY

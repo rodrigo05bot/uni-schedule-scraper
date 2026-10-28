@@ -5594,8 +5594,8 @@ DTSTART:20261029T134500Z
 DTEND:20261029T151500Z
 UID:1489322@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 410\nFloor: 4\nLecturer: Dimitar Borisov Marinov\nGroup: 4\nUniI
- D: 1489322
+ lassroom: 410\nFloor: 4\nLecturer: Veselin Petev Petkov\nGroup: 4\nUniID: 
+ 1489322
 LOCATION:410\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -15878,8 +15878,8 @@ DTSTART:20261029T093000Z
 DTEND:20261029T110000Z
 UID:1452181@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 408\nFloor: 4\nLecturer: Dimitar Borisov Marinov\nGroup: 12\nUni
- ID: 1452181
+ lassroom: 408\nFloor: 4\nLecturer: Todor Kirilov Todorov\nGroup: 12\nUniID
+ : 1452181
 LOCATION:408\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY

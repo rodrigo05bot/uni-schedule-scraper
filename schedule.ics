@@ -71,8 +71,8 @@ DTSTART:20261013T123000Z
 DTEND:20261013T140000Z
 UID:1452153@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 404\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 1\nU
- niID: 1452153
+ lassroom: 404\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 1\nUniID
+ : 1452153
 LOCATION:404\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -346,8 +346,8 @@ DTSTART:20261020T123000Z
 DTEND:20261020T140000Z
 UID:1452154@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 404\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 1\nU
- niID: 1452154
+ lassroom: 404\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 1\nUniID
+ : 1452154
 LOCATION:404\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -606,8 +606,8 @@ DTSTART:20261027T133000Z
 DTEND:20261027T150000Z
 UID:1452155@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 404\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 1\nU
- niID: 1452155
+ lassroom: 404\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 1\nUniID
+ : 1452155
 LOCATION:404\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -878,8 +878,8 @@ DTSTART:20261103T133000Z
 DTEND:20261103T150000Z
 UID:1452156@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 404\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 1\nU
- niID: 1452156
+ lassroom: 404\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 1\nUniID
+ : 1452156
 LOCATION:404\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1416,8 +1416,8 @@ DTSTART:20261117T133000Z
 DTEND:20261117T150000Z
 UID:1452158@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 404\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 1\nU
- niID: 1452158
+ lassroom: 404\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 1\nUniID
+ : 1452158
 LOCATION:404\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1684,8 +1684,8 @@ DTSTART:20261124T133000Z
 DTEND:20261124T150000Z
 UID:1452159@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 404\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 1\nU
- niID: 1452159
+ lassroom: 404\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 1\nUniID
+ : 1452159
 LOCATION:404\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1953,8 +1953,8 @@ DTSTART:20261201T133000Z
 DTEND:20261201T150000Z
 UID:1452160@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 404\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 1\nU
- niID: 1452160
+ lassroom: 404\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 1\nUniID
+ : 1452160
 LOCATION:404\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2460,8 +2460,8 @@ DTSTART:20261215T133000Z
 DTEND:20261215T150000Z
 UID:1452161@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 404\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 1\nU
- niID: 1452161
+ lassroom: 404\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 1\nUniID
+ : 1452161
 LOCATION:404\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2701,8 +2701,8 @@ DTSTART:20261222T133000Z
 DTEND:20261222T150000Z
 UID:1452162@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 404\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 1\nU
- niID: 1452162
+ lassroom: 404\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 1\nUniID
+ : 1452162
 LOCATION:404\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -10619,8 +10619,8 @@ DTSTART:20261013T101500Z
 DTEND:20261013T114500Z
 UID:1452114@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 414\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 8\nU
- niID: 1452114
+ lassroom: 414\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 8\nUniID
+ : 1452114
 LOCATION:414\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -10702,8 +10702,8 @@ DTSTART:20261020T101500Z
 DTEND:20261020T114500Z
 UID:1452115@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 414\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 8\nU
- niID: 1452115
+ lassroom: 414\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 8\nUniID
+ : 1452115
 LOCATION:414\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -10785,8 +10785,8 @@ DTSTART:20261027T111500Z
 DTEND:20261027T124500Z
 UID:1452116@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 414\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 8\nU
- niID: 1452116
+ lassroom: 414\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 8\nUniID
+ : 1452116
 LOCATION:414\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -10866,8 +10866,8 @@ DTSTART:20261103T111500Z
 DTEND:20261103T124500Z
 UID:1452117@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 414\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 8\nU
- niID: 1452117
+ lassroom: 414\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 8\nUniID
+ : 1452117
 LOCATION:414\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -10947,8 +10947,8 @@ DTSTART:20261110T111500Z
 DTEND:20261110T124500Z
 UID:1452118@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 414\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 8\nU
- niID: 1452118
+ lassroom: 414\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 8\nUniID
+ : 1452118
 LOCATION:414\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -11028,8 +11028,8 @@ DTSTART:20261117T111500Z
 DTEND:20261117T124500Z
 UID:1452119@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 414\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 8\nU
- niID: 1452119
+ lassroom: 414\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 8\nUniID
+ : 1452119
 LOCATION:414\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -11109,8 +11109,8 @@ DTSTART:20261124T111500Z
 DTEND:20261124T124500Z
 UID:1452120@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 414\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 8\nU
- niID: 1452120
+ lassroom: 414\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 8\nUniID
+ : 1452120
 LOCATION:414\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -11190,8 +11190,8 @@ DTSTART:20261201T111500Z
 DTEND:20261201T124500Z
 UID:1452121@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 414\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 8\nU
- niID: 1452121
+ lassroom: 414\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 8\nUniID
+ : 1452121
 LOCATION:414\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -11324,8 +11324,8 @@ DTSTART:20261215T111500Z
 DTEND:20261215T124500Z
 UID:1452122@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 414\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 8\nU
- niID: 1452122
+ lassroom: 414\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 8\nUniID
+ : 1452122
 LOCATION:414\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -11392,8 +11392,8 @@ DTSTART:20261222T111500Z
 DTEND:20261222T124500Z
 UID:1452123@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 414\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 8\nU
- niID: 1452123
+ lassroom: 414\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 8\nUniID
+ : 1452123
 LOCATION:414\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -25923,8 +25923,8 @@ DTSTART:20261016T063000Z
 DTEND:20261016T080000Z
 UID:1452299@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 413\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 20\n
- UniID: 1452299
+ lassroom: 413\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 20\nUniI
+ D: 1452299
 LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -26021,8 +26021,8 @@ DTSTART:20261023T063000Z
 DTEND:20261023T080000Z
 UID:1452300@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 413\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 20\n
- UniID: 1452300
+ lassroom: 413\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 20\nUniI
+ D: 1452300
 LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -26119,8 +26119,8 @@ DTSTART:20261030T073000Z
 DTEND:20261030T090000Z
 UID:1452301@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 413\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 20\n
- UniID: 1452301
+ lassroom: 413\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 20\nUniI
+ D: 1452301
 LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -26215,8 +26215,8 @@ DTSTART:20261106T073000Z
 DTEND:20261106T090000Z
 UID:1452302@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 413\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 20\n
- UniID: 1452302
+ lassroom: 413\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 20\nUniI
+ D: 1452302
 LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -26311,8 +26311,8 @@ DTSTART:20261113T073000Z
 DTEND:20261113T090000Z
 UID:1452303@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 413\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 20\n
- UniID: 1452303
+ lassroom: 413\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 20\nUniI
+ D: 1452303
 LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -26407,8 +26407,8 @@ DTSTART:20261120T073000Z
 DTEND:20261120T090000Z
 UID:1452304@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 413\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 20\n
- UniID: 1452304
+ lassroom: 413\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 20\nUniI
+ D: 1452304
 LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -26503,8 +26503,8 @@ DTSTART:20261127T073000Z
 DTEND:20261127T090000Z
 UID:1452305@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 413\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 20\n
- UniID: 1452305
+ lassroom: 413\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 20\nUniI
+ D: 1452305
 LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -26599,8 +26599,8 @@ DTSTART:20261204T073000Z
 DTEND:20261204T090000Z
 UID:1452306@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 413\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 20\n
- UniID: 1452306
+ lassroom: 413\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 20\nUniI
+ D: 1452306
 LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -26682,8 +26682,8 @@ DTSTART:20261211T073000Z
 DTEND:20261211T090000Z
 UID:1452307@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 413\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 20\n
- UniID: 1452307
+ lassroom: 413\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 20\nUniI
+ D: 1452307
 LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -26778,8 +26778,8 @@ DTSTART:20261218T073000Z
 DTEND:20261218T090000Z
 UID:1452308@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 413\nFloor: 4\nLecturer: Ekaterina Ivanova Valcheva\nGroup: 20\n
- UniID: 1452308
+ lassroom: 413\nFloor: 4\nLecturer: Mina Ivelinova Ivanova\nGroup: 20\nUniI
+ D: 1452308
 LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY

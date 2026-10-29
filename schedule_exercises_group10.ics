@@ -108,23 +108,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261102T130000Z
-DTEND:20261102T143000Z
-UID:1478128@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Medical College\nClassroom: Hal
- l B\nFloor: 4\nLecturer: Valentina Tihomirova Simeonova\nGroup: 9\, 10\nUn
- iID: 1478128
-LOCATION:Hall B\, Medical College
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Терминология и комуникация 
- в медицинската практика eng
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Терминология и комуникация в медици
- нската практика eng
 DTSTART:20261103T113000Z
 DTEND:20261103T130000Z
 UID:1460838@muv.mihoff.de
@@ -696,21 +679,6 @@ LOCATION:306\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Medical Ethics
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Pathology
-DTSTART:20261102T110000Z
-DTEND:20261102T123000Z
-UID:1429832@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: „СВ. МАРИНА“ - Се
- кционен блок\nClassroom: 3\nFloor: 1\nLecturer: Anita Antonova 
- Dimitrova\nGroup: 10\nUniID: 1429832
-LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: General Pathology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

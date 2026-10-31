@@ -20755,21 +20755,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hygiene and Ecology
-DTSTART:20261106T060000Z
-DTEND:20261106T073000Z
-UID:1452274@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 408\nFloor: 4\nLecturer: Mariya Ognyanova Dzhogova\nGroup: 16\nU
- niID: 1452274
-LOCATION:408\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Hygiene and Ecology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pathophysiology
 DTSTART:20261106T113000Z
 DTEND:20261106T130000Z
@@ -20780,6 +20765,21 @@ LOCATION:104\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hygiene and Ecology
+DTSTART:20261106T131500Z
+DTEND:20261106T144500Z
+UID:1452274@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
+ lassroom: 413\nFloor: 4\nLecturer: Veselin Petev Petkov\nGroup: 16\nUniID:
+  1452274
+LOCATION:413\, Regional Health Inspectorate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Hygiene and Ecology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -28131,13 +28131,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hygiene and Ecology
-DTSTART:20261106T073000Z
-DTEND:20261106T090000Z
+DTSTART:20261106T150000Z
+DTEND:20261106T163000Z
 UID:1452316@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 408\nFloor: 4\nLecturer: Mariya Ognyanova Dzhogova\nGroup: 22\nU
- niID: 1452316
-LOCATION:408\, Regional Health Inspectorate
+ lassroom: 413\nFloor: 4\nLecturer: Veselin Petev Petkov\nGroup: 22\nUniID:
+  1452316
+LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology

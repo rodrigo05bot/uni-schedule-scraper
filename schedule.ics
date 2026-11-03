@@ -18536,12 +18536,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pathophysiology
-DTSTART:20261030T113000Z
-DTEND:20261030T130000Z
+DTSTART:20261030T073000Z
+DTEND:20261030T090000Z
 UID:1486189@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
- Floor: 1\nLecturer: Hristo Tonchev Papanchev\nGroup: 16\nUniID: 1486189
-LOCATION:104\, Main Building
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 401\n
+ Floor: 4\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 16\nUniID: 148618
+ 9
+LOCATION:401\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Pathophysiology

@@ -496,9 +496,10 @@ DTSTART:20261030T091500Z
 DTEND:20261030T104500Z
 UID:1429597@muv.mihoff.de
 DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
- int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nGroup: 1\, 2\, 3
- \, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19
- \, 20\, 21\, 22\, 23\, 24\nUniID: 1429597
+ int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nLecturer: Nadezhd
+ a Todorova Stefanova\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\,
+  12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 14
+ 29597
 LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
  a" 
 BEGIN:VALARM
@@ -12687,10 +12688,8 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261104T133000Z
 DTEND:20261104T150000Z
 UID:1460880@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  Hall 105\nFloor: 1\nLecturer: Katerina Yordanova Peneva\nGroup: 11\, 12\n
- UniID: 1460880
-LOCATION:Hall 105\, Faculty of Pharmacy
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460880
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -12832,10 +12831,8 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261111T133000Z
 DTEND:20261111T150000Z
 UID:1460881@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  Hall 105\nFloor: 1\nLecturer: Katerina Yordanova Peneva\nGroup: 11\, 12\n
- UniID: 1460881
-LOCATION:Hall 105\, Faculty of Pharmacy
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460881
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -12977,10 +12974,8 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261118T133000Z
 DTEND:20261118T150000Z
 UID:1460882@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  Hall 105\nFloor: 1\nLecturer: Katerina Yordanova Peneva\nGroup: 11\, 12\n
- UniID: 1460882
-LOCATION:Hall 105\, Faculty of Pharmacy
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460882
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -13122,10 +13117,8 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261125T133000Z
 DTEND:20261125T150000Z
 UID:1460883@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  Hall 105\nFloor: 1\nLecturer: Katerina Yordanova Peneva\nGroup: 11\, 12\n
- UniID: 1460883
-LOCATION:Hall 105\, Faculty of Pharmacy
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460883
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -13267,10 +13260,8 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261202T133000Z
 DTEND:20261202T150000Z
 UID:1460884@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  Hall 105\nFloor: 1\nLecturer: Katerina Yordanova Peneva\nGroup: 11\, 12\n
- UniID: 1460884
-LOCATION:Hall 105\, Faculty of Pharmacy
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460884
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -13370,10 +13361,8 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261209T133000Z
 DTEND:20261209T150000Z
 UID:1460885@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  Hall 105\nFloor: 1\nLecturer: Katerina Yordanova Peneva\nGroup: 11\, 12\n
- UniID: 1460885
-LOCATION:Hall 105\, Faculty of Pharmacy
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460885
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -13515,10 +13504,8 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261216T133000Z
 DTEND:20261216T150000Z
 UID:1460886@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  Hall 105\nFloor: 1\nLecturer: Katerina Yordanova Peneva\nGroup: 11\, 12\n
- UniID: 1460886
-LOCATION:Hall 105\, Faculty of Pharmacy
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460886
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -13647,10 +13634,8 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261223T133000Z
 DTEND:20261223T150000Z
 UID:1460887@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Pharmacy\nClassroom:
-  Hall 105\nFloor: 1\nLecturer: Katerina Yordanova Peneva\nGroup: 11\, 12\n
- UniID: 1460887
-LOCATION:Hall 105\, Faculty of Pharmacy
+DESCRIPTION:Activity: Excercise\nLecturer: Katerina Yordanova Peneva\nGrou
+ p: 11\, 12\nUniID: 1460887
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 

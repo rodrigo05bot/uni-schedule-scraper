@@ -249,9 +249,10 @@ DTSTART:20261030T091500Z
 DTEND:20261030T104500Z
 UID:1429597@muv.mihoff.de
 DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
- int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nGroup: 1\, 2\, 3
- \, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19
- \, 20\, 21\, 22\, 23\, 24\nUniID: 1429597
+ int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nLecturer: Nadezhd
+ a Todorova Stefanova\nGroup: 1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\,
+  12\, 13\, 14\, 15\, 16\, 17\, 18\, 19\, 20\, 21\, 22\, 23\, 24\nUniID: 14
+ 29597
 LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
  a" 
 BEGIN:VALARM

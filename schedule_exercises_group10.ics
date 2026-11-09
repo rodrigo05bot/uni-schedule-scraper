@@ -681,32 +681,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Propaedeutics of Internal Medicine
-DTSTART:20261120T060000Z
-DTEND:20261120T090000Z
-UID:1477323@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: YAnitsa Milkova Dimitrova\nGrou
- p: 10\nUniID: 1477323
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General and Operative Surgery
-DTSTART:20261120T110000Z
-DTEND:20261120T131500Z
-UID:1484546@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Dilyan Svilenov Chaushev\nGroup
- : 10\nUniID: 1484546
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: General and Operative Surgery
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:General Pathology
 DTSTART:20261123T110000Z
 DTEND:20261123T123000Z
@@ -940,21 +914,6 @@ LOCATION:3\, „СВ. МАРИНА“ - Секционен блок
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: General Pathology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Microbiology
-DTSTART:20261209T093000Z
-DTEND:20261209T110000Z
-UID:1435713@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 806\nFloor: 8\nLecturer: Denitsa Todorova Tsaneva-Damyanova\nGro
- up: 10\, 18\nUniID: 1435713
-LOCATION:806\, Regional Health Inspectorate
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Microbiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

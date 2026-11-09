@@ -461,23 +461,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:General Pathology
-DTSTART:20261120T091500Z
-DTEND:20261120T104500Z
-UID:1429600@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nBuilding: Hospital for Active Treatment "Sa
- int Marina" \nClassroom: Aud. Vladimir Ivanov\nFloor: 1\nGroup: 1\, 2\, 3
- \, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\, 13\, 14\, 15\, 16\, 17\, 18\, 19
- \, 20\, 21\, 22\, 23\, 24\nUniID: 1429600
-LOCATION:Aud. Vladimir Ivanov\, Hospital for Active Treatment "Saint Marin
- a" 
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: General Pathology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Medical Psychology
 DTSTART:20261123T054500Z
 DTEND:20261123T071500Z
@@ -754,19 +737,6 @@ LOCATION:Аuditorium A\, Hospital for Active Treatment "Saint Marina"
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Propaedeutics of Internal Medicine
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General and Operative Surgery
-DTSTART:20261209T060000Z
-DTEND:20261209T073000Z
-UID:1484028@muv.mihoff.de
-DESCRIPTION:Activity: Lecture\nLecturer: Vasil Markov Bozhkov\nGroup: 1\, 
- 2\, 3\, 4\, 5\, 6\, 7\, 8\, 9\, 10\, 11\, 12\nUniID: 1484028
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: General and Operative Surgery
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

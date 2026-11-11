@@ -959,8 +959,9 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261119T134500Z
 DTEND:20261119T151500Z
 UID:1460949@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Boyana Angelova Angelova\nGroup
- : 1\, 2\nUniID: 1460949
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2\nUniID: 1460949
+LOCATION:431\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -1451,8 +1452,9 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261203T134500Z
 DTEND:20261203T151500Z
 UID:1460951@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Boyana Angelova Angelova\nGroup
- : 1\, 2\nUniID: 1460951
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2\nUniID: 1460951
+LOCATION:431\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -1899,8 +1901,9 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261217T134500Z
 DTEND:20261217T151500Z
 UID:1460953@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Boyana Angelova Angelova\nGroup
- : 1\, 2\nUniID: 1460953
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
+ Floor: 4\nLecturer: Boyana Angelova Angelova\nGroup: 1\, 2\nUniID: 1460953
+LOCATION:431\, Main Building
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -7127,8 +7130,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261112T134500Z
 DTEND:20261112T151500Z
 UID:1460815@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Daniela Hristova Ivanova\nGroup
- : 7\, 8\nUniID: 1460815
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
+ ssroom: Hall 111\nFloor: 1\nLecturer: Daniela Hristova Ivanova\nGroup: 7\,
+  8\nUniID: 1460815
+LOCATION:Hall 111\, Faculty of Dental Medicine
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -7269,9 +7274,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261119T134500Z
 DTEND:20261119T151500Z
 UID:1460816@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Daniela Hristova Ivanova\nGroup: 7\, 8\nUniID: 1460816
-LOCATION:431\, Main Building
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
+ ssroom: Hall 111\nFloor: 1\nLecturer: Daniela Hristova Ivanova\nGroup: 7\,
+  8\nUniID: 1460816
+LOCATION:Hall 111\, Faculty of Dental Medicine
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -7385,8 +7391,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261126T134500Z
 DTEND:20261126T151500Z
 UID:1460817@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Daniela Hristova Ivanova\nGroup
- : 7\, 8\nUniID: 1460817
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
+ ssroom: Hall 111\nFloor: 1\nLecturer: Daniela Hristova Ivanova\nGroup: 7\,
+  8\nUniID: 1460817
+LOCATION:Hall 111\, Faculty of Dental Medicine
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -7527,9 +7535,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261203T134500Z
 DTEND:20261203T151500Z
 UID:1460818@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Daniela Hristova Ivanova\nGroup: 7\, 8\nUniID: 1460818
-LOCATION:431\, Main Building
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
+ ssroom: Hall 111\nFloor: 1\nLecturer: Daniela Hristova Ivanova\nGroup: 7\,
+  8\nUniID: 1460818
+LOCATION:Hall 111\, Faculty of Dental Medicine
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -7629,8 +7638,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261210T134500Z
 DTEND:20261210T151500Z
 UID:1460819@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nLecturer: Daniela Hristova Ivanova\nGroup
- : 7\, 8\nUniID: 1460819
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
+ ssroom: Hall 111\nFloor: 1\nLecturer: Daniela Hristova Ivanova\nGroup: 7\,
+  8\nUniID: 1460819
+LOCATION:Hall 111\, Faculty of Dental Medicine
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -7771,9 +7782,10 @@ SUMMARY:Терминология и комуникация в медици
 DTSTART:20261217T134500Z
 DTEND:20261217T151500Z
 UID:1487867@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 431\n
- Floor: 4\nLecturer: Daniela Hristova Ivanova\nGroup: 7\, 8\nUniID: 1487867
-LOCATION:431\, Main Building
+DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
+ ssroom: Hall 111\nFloor: 1\nLecturer: Daniela Hristova Ivanova\nGroup: 7\,
+  8\nUniID: 1487867
+LOCATION:Hall 111\, Faculty of Dental Medicine
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Терминология и комуникация 
@@ -14781,8 +14793,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261112T150000Z
-DTEND:20261112T163000Z
+DTSTART:20261112T151500Z
+DTEND:20261112T164500Z
 UID:1486810@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
  ssroom: Hall 111\nFloor: 1\nLecturer: Yordan Rumenov Rachev \nGroup: 15\, 
@@ -14926,8 +14938,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261119T150000Z
-DTEND:20261119T163000Z
+DTSTART:20261119T151500Z
+DTEND:20261119T164500Z
 UID:1486811@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
  ssroom: Hall 111\nFloor: 1\nLecturer: Yordan Rumenov Rachev \nGroup: 15\, 
@@ -15041,8 +15053,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261126T150000Z
-DTEND:20261126T163000Z
+DTSTART:20261126T151500Z
+DTEND:20261126T164500Z
 UID:1486812@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
  ssroom: Hall 111\nFloor: 1\nLecturer: Yordan Rumenov Rachev \nGroup: 15\, 
@@ -15186,8 +15198,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261203T150000Z
-DTEND:20261203T163000Z
+DTSTART:20261203T151500Z
+DTEND:20261203T164500Z
 UID:1486813@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
  ssroom: Hall 111\nFloor: 1\nLecturer: Yordan Rumenov Rachev \nGroup: 15\, 
@@ -15277,8 +15289,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261210T150000Z
-DTEND:20261210T163000Z
+DTSTART:20261210T151500Z
+DTEND:20261210T164500Z
 UID:1486814@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
  ssroom: Hall 111\nFloor: 1\nLecturer: Yordan Rumenov Rachev \nGroup: 15\, 
@@ -15422,8 +15434,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
-DTSTART:20261217T150000Z
-DTEND:20261217T163000Z
+DTSTART:20261217T151500Z
+DTEND:20261217T164500Z
 UID:1486815@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Faculty of Dental Medicine\nCla
  ssroom: Hall 111\nFloor: 1\nLecturer: Yordan Rumenov Rachev \nGroup: 15\, 

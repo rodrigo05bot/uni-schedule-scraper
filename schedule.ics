@@ -2026,6 +2026,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261211T110000Z
+DTEND:20261211T123000Z
+UID:1498124@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 2\nUniID: 1498124
+LOCATION:502\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microbiology
 DTSTART:20261211T124500Z
 DTEND:20261211T141500Z
@@ -11712,6 +11726,21 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261210T134500Z
+DTEND:20261210T151500Z
+UID:1486183@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 331\n
+ Floor: 3\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 15\nUniID: 148618
+ 3
+LOCATION:331\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Терминология и комуникация в медици
  нската практика eng
 DTSTART:20261210T151500Z
@@ -11740,21 +11769,6 @@ LOCATION:410\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pathophysiology
-DTSTART:20261211T113000Z
-DTEND:20261211T130000Z
-UID:1486183@muv.mihoff.de
-DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
- Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 15\nUniID: 148618
- 3
-LOCATION:502\, Main Building
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pathophysiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -14991,6 +15005,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pathophysiology
+DTSTART:20261119T151500Z
+DTEND:20261119T164500Z
+UID:1498114@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 104\n
+ Floor: 1\nLecturer: Hristo Tonchev Papanchev\nGroup: 20\nUniID: 1498114
+LOCATION:104\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
 DTSTART:20261123T113000Z
 DTEND:20261123T130000Z
 UID:1485913@muv.mihoff.de
@@ -16659,6 +16687,21 @@ LOCATION:408\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Hygiene and Ecology
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pathophysiology
+DTSTART:20261211T131500Z
+DTEND:20261211T144500Z
+UID:1498125@muv.mihoff.de
+DESCRIPTION:Activity: Excercise\nBuilding: Main Building\nClassroom: 502\n
+ Floor: 5\nLecturer: Diyana Asparuhova Kjuchukova\nGroup: 22\nUniID: 149812
+ 5
+LOCATION:502\, Main Building
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pathophysiology
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

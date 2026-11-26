@@ -4876,8 +4876,8 @@ DTSTART:20261124T111500Z
 DTEND:20261124T124500Z
 UID:1452094@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 408\nFloor: 4\nLecturer: Stanislava Emilova Hadzhieva\nGroup: 6
- \nUniID: 1452094
+ lassroom: 408\nFloor: 4\nLecturer: Veselin Petev Petkov\nGroup: 6\nUniID: 
+ 1452094
 LOCATION:408\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -10036,7 +10036,7 @@ DTSTART:20261126T093000Z
 DTEND:20261126T110000Z
 UID:1452198@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 413\nFloor: 4\nLecturer: Rozalina Stefanova Braykova\nGroup: 13
+ lassroom: 413\nFloor: 4\nLecturer: Anna Dragomirova Kozhuharova\nGroup: 13
  \nUniID: 1452198
 LOCATION:413\, Regional Health Inspectorate
 BEGIN:VALARM
@@ -10820,8 +10820,8 @@ DTSTART:20261126T093000Z
 DTEND:20261126T110000Z
 UID:1452211@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 414\nFloor: 4\nLecturer: Stanislava Emilova Hadzhieva\nGroup: 14
- \nUniID: 1452211
+ lassroom: 414\nFloor: 4\nLecturer: Todor Kirilov Todorov\nGroup: 14\nUniID
+ : 1452211
 LOCATION:414\, Regional Health Inspectorate
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -17264,7 +17264,7 @@ DTSTART:20261127T073000Z
 DTEND:20261127T090000Z
 UID:1452333@muv.mihoff.de
 DESCRIPTION:Activity: Excercise\nBuilding: Regional Health Inspectorate\nC
- lassroom: 414\nFloor: 4\nLecturer: Anna Dragomirova Kozhuharova\nGroup: 23
+ lassroom: 414\nFloor: 4\nLecturer: Rozalina Stefanova Braykova\nGroup: 23
  \nUniID: 1452333
 LOCATION:414\, Regional Health Inspectorate
 BEGIN:VALARM
